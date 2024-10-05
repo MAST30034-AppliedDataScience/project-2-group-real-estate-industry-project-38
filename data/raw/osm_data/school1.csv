@@ -1,0 +1,2302 @@
+id,lat,lon,amenity,name
+1,-38.61771,146.6666,Primary,Alberton Primary School
+3,-38.38628,142.59039,Primary,Allansford and District Primary School
+4,-37.0845,143.47565,Primary,Avoca Primary School
+8,-36.90137,145.23472,Primary,Avenel Primary School
+12,-37.74268,145.21398,Primary,Warrandyte Primary School
+26,-38.17067,144.3421,Primary,Belmont Primary School
+28,-37.67303,144.44312,Primary,Bacchus Marsh Primary School
+33,-37.56401,143.85394,Primary,Ballarat Primary School (Dana Street)
+37,-36.12921,146.88982,Primary,Wodonga Primary School
+40,-38.04409,145.35442,Primary,Berwick Primary School
+60,-37.43852,143.38172,Primary,Beaufort Primary School
+84,-37.96861,145.05463,Primary,Cheltenham Primary School
+105,-38.34794,142.65084,Primary,Cudgee Primary School
+113,-37.83842,144.87834,Primary,Newport Lakes Primary School
+116,-37.53087,142.03989,Primary,Cavendish Primary School
+117,-38.33722,143.59834,Primary,Colac Primary School
+119,-37.0666,144.22233,Primary,Castlemaine Primary School
+120,-37.09293,144.20466,Primary,Campbells Creek Primary School
+122,-37.42411,143.89156,Primary,Creswick Primary School
+123,-36.73321,144.24986,Primary,California Gully Primary School
+128,-37.60232,145.26983,Primary,St Andrews Primary School
+182,-38.36634,142.4668,Primary,Warrnambool West Primary School
+184,-38.33964,144.95965,Primary,Dromana Primary School
+197,-37.7868,145.12967,Primary,Doncaster Primary School
+208,-36.1282,144.74746,Primary,Echuca Primary School
+209,-37.72498,145.1478,Primary,Eltham Primary School
+210,-36.72058,144.25426,Primary,Eaglehawk Primary School
+220,-37.105,144.3329,Primary,Elphinstone Primary School
+244,-38.00176,145.25824,Primary,Hallam Primary School
+250,-37.78067,144.93392,Primary,Flemington Primary School
+253,-37.79838,144.89267,Primary,Footscray Primary School
+262,-37.49086,144.58844,Primary,Gisborne Primary School
+267,-37.94704,145.00947,Primary,Sandringham Primary School
+275,-36.76886,146.98292,Primary,Wandiligong Primary School
+283,-38.19764,144.34776,Primary,Grovedale Primary School
+293,-37.82011,145.01838,Primary,Hawthorn West Primary School
+294,-37.7547,145.0678,Primary,Heidelberg Primary School
+295,-37.74491,142.02138,Primary,Hamilton (Gray Street) Primary School
+300,-36.92401,144.70685,Primary,Heathcote Primary School
+304,-38.17216,144.31708,Primary,Highton Primary School
+306,-36.66254,144.3344,Primary,Huntly Primary School
+319,-38.33364,144.263,Primary,Bellbrae Primary School
+327,-36.14707,146.6066,Primary,Chiltern Primary School
+343,-37.24889,144.46269,Primary,Kyneton Primary School
+366,-37.35418,144.74538,Primary,Romsey Primary School
+379,-38.01399,143.98214,Primary,Shelford Primary School
+385,-36.8416,144.15675,Primary,Lockwood South Primary School
+400,-36.73568,144.13537,Primary,Marong Primary School
+415,-37.40479,144.58413,Primary,Mount Macedon Primary School
+427,-37.60474,143.86837,Primary,Mount Clear Primary School
+430,-37.68046,144.58702,Primary,Melton Primary School
+450,-37.7996,144.98151,Primary,Fitzroy Primary School
+452,-37.10592,144.06719,Primary,Newstead Primary School
+453,-37.41202,143.98443,Primary,Newlyn Primary School
+454,-37.85973,145.15181,Primary,Burwood East Primary School
+467,-37.46289,144.59658,Primary,New Gisborne Primary School
+482,-38.19397,143.64428,Primary,Beeac Primary School
+483,-37.7531,144.92104,Primary,Essendon Primary School
+484,-37.7413,144.96821,Primary,Coburg Primary School
+486,-37.87918,142.29133,Primary,Penshurst Primary School
+487,-37.61972,144.34632,Primary,Myrniong Primary School
+488,-37.5946,145.09224,Primary,Mernda Primary School
+489,-38.3473,141.59941,Primary,Portland Primary School
+502,-37.05613,142.77378,Primary,Stawell Primary School
+522,-36.05621,146.46061,Primary,Rutherglen Primary School
+528,-37.46122,144.67978,Primary,Riddells Creek Primary School
+531,-37.90366,143.72281,Primary,Rokewood Primary School
+541,-38.17551,144.38277,Primary,Geelong East Primary School
+545,-38.1083,147.07364,Primary,Sale Primary School
+582,-37.68686,143.36816,Primary,Skipton Primary School
+583,-37.84135,144.98562,Primary,South Yarra Primary School
+596,-37.96725,147.08539,Primary,Stratford Primary School
+614,-37.14131,144.35106,Primary,Taradale Primary School
+618,-38.29244,142.3687,Primary,Koroit And District Primary School
+621,-37.32497,144.40878,Primary,Tylden Primary School
+631,-37.68227,145.0115,Primary,Thomastown Primary School
+643,-36.35528,146.32942,Primary,Wangaratta Primary School
+644,-36.01365,146.39792,Primary,Wahgunyah Primary School
+647,-37.35342,144.53294,Primary,Woodend Primary School
+648,-38.31681,142.4845,Primary,Woodford Primary School
+649,-37.90687,144.65874,Primary,Werribee Primary School
+652,-37.07016,144.20749,Primary,Winters Flat Primary School
+653,-36.29048,146.73088,Primary,Wooragee Primary School
+664,-37.41146,144.97504,Primary,Wallan Primary School
+688,-38.18741,142.43176,Primary,Woolsthorpe Primary School
+691,-37.214,144.08844,Primary,Yandoit Primary School
+693,-38.55853,146.67532,Primary,Yarram Primary School
+695,-37.55633,143.8385,Primary,Pleasant Street Primary School (Ballarat)
+699,-37.21273,145.4283,Primary,Yea Primary School
+707,-37.27495,144.72642,Primary,Lancefield Primary School
+716,-37.61379,144.47831,Primary,Coimadai Primary School
+723,-38.34046,143.78651,Primary,Birregurra Primary School
+734,-37.91194,145.12267,Primary,Clayton North Primary School
+737,-36.44454,146.43248,Primary,Milawa Primary School
+744,-36.80258,144.16156,Primary,Lockwood Primary School
+749,-36.78994,143.5519,Primary,Bealiba Primary School
+754,-37.82742,147.62323,Primary,Bairnsdale Primary School
+755,-37.58385,144.10505,Primary,Gordon Primary School
+767,-37.30972,144.13276,Primary,Hepburn Primary School
+769,-38.0304,144.39564,Primary,Lara Lake Primary School
+770,-38.1546,146.7739,Primary,Rosedale Primary School
+776,-36.7331,146.96093,Pri/Sec,Bright P-12 College
+795,-36.3546,144.698,Primary,Rochester Primary School
+800,-37.28594,142.93731,Primary,Ararat Primary School
+814,-37.30126,146.14,Primary,Jamieson Primary School
+824,-37.74787,145.00745,Primary,Preston South Primary School
+831,-37.10022,147.59308,Primary,Omeo Primary School
+843,-36.88771,147.06494,Primary,Harrietville Primary School
+846,-38.00558,145.08881,Primary,Mordialloc Beach Primary School
+849,-37.65713,145.51604,Primary,Healesville Primary School
+854,-37.72024,142.8379,Pri/Sec,Lake Bolac College
+856,-38.05697,146.62518,Primary,Toongabbie Primary School
+859,-37.35384,143.63446,Primary,Waubra Primary School
+860,-37.14851,142.85173,Primary,Great Western Primary School
+861,-37.964,146.97677,Primary,Maffra Primary School
+862,-36.42328,145.88923,Primary,Broken Creek Primary School
+863,-37.67672,144.01071,Primary,Lal Lal Primary School
+864,-38.32712,143.07812,Primary,Cobden Primary School
+866,-38.17184,144.71475,Primary,St Leonards Primary School
+876,-37.75367,145.35407,Primary,Lilydale Primary School
+877,-36.75702,144.26524,Primary,Bendigo Primary School
+878,-37.40103,144.89357,Primary,Darraweit Guim Primary School
+880,-37.68407,143.56131,Primary,Linton Primary School
+882,-37.52053,143.87458,Primary,Invermay Primary School
+887,-36.53341,147.37948,Primary,Mitta Mitta Primary School
+888,-37.83268,145.05805,Primary,Camberwell Primary School
+890,-37.63983,144.88618,Primary,Greenvale Primary School
+912,-37.19257,145.7117,Primary,Alexandra Primary School
+919,-37.73215,144.6619,Primary,Rockbank Primary School
+932,-38.042,144.16067,Pri/Sec,Bannockburn P-12 College
+945,-37.60601,145.14554,Primary,Doreen Primary School
+954,-37.16865,143.7036,Primary,Talbot Primary School
+956,-37.6497,145.37241,Primary,Yarra Glen Primary School
+981,-36.78768,144.23409,Primary,Kangaroo Flat Primary School
+982,-37.67565,144.8957,Primary,Westmeadows Primary School
+1002,-37.59769,144.72814,Primary,Sunbury Primary School
+1003,-37.67185,145.15165,Primary,Diamond Creek Primary School
+1004,-37.34781,144.61978,Primary,Hesket Primary School
+1008,-36.78623,144.50146,Primary,Axedale Primary School
+1022,-37.83736,145.1943,Primary,Vermont Primary School
+1023,-36.77126,143.8284,Primary,Tarnagulla Primary School
+1026,-37.81394,145.08138,Primary,Balwyn Primary School
+1028,-37.89395,145.2275,Primary,Scoresby Primary School
+1030,-37.05206,143.81266,Primary,Carisbrook Primary School
+1033,-37.79025,145.43595,Primary,Wandin Yallock Primary School
+1034,-37.70535,145.38222,Primary,Yering Primary School
+1035,-37.92302,141.27673,Primary,Dartmoor Primary School
+1051,-37.5635,144.87655,Primary,Mickleham Primary School
+1052,-36.57394,143.87045,Primary,Inglewood Primary School
+1054,-37.08233,144.26116,Primary,Chewton Primary School
+1070,-37.43373,144.7454,Primary,Bolinda Primary School
+1072,-37.67863,143.82646,Primary,Napoleons Primary School
+1075,-37.80364,145.03339,Primary,Kew Primary School
+1076,-37.58864,143.72171,Primary,Haddon Primary School
+1079,-38.32935,142.73253,Primary,Panmure Primary School
+1090,-38.34148,144.74069,Primary,Sorrento Primary School
+1091,-37.5548,143.8021,Primary,Alfredton Primary School
+1097,-36.6031,143.94592,Primary,Bridgewater Primary School
+1098,-38.2997,145.18947,Primary,Hastings Primary School
+1103,-36.3121,146.83646,Primary,Yackandandah Primary School
+1104,-36.78759,145.15723,Primary,Nagambie Primary School
+1108,-37.98211,146.78494,Primary,Heyfield Primary School
+1111,-37.94202,145.03959,Primary,Moorabbin Primary School
+1112,-37.05559,146.08482,Primary,Mansfield Primary School
+1115,-36.15601,146.72484,Primary,Middle Indigo Primary School
+1117,-37.8428,147.06784,Primary,Briagolong Primary School
+1120,-37.80088,147.45327,Primary,Lindenow Primary School
+1125,-37.20257,145.0463,Primary,Broadford Primary School
+1126,-36.61718,145.21429,Primary,Murchison Primary School
+1134,-37.64161,145.23956,Primary,Panton Hill Primary School
+1135,-37.52478,143.9348,Primary,Glen Park Primary School
+1136,-37.04956,142.82232,Primary,Concongella Primary School
+1141,-37.70421,147.83349,Primary,Bruthen Primary School
+1142,-35.34691,143.54325,Primary,Swan Hill Primary School
+1144,-36.69949,146.91102,Primary,Porepunkah Primary School
+1146,-38.18726,144.46437,Primary,Leopold Primary School
+1147,-38.10094,144.05469,Primary,Inverleigh Primary School
+1148,-37.86048,145.06589,Primary,Glen Iris Primary School
+1150,-37.43773,143.46986,Primary,Trawalla Primary School
+1165,-36.77512,144.27998,Primary,Quarry Hill Primary School
+1167,-37.59643,143.84472,Primary,Sebastopol Primary School
+1176,-38.52633,146.87674,Primary,Woodside Primary School
+1178,-38.19075,142.92873,Primary,Noorat Primary School
+1181,-37.84188,144.95277,Primary,Albert Park Primary School
+1183,-37.8638,144.90041,Primary,Williamstown Primary School
+1184,-38.41198,144.88711,Primary,Boneo Primary School
+1190,-38.26722,144.65621,Primary,Queenscliff Primary School
+1194,-38.31764,141.57233,Primary,Portland North Primary School
+1207,-36.98422,143.71199,Primary,Timor Primary School
+1208,-36.97371,141.08249,Primary,Apsley Primary School
+1211,-36.80436,144.35291,Primary,Strathfieldsaye Primary School
+1222,-38.11771,145.20124,Primary,Skye Primary School
+1225,-37.03978,144.79814,Primary,Tooborac Primary School
+1231,-37.81267,147.63075,Primary,Lucknow Primary School
+1244,-37.42371,145.05787,Primary,Upper Plenty Primary School
+1252,-37.79106,144.97303,Primary,Carlton North Primary School
+1254,-36.99504,144.06581,Primary,Maldon Primary School
+1259,-37.77737,145.53269,Primary,Woori Yallock Primary School
+1263,-37.30166,142.76785,Primary,Moyston Primary School
+1270,-37.65423,143.88625,Primary,Buninyong Primary School
+1273,-37.51198,145.74894,Primary,Marysville Primary School
+1275,-37.17118,144.48966,Primary,Langley Primary School
+1277,-37.3603,145.02786,Primary,Wandong Primary School
+1282,-38.45628,145.24131,Primary,Cowes Primary School
+1288,-37.40538,144.21822,Primary,Bullarto Primary School
+1293,-37.9546,143.3393,Primary,Lismore Primary School
+1295,-37.72617,145.1155,Primary,Lower Plenty Primary School
+1316,-36.76187,144.24834,Primary,Specimen Hill Primary School
+1324,-38.28161,141.6138,Primary,Bolwarra Primary School
+1330,-36.90074,143.11134,Primary,Navarre Primary School
+1334,-36.25788,142.39126,Primary,Warracknabeal Primary School
+1335,-36.59317,146.38309,Primary,Moyhu Primary School
+1347,-36.94213,143.468,Primary,Natte Yallock Primary School
+1360,-37.79231,144.98925,Primary,Clifton Hill Primary School
+1362,-37.65352,145.3042,Primary,Christmas Hills Primary School
+1365,-36.2148,147.1742,Primary,Tallangatta Primary School
+1366,-36.4527,145.43115,Primary,Kialla Central Primary School
+1368,-38.19539,145.09219,Primary,Mount Eliza Primary School
+1369,-38.52385,145.36945,Primary,San Remo Primary School
+1372,-36.45336,142.0304,Primary,Dimboola Primary School
+1373,-36.50544,146.58665,Primary,Whorouly Primary School
+1379,-37.1028,146.25688,Primary,Merrijig Primary School
+1386,-37.96906,144.13456,Primary,Lethbridge Primary School
+1399,-36.44156,146.36064,Primary,Oxley Primary School
+1401,-37.77176,144.99688,Primary,Northcote Primary School
+1402,-37.79873,144.95064,Primary,North Melbourne Primary School
+1403,-37.98792,145.21982,Primary,Dandenong Primary School
+1408,-37.18732,144.38694,Primary,Malmsbury Primary School
+1409,-37.8559,144.89176,Primary,Williamstown North Primary School
+1410,-35.73169,143.92114,Primary,Kerang Primary School
+1417,-38.08711,145.87172,Primary,Drouin West Primary School
+1420,-37.84271,144.07781,Primary,Meredith Primary School
+1422,-36.70647,146.44881,Primary,Edi Upper Primary School
+1428,-36.70707,144.23727,Primary,Eaglehawk North Primary School
+1432,-36.39136,145.36029,Primary,Mooroopna Primary School
+1434,-37.75885,144.788,Primary,Cairnlea Park Primary School
+1435,-37.60168,144.2311,Primary,Ballan Primary School
+1436,-37.57836,143.85781,Primary,Mount Pleasant Primary School
+1441,-36.44497,145.22992,Primary,Tatura Primary School
+1455,-36.49052,145.34418,Primary,Toolamba Primary School
+1458,-36.46986,145.14175,Primary,Harston Primary School
+1463,-36.31716,146.89257,Primary,Osbornes Flat Primary School
+1464,-38.14756,145.12403,Primary,Frankston Primary School
+1465,-36.36721,142.98463,Primary,Donald Primary School
+1476,-37.47206,144.97776,Primary,Beveridge Primary School
+1479,-37.87022,144.98902,Primary,St Kilda Primary School
+1484,-37.79196,143.60821,Primary,Cape Clear Primary School
+1485,-37.7558,145.7017,Primary,Warburton Primary School
+1488,-37.09676,145.10067,Primary,Tallarook Primary School
+1489,-36.10131,146.67589,Primary,Barnawartha Primary School
+1490,-37.78502,144.98415,Primary,Fitzroy North Primary School
+1492,-38.13856,144.3471,Primary,Ashby Primary School
+1494,-37.73055,145.01031,Primary,Preston Primary School
+1503,-38.20763,145.37849,Primary,Tooradin Primary School
+1508,-37.82405,145.03397,Primary,Glenferrie Primary School
+1515,-36.4972,144.60891,Primary,Elmore Primary School
+1527,-36.33107,145.68279,Primary,Dookie Primary School
+1542,-37.91221,145.00108,Primary,Brighton Primary School
+1548,-36.74124,141.9505,Primary,Natimuk Primary School
+1549,-36.6235,142.47574,Pri/Sec,Murtoa College
+1551,-36.83058,144.24247,Primary,Big Hill Primary School
+1552,-37.29075,143.79211,Primary,Clunes Primary School
+1554,-36.67685,142.87035,Primary,Marnoo Primary School
+1560,-36.35543,146.69357,Primary,Beechworth Primary School
+1563,-36.38546,145.31307,Primary,Ardmona Primary School
+1568,-37.29577,144.94752,Primary,Kilmore Primary School
+1571,-38.03088,142.00147,Primary,Macarthur Primary School
+1574,-38.28119,144.48704,Primary,Barwon Heads Primary School
+1578,-37.7169,144.8357,Primary,Keilor Primary School
+1582,-36.85155,143.73358,Primary,Dunolly Primary School
+1583,-36.18467,146.4681,Primary,Springhurst Primary School
+1588,-37.38797,144.3281,Primary,Trentham District Primary School
+1591,-37.5741,143.92743,Primary,Warrenheip Primary School
+1592,-36.74419,144.2097,Primary,Maiden Gully Primary School
+1595,-36.63222,142.62861,Primary,Rupanyup Primary School
+1598,-36.617,144.50468,Primary,Goornong Primary School
+1601,-37.89447,145.08862,Primary,Oakleigh Primary School
+1602,-38.17355,144.26673,Primary,Ceres Primary School
+1604,-37.85601,145.0344,Primary,Malvern Central School
+1609,-37.3451,144.14156,Primary,Daylesford Primary School
+1612,-36.32914,145.29849,Primary,Mooroopna North Primary School
+1631,-37.82108,147.86479,Primary,Swan Reach Primary School
+1637,-37.18413,143.39924,Primary,Amphitheatre Primary School
+1642,-38.39988,143.88575,Primary,Deans Marsh Primary School
+1645,-38.16916,144.57175,Primary,Drysdale Primary School
+1646,-36.6102,143.25754,Primary,St Arnaud Primary School
+1652,-38.46676,142.73443,Primary,Nullawarre and District Primary School
+1660,-37.41869,144.56268,Primary,Macedon Primary School
+1666,-37.579,145.2025,Primary,Arthurs Creek Primary School
+1667,-38.37312,144.82382,Primary,Rye Primary School
+1669,-37.4214,145.70905,Primary,Buxton Primary School
+1683,-36.98986,143.32074,Primary,Moonambel Primary School
+1694,-38.16956,147.08841,Primary,Longford Primary School
+1697,-38.00085,145.34517,Primary,Harkaway Primary School
+1698,-38.37672,145.12282,Primary,Balnarring Primary School
+1704,-36.3289,146.46086,Primary,Carraragarmungee Primary School
+1706,-36.75596,145.57208,Primary,Euroa Primary School
+1712,-36.04736,144.11368,Pri/Sec,Pyramid Hill College
+1713,-36.39993,145.47925,Primary,Shepparton East Primary School
+1716,-37.81578,147.74791,Primary,Nicholson Primary School
+1727,-36.46601,145.38946,Primary,Kialla West Primary School
+1739,-37.47788,143.7947,Primary,Miners Rest Primary School
+1742,-36.46019,146.22234,Primary,Glenrowan Primary School
+1743,-38.37728,142.48257,Primary,Warrnambool Primary School
+1764,-36.32654,145.89434,Primary,Devenish Primary School
+1771,-36.27636,145.21893,Primary,Undera Primary School
+1772,-36.46925,147.01531,Primary,Dederang Primary School
+1788,-36.84177,144.38773,Primary,Eppalock Primary School
+1801,-37.8246,145.42132,Primary,Silvan Primary School
+1813,-37.53928,143.82816,Primary,Wendouree Primary School
+1814,-36.31325,145.13282,Primary,Lancaster Primary School
+1844,-36.53947,144.2048,Primary,Raywood Primary School
+1855,-37.00263,145.03351,Primary,Puckapunyal Primary School
+1862,-37.00586,143.13591,Primary,Landsborough Primary School
+1866,-37.9116,145.27623,Primary,Lysterfield Primary School
+1870,-36.51633,146.08134,Primary,Winton Primary School
+1874,-36.36932,145.12966,Primary,Merrigum Primary School
+1883,-36.12064,147.09576,Primary,Bethanga Primary School
+1886,-37.80898,144.99881,Primary,Abbotsford Primary School
+1887,-38.14577,144.3372,Primary,Newtown Primary School
+1896,-37.8573,144.99569,Primary,Windsor Primary School
+1901,-37.97859,145.31692,Primary,Narre Warren North Primary School
+1905,-37.49774,148.18082,Primary,Buchan Primary School
+1910,-37.91267,144.25511,Primary,Anakie Primary School
+1911,-38.17096,144.42431,Primary,Moolap Primary School
+1912,-37.8064,144.90025,Primary,Footscray City Primary School
+1913,-37.31215,144.59476,Primary,Newham Primary School
+1915,-37.66973,145.07694,Primary,Plenty Parklands Primary School
+1916,-36.72794,144.30415,Primary,White Hills Primary School
+1918,-37.62852,144.10217,Primary,Mount Egerton Primary School
+1924,-38.13286,145.85384,Primary,Drouin Primary School
+1938,-36.15066,145.4306,Primary,Wunghnu Primary School
+1943,-37.4328,142.85847,Primary,Maroona Primary School
+1951,-38.02762,145.90113,Primary,Jindivick Primary School
+1954,-36.0658,147.15915,Primary,Talgarno Primary School
+1960,-37.55759,144.0071,Primary,Bungaree Primary School
+1961,-37.96501,144.50037,Primary,Little River Primary School
+1967,-38.0137,146.69896,Primary,Cowwarr Primary School
+1975,-37.65287,145.09467,Primary,Morang South Primary School
+1976,-36.75571,144.27804,Primary,Camp Hill Primary School
+2005,-37.11724,144.85709,Primary,Pyalong Primary School
+2015,-38.24449,143.98428,Primary,Winchelsea Primary School
+2017,-38.09935,145.93817,Primary,Buln Buln Primary School
+2022,-37.55115,143.85749,Primary,Macarthur Street Primary School
+2028,-38.36135,143.5837,Primary,Elliminyt Primary School
+2033,-38.22181,145.04309,Primary,Mornington Primary School
+2035,-37.72646,141.99515,Primary,Hamilton North Primary School
+2037,-37.42924,143.78644,Primary,Mount Blowhard Primary School
+2041,-37.40884,143.89082,Primary,Creswick North Primary School
+2043,-37.54984,143.86978,Primary,Black Hill Primary School
+2048,-37.9221,144.99611,Primary,Brighton Beach Primary School
+2051,-37.05783,144.21899,Primary,Castlemaine North Primary School
+2054,-37.64124,145.1331,Primary,Yarrambat Primary School
+2058,-37.58655,141.4052,Primary,Casterton Primary School
+2060,-36.05752,145.20589,Primary,Nathalia Primary School
+2061,-38.15511,144.34538,Primary,Chilwell Primary School
+2062,-37.70357,145.1005,Primary,Greensborough Primary School
+2065,-38.02923,144.05459,Primary,Teesdale Primary School
+2068,-38.11186,145.28785,Primary,Cranbourne Primary School
+2069,-36.07735,145.6853,Primary,Katamatite Primary School
+2072,-37.36404,143.17502,Primary,Buangor Primary School
+2087,-35.90955,144.30209,Primary,Leitchville Primary School
+2090,-37.51427,145.11405,Primary,Whittlesea Primary School
+2093,-37.5429,143.89506,Primary,Little Bendigo Primary School
+2103,-37.56602,143.83122,Primary,Newington Primary School
+2104,-38.15634,145.92814,Primary,Warragul Primary School
+2105,-37.69174,145.21466,Primary,Kangaroo Ground Primary School
+2114,-38.29726,146.54015,Primary,Traralgon South Primary School
+2118,-37.60184,141.68404,Primary,Coleraine Primary School
+2129,-38.20349,145.75849,Primary,Ripplebrook Primary School
+2134,-36.09024,145.445,Primary,Numurkah Primary School
+2142,-38.17471,146.26435,Primary,Moe (Albert Street) Primary School
+2143,-38.15694,144.35857,Primary,Geelong South Primary School
+2163,-37.8433,145.25936,Primary,Bayswater Primary School
+2167,-36.46271,142.5841,Primary,Minyip Primary School
+2172,-37.93295,145.19737,Primary,Mulgrave Primary School
+2178,-38.20937,146.06096,Primary,Yarragon Primary School
+2182,-38.14911,146.47754,Primary,Tyers Primary School
+2185,-38.21476,146.15987,Primary,Trafalgar Primary School
+2188,-37.52157,145.35664,Primary,Kinglake Primary School
+2189,-38.24023,145.93563,Primary,Ellinbank Primary School
+2216,-37.7662,147.8452,Primary,Tambo Upper Primary School
+2222,-36.18053,146.94812,Primary,Baranduda Primary School
+2225,-36.16131,145.87947,Primary,Tungamah Primary School
+2229,-38.09884,145.71251,Primary,Bunyip Primary School
+2231,-35.95463,144.37232,Primary,Gunbower Primary School
+2248,-38.08277,145.57401,Primary,Nar Nar Goon Primary School
+2253,-38.66352,146.32799,Primary,Toora Primary School
+2259,-37.8081,145.34369,Primary,Montrose Primary School
+2265,-35.63487,144.12987,Primary,Koondrook Primary School
+2271,-37.61571,143.84327,Primary,Magpie Primary School
+2282,-36.6914,147.14325,Primary,Tawonga Primary School
+2295,-38.26158,146.23163,Primary,Narracan Primary School
+2313,-38.17057,145.82682,Primary,Drouin South Primary School
+2318,-36.46527,147.25125,Primary,Eskdale Primary School
+2319,-38.18773,145.9997,Primary,Darnum Primary School
+2327,-38.24809,145.10517,Primary,Moorooduc Primary School
+2329,-37.84951,145.30842,Primary,The Basin Primary School
+2343,-37.91128,147.7147,Primary,Paynesville Primary School
+2367,-36.70505,144.31269,Primary,Epsom Primary School
+2374,-37.79267,144.92762,Primary,Kensington Primary School
+2382,-38.26819,146.44768,Primary,Hazelwood North Primary School
+2383,-38.40049,146.15109,Primary,Mirboo North Primary School
+2419,-38.32109,146.32891,Primary,Yinnar Primary School
+2432,-38.01531,145.95536,Primary,Neerim South Primary School
+2436,-37.76657,145.04298,Primary,Ivanhoe Primary School
+2455,-38.11552,144.65498,Primary,Portarlington Primary School
+2457,-37.91735,145.39427,Primary,Menzies Creek Primary School
+2460,-37.85812,144.97779,Primary,St Kilda Park Primary School
+2471,-38.03767,145.80494,Primary,Labertouche Primary School
+2479,-37.62263,144.70923,Primary,Diggers Rest Primary School
+2505,-38.1141,145.76914,Primary,Longwarry Primary School
+2506,-37.95164,145.54532,Primary,Gembrook Primary School
+2518,-38.1068,147.03995,Primary,Wurruk Primary School
+2520,-38.07139,146.17734,Primary,Willow Grove Primary School
+2541,-37.83174,145.59775,Primary,Hoddles Creek Primary School
+2560,-37.9954,145.41476,Primary,Beaconsfield Upper Primary School
+2563,-36.29987,145.43428,Primary,Congupna Primary School
+2571,-37.01952,144.53089,Primary,Redesdale Mia Mia Primary School
+2586,-37.87159,145.03846,Primary,Malvern Primary School
+2599,-37.7825,145.57077,Primary,Launching Place Primary School
+2605,-37.80205,144.96951,Primary,Carlton Gardens Primary School
+2608,-37.77432,144.92612,Primary,Ascot Vale Primary School
+2617,-38.38287,146.26887,Primary,Boolarra Primary School
+2627,-38.35576,144.909,Primary,Rosebud Primary School
+2629,-38.19483,145.49286,Primary,Koo Wee Rup Primary School
+2634,-37.85219,145.01777,Primary,Armadale Primary School
+2655,-38.25711,145.04091,Primary,Osborne Primary School
+2656,-38.22402,145.17914,Primary,Somerville Primary School
+2662,-37.54469,142.73946,Primary,Willaura Primary School
+2667,-36.13405,144.76111,Primary,Echuca East Primary School
+2672,-37.87598,147.99424,Primary,Lakes Entrance Primary School
+2677,-36.73819,146.31825,Primary,Myrrhee Primary School
+2707,-36.80793,145.42206,Primary,Longwood Primary School
+2708,-38.51629,143.71442,Primary,Forrest Primary School
+2711,-37.77799,145.0204,Primary,Fairfield Primary School
+2712,-38.16574,145.97429,Primary,Nilma Primary School
+2724,-38.09056,145.67415,Primary,Garfield Primary School
+2730,-38.36891,146.36481,Primary,Yinnar South Primary School
+2742,-38.05828,145.41018,Primary,Officer Primary School
+2743,-37.7787,144.97254,Primary,Brunswick South Primary School
+2744,-37.70791,148.45772,Primary,Orbost Primary School
+2776,-38.6312,145.72862,Primary,Inverloch Primary School
+2778,-37.82553,145.1009,Primary,Surrey Hills Primary School
+2784,-37.8306,144.94974,Special,Montague Continuing Education Centre
+2790,-35.92402,145.47884,Primary,Strathmerton Primary School
+2805,-36.94535,142.32331,Primary,Laharum Primary School
+2806,-35.96423,147.73215,Primary,Walwa Primary School
+2815,-37.8478,144.95751,Primary,Middle Park Primary School
+2820,-37.77389,145.46441,Primary,Seville Primary School
+2832,-37.81475,144.88539,Primary,Yarraville West Primary School
+2837,-37.75505,144.96648,Primary,Merri-bek Primary School
+2840,-38.11887,146.2524,Primary,Tanjil South Primary School
+2859,-37.19344,142.60873,Primary,Pomonal Primary School
+2870,-37.89142,144.99729,Primary,Elsternwick Primary School
+2888,-38.12758,146.57134,Primary,Glengarry Primary School
+2897,-37.89074,145.0545,Primary,Carnegie Primary School
+2899,-38.26317,145.5694,Primary,Lang Lang Primary School
+2900,-37.79317,145.28132,Primary,Croydon Primary School
+2901,-37.76895,144.90933,Primary,Moonee Ponds West Primary School
+2904,-37.80899,145.19272,Primary,Mitcham Primary School
+2912,-38.36862,145.70295,Primary,Loch Primary School
+2915,-34.19429,142.16049,Primary,Mildura Primary School
+2923,-37.81657,145.1567,Primary,Blackburn Primary School
+2930,-37.73547,148.434,Primary,Newmerella Primary School
+2932,-37.83532,144.93381,Primary,Port Melbourne Primary School
+2948,-37.82028,145.05048,Primary,Auburn Primary School
+2950,-37.98295,145.06797,Primary,Mentone Primary School
+2955,-37.7804,144.9681,Primary,Princes Hill Primary School
+2959,-37.70292,145.18357,Primary,Research Primary School
+2961,-38.20301,145.23198,Primary,Pearcedale Primary School
+2963,-37.82694,147.4339,Primary,Lindenow South Primary School
+2966,-38.28846,146.17879,Primary,Thorpdale Primary School
+2969,-37.73875,144.79577,Primary,St Albans Primary School
+2981,-38.47893,145.95898,Primary,Leongatha Primary School
+2988,-36.14134,141.98405,Primary,Jeparit Primary School
+3016,-37.84508,145.00991,Primary,Toorak Primary School
+3023,-38.19966,145.18155,Primary,Baxter Primary School
+3028,-38.69475,146.08442,Primary,Fish Creek and District Primary School
+3033,-38.04863,145.37164,Primary,Beaconsfield Primary School
+3050,-37.88296,147.85246,Primary,Metung Primary School
+3053,-38.51315,145.35686,Primary,Newhaven Primary School
+3058,-37.13748,142.51743,Primary,Halls Gap Primary School
+3067,-36.23861,145.43632,Primary,Tallygaroopna Primary School
+3074,-37.907,145.03367,Primary,Ormond Primary School
+3077,-38.43513,145.82564,Primary,Korumburra Primary School
+3080,-38.36048,145.20054,Primary,Crib Point Primary School
+3081,-37.73122,144.93726,Primary,Pascoe Vale Primary School
+3098,-37.31692,145.29136,Primary,Flowerdale Primary School
+3100,-38.26399,144.52185,Primary,Ocean Grove Primary School
+3109,-35.94494,142.41826,Primary,Beulah Primary School
+3110,-37.77697,144.98739,Primary,Merri Creek Primary School
+3113,-37.79079,144.83101,Primary,Sunshine Primary School
+3129,-38.26071,145.16664,Primary,Tyabb Primary School
+3139,-37.76151,145.00883,Primary,Wales Street Primary School
+3145,-36.35518,147.1129,Primary,Upper Sandy Creek Primary School
+3146,-37.78679,145.00388,Primary,Spensley Street Primary School
+3161,-37.79647,145.04915,Primary,Kew East Primary School
+3163,-34.2088,142.20464,Primary,Nichols Point Primary School
+3174,-34.2266,142.15908,Primary,Irymple Primary School
+3179,-37.76527,144.98,Primary,Brunswick East Primary School
+3215,-37.89245,147.68022,Primary,Eagle Point Primary School
+3216,-37.77903,145.60608,Primary,Yarra Junction Primary School
+3222,-37.86162,145.35455,Primary,Sassafras Primary School
+3228,-37.88421,145.33473,Primary,Ferny Creek Primary School
+3237,-37.53537,145.4725,Primary,Toolangi Primary School
+3241,-37.73064,145.274,Primary,Wonga Park Primary School
+3255,-37.4813,145.2596,Primary,Kinglake West Primary School
+3261,-38.38338,145.33341,Primary,Perseverance Primary School
+3265,-37.87685,145.41026,Primary,Monbulk Primary School
+3278,-35.46451,143.63207,Primary,Lake Boga Primary School
+3279,-37.60596,145.48925,Primary,Chum Creek Primary School
+3284,-37.83074,145.36217,Primary,Mount Dandenong Primary School
+3309,-37.68134,145.53324,Primary,Badger Creek Primary School
+3315,-37.50521,145.31568,Primary,Middle Kinglake Primary School
+3322,-38.27443,144.62113,Primary,Point Lonsdale Primary School
+3323,-38.51511,145.71286,Primary,Kongwak Primary School
+3336,-37.927,145.10292,Primary,Clarinda Primary School
+3341,-38.04502,145.13806,Primary,Chelsea Heights Primary School
+3345,-38.21788,144.50685,Primary,Wallington Primary School
+3356,-37.90696,145.34492,Primary,Tecoma Primary School
+3368,-38.32177,144.31231,Primary,Torquay P-6 College
+3381,-37.93338,145.44243,Primary,Emerald Primary School
+3385,-38.07812,145.1267,Primary,Carrum Primary School
+3401,-38.33624,145.67489,Primary,Nyora Primary School
+3423,-37.74529,144.55879,Primary,Exford Primary School
+3426,-35.47623,143.26617,Primary,Ultima Primary School
+3432,-37.88127,145.12411,Primary,Mount Waverley Primary School
+3433,-37.79627,148.53504,Primary,Marlo Primary School
+3449,-37.88617,145.07041,Primary,Murrumbeena Primary School
+3466,-37.76869,145.64707,Primary,Wesburn Primary School
+3470,-34.27806,142.08485,Primary,Koorlong Primary School
+3476,-37.77435,145.24698,Primary,Warranwood Primary School
+3479,-37.25942,144.88823,Primary,Willowmavin Primary School
+3494,-37.8547,145.36619,Primary,Olinda Primary School
+3497,-38.56393,143.39503,Primary,Carlisle River Primary School
+3505,-36.79318,144.28446,Primary,Spring Gully Primary School
+3515,-37.55943,149.7543,Pri/Sec,Mallacoota P-12 College
+3531,-38.16039,145.18985,Primary,Langwarrin Primary School
+3535,-37.93937,145.49638,Primary,Cockatoo Primary School
+3544,-38.26195,145.1925,Primary,Tyabb Railway Station Primary School
+3551,-37.9312,145.35792,Primary,Belgrave South Primary School
+3552,-37.73791,145.01817,Special,Yarra Me School
+3559,-37.70205,144.76233,Primary,Sydenham - Hillside Primary School
+3572,-37.83096,145.08314,Primary,Canterbury Primary School
+3581,-34.20592,142.09314,Primary,The Lake Primary School
+3584,-38.19305,146.53712,Primary,Grey Street Primary School (Traralgon)
+3585,-37.75984,144.95043,Primary,Brunswick North Primary School
+3590,-37.71524,144.97476,Primary,Fawkner Primary School
+3599,-37.78352,145.03201,Primary,Alphington Primary School
+3605,-37.75544,145.05829,Special,The Austin School
+3612,-38.21052,145.95991,Primary,Bona Vista Primary School
+3613,-38.0946,145.18791,Primary,Banyan Fields Primary School
+3618,-37.69451,145.04263,Primary,Norris Bank Primary School
+3620,-37.88979,145.47537,Primary,Macclesfield Primary School
+3631,-37.96987,145.02165,Primary,Black Rock Primary School
+3642,-37.79093,145.38882,Primary,Mount Evelyn Primary School
+3645,-37.80211,145.31494,Primary,Kilsyth Primary School
+3650,-38.60795,145.58864,Primary,Wonthaggi Primary School
+3659,-37.83045,144.88174,Primary,Spotswood Primary School
+3664,-38.13232,145.32639,Primary,Clyde Primary School
+3675,-37.97063,145.17391,Primary,Noble Park Primary School
+3680,-37.80837,145.06136,Primary,Deepdene Primary School
+3684,-37.70208,147.65939,Primary,Clifton Creek Primary School
+3686,-36.7688,144.3075,Primary,Kennington Primary School
+3689,-38.1458,145.42377,Primary,Cardinia Primary School
+3696,-36.3572,145.43072,Primary,Grahamvale Primary School
+3702,-34.25249,142.19062,Primary,Irymple South Primary School
+3703,-37.89377,145.04623,Primary,Glen Huntly Primary School
+3708,-36.31297,144.77804,Primary,Nanneella Estate Primary School
+3709,-37.85626,145.21651,Primary,Wantirna Primary School
+3716,-38.59882,145.60023,Primary,Wonthaggi North Primary School
+3717,-37.70872,144.57426,Primary,Melton South Primary School
+3729,-38.05489,145.12231,Primary,Chelsea Primary School
+3754,-37.93339,145.00348,Primary,Hampton Primary School
+3774,-37.84977,144.98231,Special,Victorian College For The Deaf
+3787,-37.79498,144.41535,Primary,Balliang East Primary School
+3790,-38.03749,145.11297,Primary,Edithvale Primary School
+3805,-36.41041,145.44054,Primary,Orrvale Primary School
+3806,-37.75452,145.01427,Primary,Penders Grove Primary School
+3819,-35.17057,141.81405,Primary,Underbool Primary School
+3820,-37.87211,145.02156,Primary,Caulfield Junior College
+3835,-38.10444,145.1305,Primary,Seaford Primary School
+3841,-37.84264,145.09737,Primary,Wattle Park Primary School
+3859,-35.52884,143.95075,Primary,Murrabit Group School
+3885,-37.73737,144.99553,Primary,Preston West Primary School
+3889,-37.75543,144.99675,Primary,Thornbury Primary School
+3890,-37.79487,144.87527,Primary,Footscray West Primary School
+3892,-37.76978,145.40971,Primary,Wandin North Primary School
+3897,-37.90468,145.01503,Primary,Gardenvale Primary School
+3899,-37.98527,145.03759,Primary,Beaumaris Primary School
+3907,-36.38475,145.70379,Primary,Currawa Primary School
+3920,-37.5697,149.15302,Pri/Sec,Cann River P-12 College
+3923,-37.86771,144.82274,Primary,Altona Primary School
+3924,-38.16203,145.30138,Primary,Devon Meadows Primary School
+3926,-37.8956,145.31432,Primary,Upper Ferntree Gully Primary School
+3931,-37.23397,145.90676,Primary,Eildon Primary School
+3933,-38.33986,145.17168,Primary,Bittern Primary School
+3936,-36.58988,144.80166,Primary,Colbinabbin Primary School
+3937,-36.4481,144.98802,Primary,Stanhope Primary School
+3939,-37.6359,145.19812,Primary,Hurstbridge Primary School
+3941,-37.74715,144.94762,Primary,Coburg West Primary School
+3942,-37.8815,144.98836,Primary,Elwood Primary School
+3943,-37.81308,145.10273,Primary,Mont Albert Primary School
+3944,-36.5432,145.23979,Primary,Dhurringile Primary School
+3947,-37.54758,145.27009,Primary,Strathewen Primary School
+3956,-37.7602,145.58741,Primary,Don Valley Primary School
+3960,-37.71142,145.00677,Primary,Reservoir Primary School
+3967,-38.16321,146.36222,Primary,Yallourn North Primary School
+3968,-37.85254,148.05097,Primary,Toorloo Arm Primary School
+3971,-36.39811,144.97376,Primary,Girgarre Primary School
+3982,-37.82025,145.65099,Primary,Gladysdale Primary School
+3983,-34.17973,142.15239,Primary,Mildura West Primary School
+3987,-37.76334,144.93299,Primary,Moonee Ponds Primary School
+3988,-37.8126,144.87466,Primary,Kingsville Primary School
+3993,-37.88509,145.37,Primary,Kallista Primary School
+4015,-37.74152,144.90319,Primary,Essendon North Primary School
+4025,-37.78068,144.91112,Primary,Ascot Vale West Primary School
+4055,-37.84805,145.08447,Primary,Hartwell Primary School
+4057,-34.31157,142.18531,Primary,Red Cliffs Primary School
+4060,-37.66884,145.18204,Primary,Wattle Glen Primary School
+4062,-38.03041,145.25289,Primary,Hampton Park Primary School
+4064,-38.33642,143.57975,Primary,Colac West Primary School
+4087,-37.87461,145.00505,Primary,Ripponlea Primary School
+4112,-37.71765,145.1216,Primary,Montmorency Primary School
+4117,-38.24139,144.17557,Primary,Moriac Primary School
+4120,-37.79313,145.23074,Primary,Ringwood North Primary School
+4123,-34.30511,142.21427,Primary,Red Cliffs East Primary School
+4139,-37.87242,145.05611,Primary,Lloyd Street Primary School
+4143,-37.8288,145.29562,Primary,Bayswater North Primary School
+4158,-37.71629,144.93548,Primary,Westbreen Primary School
+4159,-37.8938,144.72449,Pri/Sec,Point Cook Prep - Year 9 College
+4160,-37.78775,144.88337,Primary,Footscray North Primary School
+4169,-38.02571,147.1139,Primary,Airly Primary School
+4170,-37.8479,145.06261,Primary,Camberwell South Primary School
+4171,-37.99279,145.0831,Primary,Parkdale Primary School
+4176,-37.90584,145.07764,Primary,Hughesdale Primary School
+4177,-37.77647,145.00556,Primary,Westgarth Primary School
+4183,-37.83926,145.04589,Primary,Auburn South Primary School
+4193,-38.02027,145.09976,Primary,Aspendale Primary School
+4212,-37.70011,145.15087,Primary,Eltham North Primary School
+4215,-38.37802,142.45615,Primary,Merrivale Primary School
+4217,-37.98074,145.20042,Primary,Dandenong West Primary School
+4219,-37.7664,145.27223,Primary,Yarra Road Primary School
+4220,-37.75649,144.89477,Primary,Aberfeldie Primary School
+4224,-38.13597,144.33292,Primary,Manifold Heights Primary School
+4226,-37.86592,147.88839,Primary,Nungurner Primary School
+4257,-37.9826,145.1325,Primary,Dingley Primary School
+4263,-34.28801,142.14504,Primary,Cardross Primary School
+4265,-37.77808,144.81975,Primary,Albion Primary School
+4269,-36.35805,145.46246,Primary,Lemnos Primary School
+4275,-38.70257,145.86706,Primary,Tarwin Lower Primary School
+4290,-38.11943,145.14233,Special,Nepean Special School
+4304,-37.77058,144.94352,Primary,Brunswick South West Primary School
+4309,-37.7477,144.99061,Primary,Bell Primary School
+4314,-37.81765,145.0916,Primary,Chatham Primary School
+4315,-37.89525,145.0308,Primary,Caulfield South Primary School
+4317,-37.8622,145.08362,Primary,Ashburton Primary School
+4318,-37.92059,145.02677,Primary,Bentleigh West Primary School
+4324,-38.35649,147.17062,Primary,Seaspray Primary School
+4332,-38.39678,144.19184,Primary,Anglesea Primary School
+4341,-37.70831,145.11622,Primary,Briar Hill Primary School
+4359,-36.2772,145.40507,Primary,Zeerust Primary School
+4366,-37.90805,145.0528,Primary,McKinnon Primary School
+4384,-37.94048,145.11644,Primary,Clayton South Primary School
+4386,-37.77459,145.05945,Primary,Ivanhoe East Primary School
+4387,-38.07479,147.13228,Primary,Cobains Primary School
+4389,-34.21348,142.12679,Primary,Mildura South Primary School
+4398,-38.16605,144.3792,Primary,Tate Street Primary School Geelong
+4399,-37.75671,144.94359,Primary,Brunswick North West Primary School
+4401,-36.22547,145.56071,Primary,Katandra West Primary School
+4407,-38.0393,145.3181,Primary,Fleetwood Primary School
+4429,-37.95667,145.02222,Primary,Sandringham East Primary School
+4440,-37.86421,144.83991,Primary,Seaholme Primary School
+4458,-38.39212,145.16461,Primary,Somers Primary School
+4465,-37.7819,144.93487,Special,Travancore School
+4530,-37.90287,145.3328,Primary,Upwey Primary School
+4543,-37.73617,144.95185,Primary,Coburg North Primary School
+4568,-37.73539,145.0629,Primary,Rosanna Primary School
+4582,-37.87253,145.23734,Primary,Wantirna South Primary School
+4612,-37.73551,144.917,Primary,Strathmore Primary School
+4638,-37.7967,145.07704,Primary,Balwyn North Primary School
+4641,-37.87324,145.07283,Primary,Solway Primary School
+4642,-36.35413,146.30442,Primary,Wangaratta West Primary School
+4644,-36.7395,147.17159,Primary,Mount Beauty Primary School
+4646,-37.73011,144.98538,Primary,Newlands Primary School
+4647,-38.38878,145.14575,Primary,Somers School Camp
+4650,-38.18858,146.29279,Primary,Newborough Primary School
+4652,-38.18998,146.52417,Primary,Traralgon (Stockdale Road) Primary School
+4657,-36.3668,145.39635,Primary,Gowrie Street Primary School Shepparton
+4661,-38.36948,144.85732,Primary,Tootgarook Primary School
+4662,-38.18319,146.26006,Primary,Moe (South Street) Primary School
+4663,-38.17401,144.32982,Primary,Roslyn Primary School
+4665,-37.84521,144.86883,Primary,Newport Gardens Primary School
+4666,-36.39009,145.40574,Primary,St Georges Road Primary School Shepparton
+4669,-37.8807,145.08149,Primary,Malvern Valley Primary School
+4670,-38.179,146.29376,Primary,Newborough East Primary School
+4675,-37.80428,145.08114,Special,Belmore School
+4679,-37.764,144.9874,Special,Croxton Special School
+4681,-38.12936,144.33245,Primary,Herne Hill Primary School
+4682,-38.14663,145.14553,Primary,Frankston East Primary School
+4685,-37.91143,145.36752,Primary,Selby Primary School
+4686,-37.71998,145.02184,Primary,Reservoir East Primary School
+4687,-37.93254,145.04901,Primary,Tucker Road Bentleigh Primary School
+4689,-35.99856,145.45561,Primary,Katunga Primary School
+4690,-37.5401,143.86281,Primary,Ballarat North Primary School
+4691,-36.15296,146.92714,Primary,Bandiana Primary School
+4694,-37.80143,145.09596,Primary,Greythorn Primary School
+4695,-38.14811,145.93985,Primary,Warragul North Primary School
+4697,-36.71742,142.17999,Primary,Horsham West and Haven Primary School
+4699,-38.19927,146.51536,Primary,Traralgon (Kosciuszko Street) Primary School
+4700,-38.20155,146.55149,Primary,Traralgon (Liddiard Road) Primary School
+4702,-37.81724,145.25295,Primary,Eastwood Primary School
+4704,-37.74572,144.93562,Primary,Pascoe Vale South Primary School
+4709,-37.67008,145.02539,Primary,Lalor Primary School
+4711,-37.72214,144.99023,Primary,Reservoir West Primary School
+4712,-37.92008,145.07363,Primary,Coatesville Primary School
+4715,-37.80757,145.15251,Primary,Old Orchard Primary School
+4716,-37.91308,145.10236,Primary,Huntingdale Primary School
+4717,-37.80079,145.12331,Primary,Box Hill North Primary School
+4718,-37.87479,145.29942,Primary,Ferntree Gully North Primary School
+4720,-37.27736,142.921,Primary,Ararat West Primary School
+4721,-37.71553,144.91504,Primary,Oak Park Primary School
+4723,-37.97664,145.21447,Primary,Dandenong North Primary School
+4725,-37.82454,147.6081,Primary,Bairnsdale West Primary School
+4728,-36.73783,144.27865,Special,Kalianna Special School
+4730,-37.95444,145.1799,Primary,Harrisfield Primary School
+4731,-37.72126,144.94848,Primary,Pascoe Vale North Primary School
+4733,-37.78252,145.07865,Primary,Belle Vue Primary School
+4735,-38.17944,144.34199,Primary,Oberon Primary School
+4740,-38.18973,146.24672,Primary,Moe Primary School
+4741,-37.74217,144.81109,Primary,St Albans East Primary School
+4742,-36.36654,145.41297,Primary,Bourchier Street Primary School Shepparton
+4743,-35.33179,143.54607,Primary,Swan Hill North Primary School
+4744,-37.79222,144.81816,Primary,Sunshine Heights Primary School
+4745,-37.77201,144.83719,Primary,Sunshine North Primary School
+4746,-37.74361,145.07794,Primary,Banyule Primary School
+4750,-38.36527,141.61062,Primary,Portland South Primary School
+4753,-37.73512,145.07412,Primary,Rosanna Golf Links Primary School
+4754,-37.96526,145.06835,Primary,Cheltenham East Primary School
+4755,-38.14794,145.24506,Primary,Cranbourne South Primary School
+4761,-36.37256,146.31718,Primary,Yarrunga Primary School
+4762,-37.55244,143.8187,Special,Ballarat Specialist School
+4764,-37.73305,145.02946,Primary,Preston North East Primary School
+4767,-37.69779,148.466,Primary,Orbost North Primary School
+4768,-38.11424,144.3377,Special,Nelson Park School
+4770,-37.58264,144.93355,Primary,Craigieburn Primary School
+4773,-38.38959,142.49958,Primary,Warrnambool East Primary School
+4775,-38.34363,143.57203,Primary,Colac South West Primary School
+4777,-37.74662,142.0344,Primary,George Street Primary School - Hamilton
+4778,-37.91461,145.05717,Primary,Valkstone Primary School
+4780,-38.16049,145.12697,Primary,Overport Primary School
+4788,-37.82104,144.87443,Primary,Wembley Primary School
+4792,-37.77964,144.85541,Special,Rosamond Special School
+4798,-38.06649,145.12564,Primary,Bonbeach Primary School
+4802,-37.96265,145.15815,Primary,Heatherhill Primary School
+4803,-37.97424,145.03661,Primary,Beaumaris North Primary School
+4804,-38.11776,144.3271,Primary,Hamlyn Banks Primary School
+4807,-37.97029,145.19153,Primary,Yarraman Oaks Primary School
+4808,-37.82859,145.18009,Primary,Mount Pleasant Road Nunawading Primary School
+4809,-37.70496,144.90829,Primary,Glenroy West Primary School
+4810,-37.99895,145.21143,Primary,Dandenong South Primary School
+4811,-37.73174,144.80201,Primary,St Albans North Primary School
+4812,-37.76784,144.86085,Primary,Avondale Primary School
+4813,-37.79624,145.15984,Primary,Beverley Hills Primary School
+4814,-36.12241,146.87671,Primary,Wodonga West Primary School
+4815,-38.16181,145.14717,Primary,Frankston Heights Primary School
+4816,-37.80368,145.13525,Primary,Kerrimuir Primary School
+4819,-37.83035,145.25769,Primary,Heathmont East Primary School
+4821,-37.72486,144.91598,Primary,Strathmore North Primary School
+4823,-37.92221,145.0947,Primary,Oakleigh South Primary School
+4827,-37.68033,145.0249,Primary,Thomastown East Primary School
+4832,-37.88892,145.11127,Primary,Mount Waverley Heights Primary School
+4837,-37.93451,145.06942,Primary,East Bentleigh Primary School
+4838,-37.70703,145.08692,Primary,Watsonia Primary School
+4843,-37.98711,145.08824,Primary,Parktone Primary School
+4844,-37.81619,145.206,Primary,Antonio Park Primary School
+4845,-37.71602,145.0372,Primary,Kingsbury Primary School
+4848,-37.78107,144.80049,Primary,Ardeer Primary School
+4851,-37.94219,145.13574,Primary,Westall Primary School
+4852,-37.7022,144.87957,Primary,Tullamarine Primary School
+4853,-38.0957,147.08383,Primary,Guthridge Primary School
+4854,-37.77952,145.21592,Primary,Park Orchards Primary School
+4855,-37.76212,144.82304,Primary,Albion North Primary School
+4860,-37.8276,145.1661,Primary,Blackburn Lake Primary School
+4863,-37.8271,145.13921,Primary,Laburnum Primary School
+4867,-38.10121,144.32646,Primary,Rollins Primary School
+4871,-37.80034,145.17804,Special,Heatherwood School
+4873,-38.17959,144.31977,Primary,Bellaire Primary School
+4874,-37.89012,145.14234,Primary,Pinewood Primary School
+4875,-37.68019,144.92849,Primary,Broadmeadows Primary School
+4876,-37.69576,144.96722,Primary,Moomba Park Primary School
+4877,-37.73752,144.86649,Primary,Keilor Heights Primary School
+4879,-37.79379,145.26424,Primary,Ainslie Parklands Primary School
+4881,-37.84384,145.17718,Primary,Parkmore Primary School
+4885,-38.01592,144.41054,Primary,Lara Primary School
+4886,-37.79774,145.23944,Primary,Mullum Primary School
+4887,-38.10406,145.27775,Primary,Cranbourne Park Primary School
+4892,-37.73473,145.08999,Primary,Viewbank Primary School
+4893,-37.69228,145.11865,Primary,Greenhills Primary School
+4894,-37.91314,145.32684,Primary,Upwey South Primary School
+4895,-38.49862,143.20788,Primary,Simpson Primary School
+4897,-37.71143,145.15486,Primary,Eltham East Primary School
+4902,-38.10984,145.14693,Primary,Belvedere Park Primary School
+4903,-37.86299,145.11564,Primary,Essex Heights Primary School
+4905,-37.88569,145.26971,Primary,Mountain Gate Primary School
+4906,-37.8696,145.2648,Primary,Fairhills Primary School
+4908,-37.85856,145.27848,Primary,Boronia West Primary School
+4910,-37.94118,145.05697,Primary,Southmoor Primary School
+4911,-37.80423,145.21721,Primary,Ringwood Heights Primary School
+4915,-37.69936,144.92053,Special,Glenroy Specialist School
+4916,-37.79894,145.29616,Primary,Ruskin Park Primary School
+4918,-37.96986,145.2081,Special,Emerson School
+4919,-38.1538,144.32686,Primary,Fyans Park Primary School
+4922,-38.13792,145.15228,Primary,Karingal Primary School
+4923,-37.88348,145.17881,Primary,Mount View Primary School
+4924,-37.87909,145.1433,Primary,Syndal South Primary School
+4925,-37.72493,145.12966,Primary,Montmorency South Primary School
+4931,-37.83698,144.84917,Primary,Altona North Primary School
+4932,-37.84675,145.16328,Primary,Burwood Heights Primary School
+4934,-37.06576,142.77129,Primary,Stawell West Primary School
+4935,-37.7153,145.10073,Primary,Watsonia Heights Primary School
+4936,-37.52319,143.83543,Primary,Forest Street Primary School
+4937,-37.7968,145.32724,Primary,Pembroke Primary School
+4939,-38.12562,145.1574,Primary,Mahogany Rise Primary School
+4943,-36.3985,145.4059,Primary,Wilmot Road Primary School Shepparton
+4944,-37.70734,145.06299,Primary,Bundoora Primary School
+4945,-37.75489,144.80307,Primary,University Park Primary School
+4948,-37.74865,144.81037,Primary,St Albans Heights Primary School
+4949,-35.74123,143.92716,Primary,Kerang South Primary School
+4950,-37.6724,144.92701,Special,Hume Valley School
+4955,-37.98001,145.0828,Primary,Mentone Park Primary School
+4961,-37.80041,145.17378,Primary,Donvale Primary School
+4962,-38.10589,144.33602,Primary,Bell Park North Primary School
+4967,-37.84457,145.29648,Primary,Boronia Heights Primary School
+4968,-37.88836,145.16175,Special,Glenallen School
+4970,-38.3111,146.41542,Primary,Churchill Primary School
+4972,-38.16627,144.31612,Primary,Montpellier Primary School
+4973,-37.8549,145.26135,Primary,Bayswater South Primary School
+4974,-38.09016,145.13361,Primary,Seaford North Primary School
+4975,-38.22793,146.42446,Primary,Morwell Park Primary School
+4976,-37.67658,145.03554,Primary,Lalor East Primary School
+4979,-37.75602,144.81418,Special,Jackson School
+4980,-37.7956,144.97045,Primary,Carlton Primary School
+4983,-38.18571,144.33986,Primary,Wangala Primary School
+4985,-37.76061,145.10938,Primary,Templestowe Valley Primary School
+4986,-37.86702,145.17407,Primary,Highvale Primary School
+4988,-37.7004,145.08051,Primary,Watsonia North Primary School
+4989,-37.96024,145.21636,Primary,Wooranna Park Primary School
+4990,-37.88363,145.2514,Primary,Knox Park Primary School
+4991,-37.79342,145.11335,Primary,Birralee Primary School
+4995,-37.27465,142.94005,Primary,Ararat North Primary School
+4996,-38.17444,145.12094,Primary,Derinya Primary School
+4999,-37.6787,145.00079,Primary,Thomastown West Primary School
+5000,-37.92292,145.23711,Primary,Rowville Primary School
+5002,-37.87288,144.69612,Primary,Mossfiel Primary School
+5004,-37.76721,145.11935,Primary,Templestowe Heights Primary School
+5005,-38.14746,145.15828,Primary,Ballam Park Primary School
+5006,-37.5748,144.71292,Primary,Sunbury West Primary School
+5007,-37.68715,144.88658,Primary,Gladstone Park Primary School
+5009,-37.77213,145.30955,Primary,Manchester Primary School
+5010,-37.86708,145.15904,Primary,Glendal Primary School
+5011,-37.77376,145.32114,Primary,Bimbadeen Heights Primary School
+5012,-37.87582,145.27802,Primary,Wattle View Primary School
+5013,-37.70891,145.13008,Primary,Sherbourne Primary School
+5019,-37.78746,145.16552,Primary,Donburn Primary School
+5020,-36.3985,145.39097,Primary,Guthrie Street Primary School Shepparton
+5021,-38.10805,147.08906,Primary,Araluen Primary School
+5023,-37.79435,144.95097,Special,Royal Childrens Hospital Education Institute
+5025,-37.85114,145.1806,Special,Vermont South Special School
+5027,-37.702,145.07501,Special,Concord School
+5032,-37.772,144.76444,Primary,Deer Park West Primary School
+5034,-37.67433,144.96587,Primary,Campbellfield Heights Primary School
+5035,-37.66415,145.02854,Primary,Lalor North Primary School
+5036,-37.67748,144.56749,Primary,Melton West Primary School
+5037,-37.67419,145.1656,Primary,Diamond Creek East Primary School
+5038,-37.91432,145.17325,Primary,Brandon Park Primary School
+5039,-37.84907,145.25305,Primary,Bayswater West Primary School
+5040,-38.22603,145.05875,Primary,Mornington Park Primary School
+5042,-36.13962,146.89399,Primary,Wodonga South Primary School
+5043,-38.11662,145.16162,Primary,Aldercourt Primary School
+5044,-37.81363,144.99574,Primary,Richmond West Primary School
+5045,-37.83641,145.23294,Primary,Marlborough Primary School
+5047,-37.7361,144.78121,Primary,Stevensville Primary School
+5048,-37.77958,145.36852,Primary,Birmingham Primary School
+5049,-37.88377,144.69123,Primary,Woodville Primary School
+5050,-37.79899,144.81407,Primary,Glengala Primary School
+5053,-38.14148,145.16681,Primary,Karingal Heights Primary School
+5055,-37.97962,145.17082,Primary,Wallarano Primary School
+5057,-37.75518,145.33611,Primary,Victoria Road Primary School
+5059,-37.7868,145.3357,Primary,Mooroolbark East Primary School
+5064,-37.7884,144.799,Primary,Ardeer South Primary School
+5066,-37.8111,145.32291,Primary,Gladesville Primary School
+5067,-36.86431,147.27976,Primary,Falls Creek Primary School
+5068,-37.78598,144.93515,Primary,Debney Meadows Primary School
+5072,-38.00942,145.2952,Primary,Fountain Gate Primary School
+5075,-37.81841,145.26534,Primary,Tinternvale Primary School
+5076,-38.20828,144.32895,Primary,Grovedale West Primary School
+5079,-38.19174,146.2572,Special,Baringa Special School
+5080,-38.14716,145.163,Special,Naranga Special School
+5082,-37.88349,145.26273,Primary,Kent Park Primary School
+5084,-37.75614,144.77403,Primary,Deer Park North Primary School
+5087,-37.94411,145.21346,Primary,Rosewood Downs Primary School
+5088,-36.3801,145.34594,Primary,Mooroopna Park Primary School
+5090,-37.69487,144.57266,Primary,Coburn Primary School
+5091,-37.89406,144.64389,Primary,Manorvale Primary School
+5093,-37.68901,144.89837,Primary,Gladstone Views Primary School
+5094,-37.90017,145.17759,Primary,Wheelers Hill Primary School
+5097,-37.85966,145.10716,Special,Ashwood School
+5098,-37.6814,144.9141,Primary,Broadmeadows Valley Primary School
+5099,-37.76329,145.09506,Special,Bulleen Heights School
+5101,-37.96278,145.07907,Primary,Kingston Heath Primary School
+5104,-37.74822,145.20768,Primary,Andersons Creek Primary School
+5105,-37.91475,145.18428,Primary,Waverley Meadows Primary School
+5106,-37.983,145.1238,Primary,Kingswood Primary School
+5109,-37.77682,144.93236,Special,Ascot Vale Heights School
+5111,-37.86528,145.18777,Primary,Camelot Rise Primary School
+5113,-37.85289,145.18067,Primary,Livingstone Primary School
+5117,-38.30464,146.41695,Primary,Churchill North Primary School
+5118,-37.75337,144.81778,Primary,St Albans Meadows Primary School
+5120,-37.94923,145.19288,Primary,Silverton Primary School
+5121,-37.7893,145.25483,Primary,Kalinda Primary School
+5123,-38.17815,144.39501,Primary,Whittington Primary School
+5127,-37.73256,145.38271,Primary,Coldstream Primary School
+5129,-37.75627,145.14326,Primary,Templestowe Park Primary School
+5130,-38.03465,145.26051,Primary,River Gum Primary School
+5131,-37.85487,145.23616,Primary,Regency Park Primary School
+5132,-37.81008,145.28575,Primary,Dorset Primary School
+5133,-38.37376,144.8835,Primary,Eastbourne Primary School
+5134,-37.68259,144.9931,Primary,Thomastown Meadows Primary School
+5135,-38.16808,145.1557,Primary,Kingsley Park Primary School
+5136,-37.97906,145.24585,Primary,James Cook Primary School
+5139,-37.73771,144.77536,Primary,Movelle Primary School
+5140,-38.1884,145.10054,Primary,Mount Eliza North Primary School
+5141,-36.1305,146.86142,Primary,Melrose Primary School
+5142,-38.01399,145.09669,Special,Yarrabah School
+5143,-38.1433,145.1702,Special,Frankston Special Developmental School
+5144,-37.75629,145.04074,Special,Waratah Special Developmental School
+5145,-37.83679,144.94197,Special,Port Phillip Specialist School
+5147,-35.92582,145.65158,Special,Cobram and District Specialist School
+5151,-37.90698,145.1658,Special,Monash Special Developmental School
+5152,-37.89587,144.62857,Primary,Iramoo Primary School
+5153,-36.36744,145.41529,Special,Verney Road School
+5157,-37.85916,145.17764,Primary,Weeden Heights Primary School
+5160,-37.67461,145.06588,Primary,Mill Park Primary School
+5161,-37.68675,145.11165,Special,Diamond Valley Special Developmental School
+5162,-37.68057,144.56822,Special,Melton Specialist School
+5164,-37.94936,145.15431,Special,Springvale Park Special Developmental School
+5165,-37.88404,144.68759,Special,Warringa Park School
+5168,-37.7699,145.15557,Primary,Serpell Primary School
+5171,-38.27556,145.01373,Primary,Mount Martha Primary School
+5172,-37.86869,144.77973,Primary,Altona Meadows Primary School
+5173,-37.89242,145.39284,Primary,The Patch Primary School
+5175,-38.08164,147.07075,Special,Sale and District Specialist School
+5176,-37.90284,145.19285,Primary,Jells Park Primary School
+5179,-37.74402,144.77442,Primary,Albanvale Primary School
+5180,-37.56525,144.72867,Primary,Kismet Park Primary School
+5181,-37.57582,143.86526,Camp,Sovereign Hill School
+5182,-38.18768,145.07623,Primary,Kunyung Primary School
+5184,-37.68739,145.10987,Primary,Apollo Parkways Primary School
+5185,-38.2004,144.32788,Primary,Mandama Primary School
+5186,-37.6592,144.91782,Primary,Bethal Primary School
+5189,-38.10271,145.26772,Primary,Cranbourne West Primary School
+5190,-38.06984,145.14479,Primary,Patterson Lakes Primary School
+5191,-38.10504,145.15444,Primary,Seaford Park Primary School
+5193,-37.82495,145.33925,Primary,Billanook Primary School
+5194,-37.75007,145.31134,Primary,Chirnside Park Primary School
+5195,-38.43123,145.48877,Primary,Bass Valley Primary School
+5196,-37.86094,145.23229,Primary,Templeton Primary School
+5197,-37.58114,144.70696,Primary,Sunbury Heights Primary School
+5200,-37.65528,144.43691,Primary,Darley Primary School
+5201,-37.58478,143.81853,Primary,Delacombe Primary School
+5202,-38.29789,145.17275,Primary,Wallaroo Primary School
+5205,-37.96839,145.26772,Primary,Mossgiel Park Primary School
+5206,-37.67562,144.55421,Primary,Wedge Park Primary School
+5207,-36.34159,146.30071,Primary,Appin Park Primary School
+5210,-37.81563,145.28078,Special,Croydon Special Developmental School
+5212,-37.7738,145.17519,Primary,Milgate Primary School
+5213,-38.03114,145.32743,Primary,Berwick Lodge Primary School
+5214,-37.76144,144.8271,Special,Furlong Park School For Deaf Children
+5215,-37.85635,144.77363,Special,Jennings Street School
+5218,-37.59602,144.72933,Special,Sunbury And Macedon Ranges Specialist School
+5219,-37.70059,145.02993,Special,Northern School For Autism
+5221,-38.20403,146.55136,Special,Latrobe Special Developmental School
+5222,-36.12321,146.85454,Special,Belvoir Wodonga Special Developmental School
+5224,-38.15007,145.28805,Primary,Botanic Ridge Primary School
+5225,-37.8572,145.14212,Special,Burwood East Special Developmental School
+5226,-36.34379,146.30016,Special,Wangaratta District Specialist School
+5227,-37.65042,144.92384,Primary,Meadow Heights Primary School
+5228,-38.36224,141.59245,Primary,Bundarra Primary School
+5230,-38.34184,145.01011,Special,Peninsula Specialist College
+5231,-37.96973,145.2477,Primary,Chalcot Lodge Primary School
+5232,-38.08736,145.27622,Primary,Rangebank Primary School
+5234,-37.88228,145.22958,Primary,Knox Gardens Primary School
+5235,-37.98823,145.26441,Primary,Southern Cross Primary School
+5236,-37.73315,144.76754,Primary,Kings Park Primary School
+5238,-38.0076,145.296,Special,Dandenong Valley Special Developmental School
+5239,-38.22611,145.05718,Special,Mornington Special Developmental School
+5240,-37.94336,145.0568,Special,Bayside Special Developmental School
+5241,-37.76651,145.32684,Primary,Rolling Hills Primary School
+5243,-37.60875,144.93585,Primary,Craigieburn South Primary School
+5244,-37.6665,145.05107,Primary,Findon Primary School
+5245,-38.05819,147.56717,Primary,Loch Sport Primary School
+5246,-37.77502,145.38487,Special,Yarra Ranges Special Developmental School
+5247,-38.34571,143.58902,Special,Colac Specialist School
+5248,-37.58052,144.75105,Primary,Goonawarra Primary School
+5251,-34.19988,142.14364,Special,Mildura Specialist School
+5253,-37.92672,145.06208,Special,Southern Autistic School
+5254,-37.87108,144.71078,Primary,Bellbridge Primary School
+5255,-37.77668,145.27204,Primary,Croydon Hills Primary School
+5256,-37.67057,144.58632,Primary,Kurunjang Primary School
+5257,-38.15092,145.2025,Primary,Langwarrin Park Primary School
+5258,-37.70965,144.79377,Primary,Taylors Lakes Primary School
+5260,-37.68998,145.13984,Primary,Glen Katherine Primary School
+5261,-37.73292,144.95174,Special,Coburg Special Developmental School
+5262,-37.68165,144.9141,Special,Broadmeadows Special Developmental School
+5267,-37.80343,144.81989,Special,Sunshine Special Developmental School
+5268,-35.34924,143.54509,Special,Swan Hill Specialist School
+5269,-37.82957,144.99907,Primary,Richmond Primary School
+5271,-37.81464,145.00748,Primary,Yarra Primary School
+5272,-37.05767,142.78383,Special,Skene Street School Stawell
+5273,-36.70784,142.18678,Special,Horsham Special School
+5276,-38.32356,143.06466,Special,Hampden Specialist School
+5277,-38.35498,142.48177,Special,Merri River School
+5278,-37.81791,144.88365,Special,Yarraville Special Developmental School
+5280,-38.16566,144.55314,Primary,Clifton Springs Primary School
+5281,-37.91841,145.26246,Primary,Park Ridge Primary School
+5282,-38.34633,141.59756,Special,Portland Bay School
+5283,-37.72686,142.02246,Special,Hamilton Parklands School
+5284,-37.66724,145.01508,Special,Merriang Special Developmental School
+5285,-37.84023,145.14653,Primary,Orchard Grove Primary School
+5286,-37.64275,145.05309,Primary,Meadowglen Primary School
+5287,-37.88677,144.78492,Primary,Altona Green Primary School
+5288,-37.78944,145.08789,Primary,Boroondara Park Primary School
+5289,-38.16489,145.92506,Special,Warragul & District Specialist School
+5290,-37.85078,144.77807,Special,Western Autistic School
+5291,-36.25761,142.39075,Special,Warracknabeal Special Developmental School
+5292,-38.04385,145.27435,Primary,Coral Park Primary School
+5293,-38.00344,145.30412,Primary,Maramba Primary School
+5294,-37.98056,145.27391,Primary,Thomas Mitchell Primary School
+5295,-37.90532,145.26328,Primary,Karoo Primary School
+5297,-37.71723,144.77753,Primary,Mackellar Primary School
+5298,-36.79587,144.24015,Special,Bendigo Special Developmental School
+5299,-36.13829,144.72461,Special,Echuca Twin Rivers Specialist School
+5301,-38.02251,145.1168,Primary,Aspendale Gardens Primary School
+5305,-38.04874,145.33439,Primary,Berwick Fields Primary School
+5308,-38.05298,145.34777,Primary,Brentwood Park Primary School
+5309,-37.88042,145.28492,Special,Eastern Ranges School
+5310,-37.60984,145.00257,Primary,Edgars Creek Primary School
+5311,-37.78994,144.54755,Primary,Eynesbury Primary School
+5312,-37.86739,144.67569,Primary,Cambridge Primary School
+5313,-38.10442,145.19245,Primary,Rowellyn Park Primary School
+5315,-37.85984,144.69102,Pri/Sec,Baden Powell P-9 College
+5319,-38.13568,145.20502,Primary,Woodlands Primary School
+5325,-37.65733,145.05175,Primary,Mill Park Heights Primary School
+5336,-37.71727,144.79205,Primary,Monmia Primary School
+5337,-37.87884,144.7579,Primary,Seabrook Primary School
+5342,-37.59178,144.92259,Primary,Willmott Park Primary School
+5343,-37.9032,144.63788,Primary,Thomas Chirnside Primary School
+5345,-37.93392,145.24288,Primary,Heany Park Primary School
+5346,-34.19367,142.1339,Primary,Ranfurly Primary School
+5350,-38.03416,145.27957,Primary,Kilberry Valley Primary School
+5352,-37.56379,144.70458,Primary,Killara Primary School
+5354,-38.26145,144.54166,Primary,Surfside Primary School
+5358,-38.05488,145.39659,Primary,Orchard Park Primary School
+5361,-37.92103,144.63933,Primary,Riverwalk Primary School
+5362,-37.74393,144.88706,Special,Niddrie Autistic School
+5363,-38.00644,145.31619,Primary,Oatlands Primary School
+5365,-37.8785,144.65953,Primary,Westgrove Primary School
+5367,-36.63424,145.71697,Primary,Peranbin Primary College
+5368,-38.17878,144.32804,Special,Barwon Valley School
+5369,-37.65586,144.42318,Primary,Pentland Primary School
+5370,-38.06063,145.49442,Primary,Pakenham Hills Primary School
+5371,-38.08012,145.28345,Primary,Courtenay Gardens Primary School
+5372,-38.23003,145.16775,Primary,Somerville Rise Primary School
+5375,-37.93959,143.21674,Pri/Sec,Derrinallum P-12 College
+5376,-38.08637,142.80955,Pri/Sec,Mortlake P-12 College
+5377,-37.85635,141.79872,Primary,Branxholme-Wallacedale Community School
+5380,-38.24124,144.31968,Primary,Mount Duneed Regional Primary School
+5381,-38.28599,142.52288,Primary,Grasmere Primary School
+5382,-38.25268,141.71658,Primary,Narrawong District Primary School
+5383,-37.57297,143.87591,Primary,Canadian Lead Primary School
+5384,-37.55542,143.89424,Primary,Caledonian Primary School
+5385,-38.08273,145.37283,Primary,Grayling Primary School
+5386,-35.34395,142.42708,Primary,Tempy Primary School
+5389,-37.95912,146.39897,Primary,Rawson Primary School
+5392,-38.0235,147.0121,Primary,Bundalaguah Primary School
+5393,-38.20464,145.88035,Primary,Lardner and District Primary School
+5395,-38.05399,146.87481,Primary,Nambrok Denison Primary School
+5396,-38.66552,146.43111,Primary,Welshpool and District Primary School
+5397,-36.76558,146.41206,Primary,Whitfield District Primary School
+5398,-36.61784,146.23636,Primary,Greta Valley Primary School
+5399,-36.43532,146.54454,Primary,Everton Primary School
+5402,-34.47385,142.35779,Primary,Nangiloc Colignan and District Primary School
+5403,-35.50928,142.85352,Pri/Sec,Tyrrell College
+5404,-37.00297,144.25723,Primary,Harcourt Valley Primary School
+5407,-35.23248,143.47891,Primary,Beverford District Primary School
+5410,-37.73085,144.87843,Primary,Niddrie Primary School
+5412,-37.6232,144.87884,Primary,Keelonith Primary School
+5413,-37.54796,143.7804,Primary,Lucas Primary School
+5414,-37.60627,144.59423,Primary,Toolern Vale and District Primary School
+5416,-37.86288,145.10687,Primary,Parkhill Primary School
+5418,-38.12516,145.13174,Primary,Kananook Primary School
+5419,-37.83477,145.12521,Primary,Roberts McCubbin Primary School
+5420,-38.57934,146.01518,Primary,Meeniyan Primary School
+5421,-38.17604,145.56603,Primary,Bayles Regional Primary School
+5422,-37.95926,145.06814,Primary,Le Page Primary School
+5423,-38.56035,145.5462,Primary,Powlett River Primary School
+5425,-37.87472,145.16759,Primary,Glen Waverley Primary School
+5426,-37.89148,145.24649,Primary,Carrington Primary School
+5427,-37.92812,145.17289,Primary,Albany Rise Primary School
+5428,-37.90032,145.10878,Primary,Amsleigh Park Primary School
+5429,-37.86116,145.25498,Primary,Knox Central Primary School
+5430,-37.86802,145.14135,Primary,Mount Waverley North Primary School
+5431,-37.82958,145.2063,Primary,Rangeview Primary School
+5432,-37.03343,141.29856,Pri/Sec,Edenhope College
+5433,-35.26557,141.17734,Pri/Sec,Murrayville Community College
+5434,-38.10698,142.31917,Pri/Sec,Hawkesdale P12 College
+5435,-37.94284,145.18873,Pri/Sec,Carwatha College P-12
+5436,-37.89686,145.16761,Primary,Glen Waverley South Primary School
+5438,-37.72156,145.10222,Primary,Streeton Primary School
+5439,-35.29041,143.45374,Primary,Woorinen District Primary School
+5440,-37.64352,143.6843,Primary,Woady Yaloak Primary School
+5441,-37.75279,145.65186,Primary,Millwarra Primary School
+5442,-38.29418,146.70321,Primary,Gormandale And District Primary School
+5443,-37.63206,144.91628,Primary,Roxburgh Homestead Primary School
+5444,-38.16516,144.39495,Primary,Newcomb Primary School
+5450,-37.79169,144.85612,Primary,Dinjerra Primary School
+5453,-37.7012,144.94394,Primary,Belle Vue Park Primary School
+5454,-37.78161,145.1479,Primary,Doncaster Gardens Primary School
+5456,-35.18608,143.34319,Primary,Nyah District Primary School
+5463,-38.06312,145.28692,Primary,Strathaird Primary School
+5464,-38.1102,145.2965,Special,Marnebek School Cranbourne
+5478,-37.8238,145.23763,Primary,Great Ryrie Primary School
+5479,-38.01557,145.32263,Pri/Sec,Timbarra P-9 College
+5480,-37.69921,144.74446,Primary,Parkwood Green Primary School
+5482,-38.06472,145.30746,Primary,Hillsmeade Primary School
+5485,-37.63424,144.9314,Primary,Roxburgh Park Primary School
+5486,-37.88474,144.74313,Pri/Sec,Carranballac P-9 College
+5488,-38.24595,145.06111,Primary,Benton Junior College
+5489,-37.88805,145.02003,Primary,Caulfield Primary School
+5490,-37.82871,147.599,Special,East Gippsland Specialist School
+5493,-37.61621,144.9235,Primary,Roxburgh Rise Primary School
+5494,-38.05239,145.24899,Primary,Lynbrook Primary School
+5495,-38.47819,145.95729,Special,South Gippsland Specialist School
+5497,-37.58582,145.12687,Primary,Laurimar Primary School
+5498,-37.86453,144.72565,Primary,Truganina South Primary School
+5499,-37.73503,144.75458,Primary,Kororoit Creek Primary School
+5500,-37.62208,145.00226,Primary,Harvest Home Primary School
+5501,-37.83877,144.71909,Pri/Sec,Truganina P-9 College
+5502,-37.74566,144.75289,Primary,Burnside Primary School
+5503,-38.06743,145.34696,Primary,Berwick Chase Primary School
+5504,-38.06846,145.439,Primary,Pakenham Lakeside Primary School
+5505,-37.85588,144.66024,Primary,Davis Creek Primary School
+5507,-38.08451,145.47008,Primary,Pakenham Springs Primary School
+5508,-37.71669,144.7599,Primary,Taylors Hill Primary School
+5510,-38.08753,145.28906,Primary,Cranbourne Carlisle Primary School
+5511,-37.84018,145.15079,Special,Aurora School
+5512,-37.78927,144.7632,Primary,Derrimut Primary School
+5513,-37.62844,145.02402,Primary,Epping Views Primary School
+5516,-36.13772,144.72467,Primary,Echuca Twin Rivers Primary School
+5518,-38.10628,145.30444,Primary,Cranbourne East Primary School
+5520,-37.5275,143.8204,Pri/Sec,Yuille Park P-8 Community College
+5521,-38.07496,145.25408,Primary,Lyndhurst Primary School
+5522,-37.58175,144.90557,Primary,Aitken Creek Primary School
+5523,-37.70552,145.02272,Primary,Reservoir Views Primary School
+5524,-37.68754,144.92956,Primary,Meadows Primary School
+5525,-37.61403,145.09694,Primary,Mernda Park Primary School
+5526,-37.78293,144.84569,Primary,Sunshine Harvester Primary School
+5527,-38.06394,145.51084,Primary,Pakenham Primary School
+5528,-37.90824,144.74133,Pri/Sec,Alamanda K-9 College
+5530,-37.80747,145.16699,Primary,Whitehorse Primary School
+5531,-36.7706,144.2573,Primary,Golden Square Primary School
+5532,-37.66369,145.00135,Primary,Lalor Gardens Primary School
+5533,-37.9924,145.18048,Primary,Chandler Park Primary School
+5534,-37.98263,145.15242,Primary,Keysborough Primary School
+5535,-37.96505,145.20465,Primary,Lyndale Greens Primary School
+5536,-37.97105,145.14997,Primary,Athol Road Primary School
+5537,-37.93926,145.15904,Primary,Springvale Rise Primary School
+5538,-37.95884,145.13951,Primary,Spring Parks Primary School
+5539,-37.71765,144.80919,Primary,Keilor Views Primary School
+5540,-37.88487,144.67655,Primary,Wyndham Park Primary School
+5541,-36.73692,144.26844,Primary,Lightning Reef Primary School
+5542,-37.70428,144.92504,Primary,Glenroy Central Primary School
+5544,-37.69667,145.00278,Primary,William Ruthven Primary School
+5545,-37.57099,144.90955,Primary,Newbury Primary School
+5546,-37.6703,144.94185,Primary,Dallas Brooks Community Primary School
+5548,-36.71138,142.21515,Primary,Horsham Primary School
+5549,-37.89556,144.60961,Primary,Wyndham Vale Primary School
+5550,-38.07079,145.41131,Special,Officer Specialist School
+5551,-37.64485,145.02559,Primary,Epping Primary School
+5552,-37.59755,145.11937,Pri/Sec,Hazel Glen College
+5553,-38.0816,145.32734,Primary,Tulliallan Primary School
+5554,-37.66206,144.9309,Primary,Coolaroo South Primary School
+5555,-37.68762,144.91309,Special,Jacana School for Autism
+5556,-38.30456,144.33818,Primary,Torquay Coast Primary School
+5557,-37.66636,144.54286,Primary,Arnolds Creek Primary School
+5558,-38.10893,145.31981,Primary,Wilandra Rise Primary School
+5559,-37.82935,144.9535,Primary,South Melbourne Primary School
+5560,-38.11498,145.23902,Primary,Barton Primary School
+5561,-38.07754,145.4428,Primary,John Henry Primary School
+5562,-37.84054,144.9627,Primary,South Melbourne Park Primary School
+5563,-38.07195,145.41966,Primary,Bridgewood Primary School
+5564,-38.23261,144.36731,Primary,Armstrong Creek School
+5565,-38.12528,144.33237,Special,Hamlyn Views School
+5566,-38.45737,144.10997,Primary,Aireys Inlet Primary School
+5567,-37.60171,144.90556,Primary,Aitken Hill Primary School
+5568,-38.23167,146.40764,Primary,Morwell Central Primary School
+5569,-37.61564,145.12728,Primary,Ashley Park Primary School
+5570,-38.12014,145.29841,Primary,Casey Fields Primary School
+5571,-38.22492,144.32848,Primary,Mirripoa Primary School
+5572,-38.00951,145.16132,Primary,Keysborough Gardens Primary School
+5573,-37.81271,144.94055,Primary,Docklands Primary School
+5574,-37.82878,144.72505,Primary,Garrang Wilam Primary School
+5575,-37.7238,144.66623,Primary,Aintree Primary School
+5577,-37.53707,144.99775,Primary,Donnybrook Primary School
+5578,-37.72176,144.69701,Primary,Deanside Primary School
+5579,-37.52861,144.90909,Primary,Gaayip-Yagila Primary School
+5580,-37.87627,144.62651,Primary,Riverbend Primary School
+5581,-38.11488,145.33828,Primary,Ramlegh Park Primary School
+5583,-37.71662,144.58976,Primary,Strathtulloh Primary School
+5584,-37.53243,144.95825,Primary,Gilgai Plains Primary School
+5585,-37.59795,144.99354,Primary,Barrawang Primary School
+5587,-37.50394,144.6081,Primary,Willowbank Primary School
+5588,-38.12299,145.33155,Primary,Clyde Creek Primary School
+5589,-37.61133,145.02711,Primary,Wollert Primary School
+5590,-37.97889,145.24388,Special,Endeavour Hills Specialist School
+5591,-38.09481,145.25017,Primary,Quarters Primary School
+5592,-37.86679,144.58403,Primary,Ngarri Primary School
+5593,-37.91097,144.61342,Primary,Lollypop Creek Primary School
+5594,-38.07026,145.40499,Primary,Kurrun Primary School
+5595,-37.71533,144.62601,Primary,Thornhill Park Primary School
+5596,-37.85261,144.64577,Primary,Karwan Primary School
+5597,-37.82571,144.68496,Primary,Nearnung Primary School
+5608,-37.57591,144.92108,Special,Wayi School
+6201,-38.2419,143.50332,Primary,Alvie Primary School
+6203,-38.75352,143.66051,Pri/Sec,Apollo Bay P-12 College
+6207,-37.87959,146.97947,Primary,Boisdale Consolidated School
+6209,-35.92511,145.6511,Primary,Cobram Primary School
+6211,-35.80632,144.21342,Primary,Cohuna Consolidated School
+6212,-37.80298,144.9905,Pri/Sec,Collingwood College
+6215,-37.63898,142.34037,Primary,Dunkeld Consolidated School
+6217,-36.37222,144.14145,Pri/Sec,East Loddon P-12 College
+6221,-38.65734,146.202,Primary,Foster Primary School
+6223,-36.71579,141.48354,Pri/Sec,Goroke P-12 College
+6225,-38.12752,141.61292,Primary,Heywood Consolidated School
+6229,-36.25105,147.03877,Primary,Kiewa Valley Primary School
+6231,-38.68184,143.38305,Pri/Sec,Lavers Hill K-12 College
+6233,-36.26577,144.53664,Primary,Lockington Consolidated School
+6235,-35.05623,142.88488,Pri/Sec,Manangatang P-12 College
+6236,-38.24628,142.92139,Pri/Sec,Terang College
+6237,-37.70637,141.54831,Primary,Merino Consolidated School
+6238,-36.58332,145.0144,Pri/Sec,Rushworth P-12 College
+6242,-37.72475,145.07222,Pri/Sec,Macleod College
+6243,-38.06537,145.46466,Primary,Pakenham Consolidated School
+6245,-38.34248,145.7697,Primary,Poowong Consolidated School
+6247,-38.38662,142.22822,Primary,Port Fairy Consolidated School
+6249,-38.36668,144.99527,Primary,Red Hill Consolidated School
+6252,-37.86824,145.34944,Pri/Sec,Sherbrooke Community School
+6255,-36.25215,144.95652,Primary,Tongala Primary School
+6257,-34.39041,141.59384,Pri/Sec,Werrimull P-12 School
+6259,-38.23973,143.14544,Pri/Sec,Camperdown College
+6260,-38.48406,142.97589,Pri/Sec,Timboon P-12 School
+6261,-37.76204,145.0257,Pri/Sec,Virtual School Victoria
+6262,-36.41702,143.61877,Pri/Sec,Wedderburn College
+6359,-37.76195,145.02583,Pri/Sec,Victorian School Of Languages
+6363,-37.93458,145.03628,Special,Avenues Education
+6364,-37.91938,145.12425,Special,Monash Children's Hospital School
+6368,-37.93896,145.03181,Special,Katandra Berendale Special School (interim name)
+7028,-38.17412,145.14663,Secondary,Mount Erin Secondary College
+7050,-37.80924,145.11191,Secondary,Box Hill Senior Secondary College
+7081,-37.60949,145.00507,Secondary,Edgars Creek Secondary College
+7082,-37.59829,144.89025,Secondary,Elevation Secondary College
+7086,-38.12955,145.33886,Secondary,Clyde Secondary College
+7088,-38.32404,143.06361,Secondary,Cobden Technical School
+7108,-38.07539,145.27103,Secondary,Lyndhurst Secondary College
+7115,-37.33467,144.15185,Secondary,Daylesford Secondary College
+7122,-38.34264,145.01358,Secondary,Dromana Secondary College
+7183,-38.2104,144.32744,Secondary,Grovedale College
+7198,-34.23233,142.1647,Secondary,Irymple Secondary College
+7205,-36.78865,144.23367,Secondary,Crusoe 7-10 Secondary College
+7217,-37.66691,145.01316,Secondary,Peter Lalor Secondary College
+7219,-37.74582,145.34141,Secondary,Lilydale Heights College
+7247,-37.70836,144.56869,Secondary,Staughton College
+7250,-34.19573,142.14798,Secondary,Chaffey Secondary College
+7255,-37.92736,145.0598,Secondary,Bentleigh Secondary College
+7267,-37.60796,143.87667,Secondary,Mount Clear College
+7275,-37.74668,144.88618,Secondary,Rosehill Secondary College
+7300,-37.74007,145.02537,Secondary,Northern College of the Arts and Technology
+7366,-37.82314,145.04082,Secondary,Swinburne Senior Secondary College
+7384,-37.82823,144.96477,Secondary,Victorian College Of The Arts Secondary School
+7395,-38.35871,142.45892,Secondary,Brauer Secondary College
+7402,-37.88893,144.65385,Secondary,Wyndham Central Secondary College
+7405,-36.73893,144.29798,Secondary,Weeroona College Bendigo
+7408,-37.51505,145.12018,Secondary,Whittlesea Secondary College
+7505,-37.19449,145.70148,Secondary,Alexandra Secondary College
+7526,-37.83988,145.04507,Secondary,Auburn High School
+7540,-37.55452,143.81821,Secondary,Ballarat High School
+7550,-37.79786,145.07677,Secondary,Balwyn High School
+7560,-37.83903,145.262,Secondary,Bayswater Secondary College
+7565,-37.43884,143.38249,Secondary,Beaufort Secondary College
+7566,-37.9784,145.03408,Secondary,Beaumaris Secondary College
+7575,-36.34722,146.69076,Secondary,Beechworth Secondary College
+7585,-38.17565,144.33056,Secondary,Belmont High School
+7595,-36.7553,144.27928,Secondary,Bendigo Senior Secondary College
+7603,-38.0314,145.36544,Secondary,Berwick Secondary College
+7610,-37.81037,145.14989,Secondary,Blackburn High School
+7618,-36.80408,147.22537,Pri/Sec,Outdoor School
+7635,-37.82,145.13721,Secondary,Box Hill High School
+7645,-37.77826,144.84754,Secondary,Braybrook College
+7647,-37.89951,145.16634,Secondary,Brentwood Secondary College
+7650,-37.92016,145.01912,Secondary,Brighton Secondary College
+7655,-37.20438,145.04003,Secondary,Broadford Secondary College
+7670,-37.74712,144.89775,Secondary,Buckley Park College
+7680,-37.83015,145.07282,Secondary,Camberwell High School
+7690,-37.82029,145.0691,Secondary,Canterbury Girls Secondary College
+7695,-37.5888,141.38749,Secondary,Casterton Secondary College
+7720,-37.95376,145.06868,Secondary,Cheltenham Secondary College
+7725,-35.9136,145.65412,Secondary,Cobram Secondary College
+7735,-35.8135,144.22642,Secondary,Cohuna Secondary College
+7747,-38.10759,145.28614,Secondary,Cranbourne Secondary College
+7748,-38.10672,145.24651,Secondary,Cranbourne West Secondary College
+7757,-37.78935,145.28126,Secondary,Croydon Community School
+7763,-37.78215,144.93324,Secondary,Mount Alexander 7-12 College
+7770,-36.44984,142.03441,Secondary,Dimboola Memorial Secondary College
+7773,-37.78213,145.15856,Secondary,East Doncaster Secondary College
+7775,-36.37078,142.97396,Secondary,Donald High School
+7776,-37.78458,145.13805,Secondary,Doncaster Secondary College
+7785,-38.14466,145.85098,Secondary,Drouin Secondary College
+7790,-36.72006,144.26163,Secondary,Eaglehawk Secondary College
+7805,-37.72444,145.14172,Secondary,Eltham High School
+7810,-37.88232,144.9852,Secondary,Elwood College
+7813,-37.644,145.03343,Secondary,Epping Secondary College
+7820,-36.7582,145.5648,Secondary,Euroa Secondary College
+7823,-37.87321,145.25904,Secondary,Fairhills High School
+7837,-36.77579,144.29759,Secondary,Bendigo South East 7-10 Secondary College
+7839,-37.83201,144.93204,Secondary,Port Melbourne Secondary College
+7842,-37.79104,144.89376,Secondary,Footscray High School
+7845,-38.65174,146.19741,Secondary,Foster Secondary College
+7850,-38.16219,145.12895,Secondary,Frankston High School
+7855,-38.15303,144.37373,Secondary,Geelong High School
+7856,-38.10996,144.34079,Secondary,North Geelong Secondary College
+7857,-37.49811,144.58477,Secondary,Gisborne Secondary College
+7858,-37.68977,144.89,Secondary,Gladstone Park Secondary College
+7874,-37.7075,145.06198,Secondary,Bundoora Secondary College
+7876,-36.37207,145.4154,Secondary,Greater Shepparton Secondary College
+7893,-38.30817,145.17638,Secondary,Western Port Secondary College
+7900,-37.64359,145.53081,Secondary,Healesville High School
+7910,-38.12927,141.6205,Secondary,Heywood District Secondary College
+7918,-37.86541,145.17682,Secondary,Highvale Secondary College
+7945,-35.72565,143.9138,Secondary,Kerang Technical High School
+7947,-37.78791,144.92558,Secondary,Kensington Community High School
+7950,-37.79555,145.06336,Secondary,Kew High School
+7954,-37.80219,145.11756,Secondary,Koonung Secondary College
+7955,-38.19709,145.49578,Secondary,Koo Wee Rup Secondary College
+7960,-38.44387,145.8039,Secondary,Korumburra Secondary College
+7965,-36.31748,145.05621,Pri/Sec,Kyabram P-12 College
+7970,-37.25133,144.45817,Secondary,Kyneton High School
+7985,-37.67266,145.03062,Secondary,Lalor Secondary College
+7986,-37.66077,145.03412,Secondary,Lalor North Secondary College
+7995,-37.7607,145.34392,Secondary,Lilydale High School
+7997,-38.53918,143.97389,Pri/Sec,Lorne P-12 College
+8000,-37.95876,145.20671,Secondary,Lyndale Secondary College
+8003,-37.81648,145.00226,Secondary,Lynall Hall Community School
+8005,-37.96489,146.98242,Secondary,Maffra Secondary College
+8010,-37.06268,146.08856,Secondary,Mansfield Secondary College
+8015,-37.77931,144.88823,Secondary,Maribyrnong Secondary College
+8022,-38.14959,144.35321,Secondary,Matthew Flinders Girls Secondary College
+8025,-37.83683,144.99531,Secondary,Melbourne High School
+8027,-37.68175,144.56822,Secondary,Melton Secondary College
+8030,-37.98018,145.0535,Secondary,Mentone Girls Secondary College
+8041,-37.52738,144.90194,Secondary,Mickleham Secondary College
+8045,-34.198,142.14539,Secondary,Mildura Senior College
+8050,-38.40018,146.14882,Secondary,Mirboo North Secondary College
+8065,-37.88318,145.42781,Secondary,Monbulk College
+8068,-37.71408,145.11361,Secondary,Montmorency Secondary College
+8071,-37.77508,145.31423,Secondary,Mooroolbark College
+8075,-38.01224,145.09268,Secondary,Mordialloc College
+8100,-36.74031,147.16728,Secondary,Mount Beauty Secondary College
+8102,-38.1897,145.09354,Secondary,Mount Eliza Secondary College
+8105,-37.86909,145.13231,Secondary,Mount Waverley Secondary College
+8125,-37.9122,145.04854,Secondary,McKinnon Secondary College
+8135,-37.83589,144.97186,Secondary,MacRobertson Girls High School
+8140,-36.0599,145.20844,Secondary,Nathalia Secondary College
+8145,-38.01694,145.95668,Secondary,Neerim District Secondary College
+8151,-38.17113,144.3952,Secondary,Newcomb Secondary College
+8180,-37.77416,144.98971,Secondary,Northcote High School
+8185,-37.79975,145.2376,Secondary,Norwood Secondary College
+8190,-36.07995,145.44627,Secondary,Numurkah Secondary College
+8210,-38.23176,144.36414,Secondary,Oberon High School
+8215,-37.70411,148.46635,Secondary,Orbost Secondary College
+8220,-35.06457,142.32261,Pri/Sec,Ouyen P-12 College
+8223,-38.069,145.471,Secondary,Pakenham Secondary College
+8224,-38.07827,145.44402,Secondary,Edenbrook Secondary College
+8225,-37.9903,145.0935,Secondary,Parkdale Secondary College
+8227,-37.71756,144.9355,Secondary,Pascoe Vale Girls Secondary College
+8231,-37.85175,144.99116,Secondary,Prahran High School
+8241,-37.74169,145.0064,Secondary,Preston High School
+8245,-37.78348,144.96503,Secondary,Princes Hill Secondary College
+8246,-37.91573,144.76858,Secondary,Homestead Senior Secondary College
+8250,-38.19066,144.55753,Secondary,Bellarine Secondary College
+8256,-35.89447,141.9967,Pri/Sec,Rainbow P-12 College
+8260,-34.2988,142.19545,Secondary,Red Cliffs Secondary College
+8270,-37.81661,145.23915,Secondary,Ringwood Secondary College
+8271,-37.81741,145.0028,Secondary,Richmond High School
+8276,-34.58889,142.78155,Pri/Sec,Robinvale College
+8280,-36.35278,144.6987,Secondary,Rochester Secondary College
+8290,-38.36762,144.88745,Secondary,Rosebud Secondary College
+8294,-37.29493,145.82134,Secondary,Rubicon Outdoor School
+8300,-36.06256,146.4521,Secondary,Rutherglen High School
+8303,-37.91054,144.77005,Pri/Sec,Saltwater P-9 College
+8307,-37.88864,145.2362,Secondary,Scoresby Secondary College
+8330,-37.74553,144.80841,Secondary,St Albans Secondary College
+8335,-36.60955,143.25094,Secondary,St Arnaud Secondary College
+8337,-37.87398,145.03417,Secondary,Oakwood School
+8345,-37.73695,144.92664,Secondary,Strathmore Secondary College
+8350,-37.57428,144.72867,Secondary,Sunbury College
+8368,-37.77182,144.96234,Secondary,Sydney Road Community School
+8370,-36.22044,147.17267,Secondary,Tallangatta Secondary College
+8383,-37.67872,145.00194,Secondary,Thomastown Secondary College
+8395,-38.21457,146.1583,Secondary,Trafalgar High School
+8397,-37.84298,144.73391,Pri/Sec,Dohertys Creek P-9 College
+8405,-37.79698,144.95538,Secondary,University High School
+8407,-37.63041,144.93033,Secondary,Roxburgh College
+8410,-37.79209,145.62393,Secondary,Upper Yarra Secondary College
+8415,-37.90436,145.33548,Secondary,Upwey High School
+8420,-37.84412,145.1997,Secondary,Vermont Secondary College
+8421,-38.05369,145.34741,Secondary,Kambrya College
+8423,-38.09529,145.19766,Secondary,Carrum Downs Secondary College
+8425,-36.3449,146.30772,Secondary,Wangaratta High School
+8427,-37.6503,144.88961,Secondary,Greenvale Secondary College
+8428,-37.8576,145.22997,Secondary,Wantirna College
+8430,-36.25768,142.3908,Secondary,Warracknabeal Secondary College
+8437,-37.74827,145.18422,Secondary,Warrandyte High School
+8462,-37.93447,145.16938,Secondary,Wellington Secondary College
+8465,-37.90554,144.66874,Secondary,Werribee Secondary College
+8466,-37.82871,147.605,Secondary,Bairnsdale Secondary College
+8470,-37.94031,145.13658,Secondary,Westall Secondary College
+8474,-37.91013,145.18174,Secondary,Wheelers Hill Secondary College
+8475,-37.86286,144.89502,Secondary,Williamstown High School
+8480,-36.12561,146.88105,Secondary,Wodonga Senior Secondary College
+8490,-38.56743,146.68541,Secondary,Yarram Secondary College
+8491,-37.55912,143.89228,Secondary,Woodmans Hill Secondary College
+8500,-37.21501,145.40854,Secondary,Yea High School
+8704,-37.8857,145.03801,Secondary,Glen Eira College
+8705,-37.60875,144.93595,Secondary,Craigieburn Secondary College
+8707,-37.92427,145.45874,Secondary,Emerald Secondary College
+8708,-37.72226,145.02977,Secondary,Reservoir High School
+8709,-38.03486,145.25988,Secondary,Hampton Park Secondary College
+8710,-37.87122,144.69536,Secondary,Hoppers Crossing Secondary College
+8715,-37.71552,144.81119,Secondary,Keilor Downs Secondary College
+8716,-38.22879,146.43279,Secondary,Kurnai College
+8718,-37.67291,144.58596,Secondary,Kurunjang Secondary College
+8720,-37.87134,147.99841,Secondary,Lakes Entrance Secondary College
+8722,-38.15929,145.19018,Secondary,Elisabeth Murdoch College
+8723,-37.58401,144.70448,Secondary,Sunbury Downs Secondary College
+8724,-37.84852,145.16373,Secondary,Forest Hill College
+8725,-38.0835,145.13474,Secondary,Patterson River Secondary College
+8730,-37.68687,145.13991,Secondary,St Helena Secondary College
+8731,-37.06195,142.78979,Secondary,Stawell Secondary College
+8734,-37.92389,145.23709,Secondary,Rowville Secondary College
+8736,-38.61094,145.59788,Secondary,Bass Coast College
+8739,-37.95671,145.02303,Secondary,Sandringham College
+8742,-37.78491,144.98748,Secondary,Fitzroy High School
+8743,-37.86453,145.10333,Secondary,Ashwood High School
+8744,-37.80711,145.19016,Secondary,Mullauna Secondary College
+8745,-38.47869,145.96124,Secondary,Leongatha Secondary College
+8746,-37.67283,145.1674,Secondary,Diamond Valley College
+8747,-37.84789,145.14829,Language,Blackburn English Language School
+8748,-37.80784,144.9848,Language,Collingwood English Language School
+8749,-37.97117,145.17817,Language,Noble Park English Language School
+8750,-37.70849,145.09125,Secondary,Greensborough Secondary College
+8753,-37.286,142.92196,Secondary,Ararat Secondary College
+8775,-37.66416,145.06341,Secondary,Mill Park Secondary College
+8777,-37.68563,144.43306,Secondary,Bacchus Marsh College
+8783,-37.85813,144.67494,Pri/Sec,The Grange P-12 College
+8784,-37.71569,144.72787,Secondary,Springside West Secondary College
+8787,-37.70741,144.7944,Secondary,Taylors Lakes Secondary College
+8790,-37.79316,144.81382,Secondary,Sunshine College
+8791,-37.41839,144.98147,Secondary,Wallan Secondary College
+8797,-37.75649,145.02521,Secondary,Thornbury High School
+8798,-38.35882,141.59482,Secondary,Portland Secondary College
+8799,-37.71946,144.77243,Secondary,Copperfield College
+8800,-37.8577,144.88521,Pri/Sec,Bayside P-12 College
+8801,-37.92232,145.08977,Secondary,South Oakleigh Secondary College
+8802,-35.33523,143.55285,Secondary,Swan Hill College
+8803,-38.19142,146.51949,Secondary,Traralgon College
+8804,-38.21671,145.05776,Secondary,Mornington Secondary College
+8806,-37.73971,144.86971,Secondary,Essendon Keilor College
+8807,-37.7709,144.95501,Secondary,Brunswick Secondary College
+8808,-37.8781,145.16211,Secondary,Glen Waverley Secondary College
+8809,-38.12612,145.14772,Secondary,Monterey Secondary College
+8811,-38.37672,142.49968,Secondary,Warrnambool College
+8812,-37.7412,145.08659,Secondary,Viewbank College
+8813,-37.97021,145.18237,Secondary,Noble Park Secondary College
+8814,-37.73331,142.01463,Secondary,Baimbridge College
+8815,-37.78934,145.31618,Secondary,Yarra Hills Secondary College
+8816,-37.83843,145.2321,Secondary,Heathmont College
+8818,-36.71166,142.1841,Secondary,Horsham College
+8819,-37.82251,145.01433,Secondary,Melbourne Girls College
+8820,-38.12391,144.32806,Secondary,Western Heights Secondary College
+8821,-38.17668,146.28598,Secondary,Lowanna College
+8823,-37.76743,145.12231,Secondary,Templestowe College
+8824,-37.05044,144.22755,Secondary,Castlemaine Secondary College
+8827,-38.1652,145.92549,Secondary,Warragul Regional College
+8828,-37.51922,143.83447,Secondary,Mount Rowan Secondary College
+8830,-36.27031,143.35963,Pri/Sec,Charlton College
+8831,-36.0757,143.2291,Pri/Sec,Wycheproof P-12 College
+8832,-35.98438,142.90994,Pri/Sec,Birchip P-12 School
+8833,-36.3326,141.65886,Pri/Sec,Nhill College
+8834,-38.10892,147.06801,Secondary,Sale College
+8835,-38.14632,145.15845,Secondary,McClelland Secondary College
+8837,-37.02329,147.24592,Camp,The Alpine School
+8838,-37.791,144.85404,Language,Western English Language School
+8839,-38.04973,145.28508,Pri/Sec,Narre Warren South P-12 College
+8841,-38.01818,144.41157,Secondary,Lara Secondary College
+8842,-36.38272,141.24485,Pri/Sec,Kaniva College
+8843,-36.19294,147.91076,Pri/Sec,Corryong College
+8845,-37.04216,143.72287,Pri/Sec,Maryborough Education Centre
+8846,-37.63494,145.07568,Pri/Sec,The Lakes South Morang College
+8847,-37.88672,144.73282,Secondary,Point Cook Senior Secondary College
+8848,-37.87351,144.60185,Pri/Sec,Manor Lakes P-12 College
+8849,-37.7407,144.9728,Secondary,Coburg High School
+8851,-36.13084,146.89056,Pri/Sec,Wodonga Middle Years College
+8853,-37.57864,144.92133,Pri/Sec,Mount Ridley P-12 College
+8854,-37.83335,144.68041,Secondary,Tarneit Senior College
+8855,-36.13239,144.73242,Secondary,Echuca College
+8856,-37.91422,145.12869,Secondary,John Monash Science School
+8857,-37.86191,144.81864,Pri/Sec,Altona College
+8858,-37.97942,145.20901,Secondary,Dandenong High School
+8859,-38.60974,145.59647,Special,Bass Coast Specialist School
+8861,-37.85617,144.77263,Pri/Sec,Laverton P-12 College
+8862,-37.68044,144.91536,Secondary,Hume Central Secondary College
+8864,-38.3515,143.5901,Secondary,Colac Secondary College
+8865,-38.0385,145.33656,Secondary,Nossal High School
+8866,-37.89385,144.70075,Secondary,Suzanne Cory High School
+8867,-37.96702,145.15984,Secondary,Keysborough Secondary College
+8868,-38.0002,145.26119,Secondary,Hallam Secondary College
+8869,-37.97461,145.27656,Secondary,Gleneagles Secondary College
+8870,-38.00528,145.29538,Secondary,Fountain Gate Secondary College
+8872,-37.23958,141.82362,Pri/Sec,Balmoral K-12 Community College
+8873,-36.54889,146.72614,Pri/Sec,Myrtleford P-12 College
+8874,-38.07313,145.30872,Secondary,Alkira Secondary College
+8875,-38.22726,145.1686,Secondary,Somerville Secondary College
+8881,-37.83618,144.66582,Primary,Tarneit Rise Primary School
+8882,-36.11022,143.72695,Pri/Sec,Boort District P-12 School
+8883,-36.02144,146.00667,Pri/Sec,Yarrawonga College P-12
+8884,-37.02984,145.14112,Pri/Sec,Seymour College
+8886,-34.16937,142.07131,Pri/Sec,Merbein P-10 College
+8889,-37.84479,144.94736,Secondary,Albert Park College
+8890,-37.72897,145.05865,Pri/Sec,Charles La Trobe P-12 College
+8891,-37.75552,144.7949,Secondary,Victoria University Secondary College
+8892,-37.26684,147.72403,Pri/Sec,Swifts Creek P-12 School
+8893,-37.7047,144.925,Secondary,Glenroy Secondary College
+8894,-37.70271,144.97186,Secondary,John Fawkner Secondary College
+8895,-37.69667,145.00277,Secondary,William Ruthven Secondary College
+8896,-37.60962,145.02524,Secondary,Wollert Secondary College
+8897,-37.60485,145.08833,Pri/Sec,Mernda Central P-12 College
+8898,-38.10494,145.30603,Secondary,Cranbourne East Secondary College
+8899,-37.90164,144.72752,Pri/Sec,Featherbrook P-9 College
+8900,-37.58661,143.83351,Pri/Sec,Phoenix P-12 Community College
+8901,-38.07841,144.35571,Pri/Sec,Northern Bay P-12 College
+8903,-38.30419,144.32386,Secondary,Surf Coast Secondary College
+8904,-35.73487,142.36603,Pri/Sec,Hopetoun P-12 College
+8905,-37.98945,145.24317,Pri/Sec,Doveton College
+8907,-38.07202,145.41097,Secondary,Officer Secondary College
+8908,-37.74634,144.73722,Pri/Sec,Brookside P-9 College
+8909,-37.73445,144.73804,Pri/Sec,Creekside K-9 College
+8910,-37.73102,144.74028,Secondary,Lakeview Senior College
+8911,-37.71118,144.73867,Primary,Springside Primary School
+8912,-37.79552,145.26202,Secondary,Melba Secondary College
+8913,-37.8583,145.29327,Pri/Sec,Boronia K-12 College
+8914,-37.83745,144.67982,Pri/Sec,Tarneit P-9 College
+8915,-36.55337,145.96385,Pri/Sec,Benalla P-12 College
+8916,-37.77682,144.94736,Special,Parkville College
+8917,-37.83615,144.99612,Secondary,Centre for Higher Education Studies
+1,-37.84883,144.98214,Pri/Sec,Wesley College
+5,-37.86145,145.05464,Pri/Sec,Korowa Anglican Girls' School
+20,-37.69018,145.06698,Secondary,Parade College
+25,-37.80597,144.95288,Secondary,Simonds Catholic College
+26,-37.85936,144.997,Secondary,St Mary’s College Melbourne
+28,-37.55971,143.83156,Secondary,St Patrick's College Ballarat
+29,-37.5644,143.84715,Primary,St Patrick's School
+30,-37.5617,143.87401,Primary,St Alipius' Parish School
+33,-38.37099,142.47736,Secondary,Emmanuel College Warrnambool
+35,-37.55686,143.82347,Secondary,Loreto College
+60,-37.05835,146.08901,Primary,St Mary's School
+77,-37.84003,144.8814,Primary,Sacred Heart School
+78,-37.8635,144.90089,Primary,St Mary's School
+83,-37.81111,145.03918,Pri/Sec,Ruyton Girls' School
+96,-37.87738,145.00489,Pri/Sec,Caulfield Grammar School
+98,-37.7933,144.94625,Primary,St Michael’s Primary School
+104,-36.35616,146.32195,Primary,St Patrick's School
+107,-37.85902,144.99759,Primary,St Mary's School
+111,-37.30101,144.94763,Secondary,Assumption College
+113,-37.7847,144.93173,Primary,St Brendan's School
+130,-36.75344,144.27336,Secondary,Catherine McAuley College
+131,-37.05354,143.73642,Secondary,Highview College
+132,-37.05183,143.7368,Primary,St Augustine's School
+139,-37.8414,147.58563,Primary,St Mary's School
+140,-37.57811,143.83767,Primary,St Aloysius' School
+148,-37.82646,145.03432,Primary,St Joseph's School
+149,-37.86175,145.05157,Pri/Sec,Sacre Coeur
+151,-37.77462,144.99672,Primary,St Joseph's School
+152,-37.74481,145.00377,Primary,Sacred Heart School
+153,-38.23943,146.40432,Primary,Sacred Heart School
+154,-38.19516,146.5347,Primary,St Michael's School
+156,-36.37473,145.40765,Primary,St Brendan's School
+161,-37.0199,145.14092,Pri/Sec,St Mary's College
+181,-36.37358,142.98517,Primary,St Mary's School
+183,-38.11071,147.06233,Primary,St Mary's Primary School
+184,-37.29939,144.94811,Primary,St Patrick's Primary School
+185,-37.5999,144.22873,Primary,St Brigid's School
+187,-37.58065,144.0909,Primary,St Patrick's School
+191,-37.27876,144.73173,Primary,St Mary's School
+192,-37.42851,143.89226,Primary,St Augustine's School
+196,-37.76623,142.09426,Primary,Tarrington Lutheran School
+204,-36.7942,144.2448,Primary,St Monica's School
+205,-36.55396,145.97412,Primary,St Joseph's School
+212,-37.59116,143.96603,Primary,St Brendan's Primary School
+219,-38.1495,144.34015,Secondary,Sacred Heart College
+227,-36.61708,143.24686,Primary,St Patrick's School
+236,-34.18872,142.15346,Secondary,St Joseph's College Mildura
+250,-37.89673,144.99678,Secondary,Star of the Sea College
+251,-37.89794,144.99766,Primary,St James' School
+252,-37.92304,145.07091,Primary,St Peter's School
+259,-37.81395,145.03849,Pri/Sec,Methodist Ladies' College
+262,-36.72348,144.25729,Primary,St Liborius' School
+265,-37.61146,143.87035,Secondary,Damascus College
+278,-37.55965,143.83365,Pri/Sec,Ballarat Clarendon College
+285,-37.06396,144.22096,Primary,St Mary's School
+286,-37.25289,144.45882,Secondary,Sacred Heart College
+289,-37.35779,144.53049,Primary,St Ambrose's School
+299,-36.27177,143.35105,Primary,St Joseph's School
+324,-36.43983,145.22392,Primary,Sacred Heart School
+330,-37.83895,144.98574,Primary,Christ Church Grammar School
+336,-37.73893,144.96785,Primary,St Paul's School
+338,-37.90127,144.65057,Primary,St Andrew's School
+353,-37.49091,144.59009,Primary,St Brigid's School
+355,-37.58004,144.7363,Primary,Our Lady of Mount Carmel School
+367,-36.14598,146.60706,Primary,St Joseph's School
+368,-36.05042,146.46298,Primary,St Mary's School
+379,-36.57114,143.87249,Primary,St Mary's School
+384,-36.55277,145.97539,Secondary,FCJ College
+385,-37.81516,145.08033,Pri/Sec,Fintona Girls' School
+386,-38.06938,145.47453,Primary,St Patrick's School
+391,-37.85232,145.02509,Pri/Sec,Lauriston Girls' School
+401,-36.01072,146.00925,Primary,Sacred Heart Primary School
+404,-37.81386,145.0311,Pri/Sec,Xavier College
+409,-37.87751,142.28978,Primary,St Joseph's School
+411,-37.28474,142.93777,Secondary,Marian College
+413,-37.58601,141.41363,Primary,Sacred Heart School
+414,-37.67227,144.43486,Primary,St Bernard's School
+445,-38.29989,142.36897,Primary,St Patrick's School
+450,-38.06882,144.39907,Pri/Sec,Geelong Grammar School
+457,-37.8102,145.0355,Pri/Sec,Trinity Grammar School Kew
+467,-37.80371,144.97441,Secondary,Academy of Mary Immaculate
+468,-37.80205,144.97852,Primary,Sacred Heart School
+474,-37.75076,145.35775,Secondary,Mount Lilydale Mercy College
+477,-37.80116,144.90684,Primary,St Monica's School
+478,-37.8137,144.8899,Primary,St Augustine's School
+486,-36.714,142.20399,Primary,Ss Michael and John's Primary School
+495,-38.35203,143.57693,Secondary,Trinity College Colac
+496,-38.33473,143.5854,Primary,St Mary's School
+500,-37.98415,145.06571,Secondary,Kilbreda College
+501,-38.21826,145.072,Secondary,Padua College
+509,-37.83169,144.9848,Pri/Sec,Melbourne Girls Grammar
+510,-38.15242,144.34009,Pri/Sec,The Geelong College
+515,-36.37471,145.40764,Secondary,Notre Dame College
+518,-36.00866,146.00921,Secondary,Sacred Heart College
+524,-37.79034,144.98822,Primary,St John's School
+525,-36.08646,145.4436,Primary,St Joseph's School
+539,-38.37249,142.48614,Primary,St Joseph's School
+545,-38.34523,141.60595,Secondary,Bayview College
+549,-38.15319,144.363,Primary,St Mary's School
+550,-38.13484,144.34604,Primary,St Patrick's School
+554,-37.84856,145.107,Pri/Sec,Presbyterian Ladies' College
+566,-37.75966,144.92318,Primary,St Monica's Primary School
+567,-37.75273,145.35261,Primary,St Patrick's School
+576,-37.71152,145.14356,Secondary,Catholic Ladies' College Ltd
+579,-37.80046,144.98639,Primary,St Joseph's School
+581,-36.25408,142.3896,Primary,St Mary's School
+584,-36.13426,144.72583,Primary,St Mary's School
+590,-37.80817,145.03744,Primary,Sacred Heart School
+594,-37.2855,142.93861,Primary,St Mary's School
+595,-36.11815,144.74337,Secondary,St Joseph's College
+599,-38.38613,142.23167,Primary,St Patrick's School
+603,-36.36476,144.70117,Primary,St Joseph's School
+605,-37.79289,144.94287,Secondary,St Aloysius College
+607,-38.35947,141.59279,Primary,All Saints Parish School
+625,-38.10871,147.06378,Secondary,Catholic College Sale
+646,-36.30955,145.04471,Pri/Sec,St Augustine's College
+653,-37.82032,145.10008,Primary,Our Holy Redeemer School
+661,-36.49302,144.61562,Primary,Our Lady of the Sacred Heart Primary
+672,-36.36007,146.68281,Primary,St Joseph's School
+684,-37.60538,141.69473,Primary,St Joseph's School
+690,-38.235,143.13956,Secondary,Mercy Regional College
+691,-38.23503,143.139,Primary,St Patrick's School
+707,-37.7572,144.91429,Secondary,St Columba's College
+715,-37.33724,144.15136,Primary,St Michael's School
+724,-37.74114,142.05091,Primary,St Mary's School
+726,-36.75458,144.28421,Primary,St Kilian's School
+733,-37.80897,145.05578,Pri/Sec,Genazzano FCJ College
+753,-36.11702,146.88922,Primary,St Augustine's School
+782,-37.05935,142.78726,Primary,St Patrick's School
+818,-37.85955,144.99155,Pri/Sec,St Michael's Grammar School
+836,-37.98357,145.07016,Primary,St Patrick's School
+840,-38.2398,142.90996,Primary,St Thomas' School
+841,-38.15861,145.91202,Primary,St Joseph's School
+848,-36.76942,144.27835,Primary,St Joseph's School
+879,-37.90612,144.99694,Pri/Sec,Firbank Grammar School
+909,-37.75764,145.06655,Primary,St John's School
+914,-37.75793,145.06759,Secondary,Our Lady of Mercy College
+915,-37.76229,144.94298,Primary,St Joseph's School
+923,-38.00804,145.09178,Primary,St Brigid's School
+924,-37.54591,143.86007,Primary,St Columba's School
+928,-37.53924,143.83083,Pri/Sec,Ballarat Grammar
+931,-37.77634,144.97786,Primary,Our Lady Help of Christians School
+932,-37.88689,145.0471,Primary,St Anthony's School
+935,-37.99067,145.22084,Primary,St Mary's School
+937,-37.95148,145.00855,Primary,Sacred Heart School
+950,-38.60086,145.60341,Primary,St Joseph's School
+954,-37.77384,144.91127,Primary,St Mary's School
+955,-35.72546,143.91781,Primary,St Joseph's School
+956,-37.85768,145.03218,Pri/Sec,De La Salle College
+962,-37.75863,144.96825,Primary,St Margaret Mary's School
+971,-37.7372,142.02421,Pri/Sec,The Hamilton and Alexandra College
+981,-37.56161,143.90299,Primary,St Francis Xavier School
+991,-38.47894,145.9543,Primary,St Laurence O'Toole School
+999,-38.43604,145.82232,Primary,St Joseph's School
+1004,-37.77252,145.04448,Pri/Sec,Ivanhoe Grammar School
+1013,-37.65868,145.5158,Primary,St Brigid's School
+1015,-38.07303,145.57319,Primary,St James School
+1021,-37.83392,145.03229,Pri/Sec,Scotch College
+1024,-37.87302,145.05292,Primary,St Mary's School
+1025,-37.92863,145.00755,Pri/Sec,St Leonard's College
+1033,-37.79558,144.92878,Primary,Holy Rosary School
+1036,-38.26868,144.6553,Primary,St Aloysius' School
+1041,-37.78007,145.02036,Primary,St Anthony's School
+1045,-37.85807,145.03116,Primary,St Joseph's School
+1058,-38.5569,146.67597,Primary,St Mary's School
+1067,-36.72487,144.31057,Primary,Holy Rosary School
+1070,-37.88253,144.98112,Primary,St Columba's School
+1072,-37.25051,144.46212,Primary,Our Lady of the Rosary
+1080,-37.81552,145.25669,Pri/Sec,Tintern Grammar
+1084,-35.32846,143.5456,Primary,St Mary's School
+1086,-38.17226,145.09346,Pri/Sec,Toorak College
+1097,-38.30344,145.1917,Primary,St Mary's School
+1099,-38.27065,143.5188,Primary,St Brendan's School
+1101,-37.78945,144.83556,Primary,Our Lady of the Immaculate Conception School
+1108,-37.75684,145.00166,Primary,St Mary's School
+1109,-38.3515,142.44614,Primary,St John's School
+1116,-37.8383,145.02127,Pri/Sec,St Catherine's School
+1117,-37.75991,144.91497,Pri/Sec,Lowther Hall Anglican Grammar School
+1122,-36.71731,142.20795,Secondary,St Brigid's College
+1134,-37.92011,144.99415,Primary,St Joan of Arc School
+1136,-36.75337,145.56987,Primary,St John's School
+1144,-37.73215,144.87034,Pri/Sec,Penleigh & Essendon Grammar School
+1146,-37.79582,144.88522,Primary,St John's School
+1152,-35.91707,145.65236,Primary,St Joseph's School
+1163,-37.87791,145.01132,Pri/Sec,Shelford Girls' Grammar
+1164,-37.77194,145.03876,Primary,Mary Immaculate School
+1173,-36.78161,145.15405,Primary,St Joseph's School
+1176,-37.85246,145.00946,Primary,Our Lady of Lourdes School
+1177,-37.70917,148.45563,Primary,St Joseph's School
+1183,-37.98769,145.06812,Pri/Sec,Mentone Grammar School
+1187,-37.76527,145.04672,Pri/Sec,Ivanhoe Girls' Grammar School
+1188,-36.55357,146.72693,Primary,St Mary's School
+1189,-37.81478,145.04782,Pri/Sec,Carey Baptist Grammar School
+1190,-37.89952,145.04122,Pri/Sec,Kilvington Grammar School
+1191,-37.99598,145.14643,Pri/Sec,Haileybury College
+1193,-37.75111,144.91031,Primary,St Therese's School
+1196,-37.21455,145.42461,Primary,Sacred Heart School
+1206,-37.81108,145.06279,Primary,Our Lady of Good Counsel School
+1209,-37.82918,145.08037,Pri/Sec,Strathcona Baptist Girls' Grammar
+1213,-37.98938,145.06346,Pri/Sec,Mentone Girls' Grammar School
+1217,-38.05544,145.11859,Primary,St Joseph's School
+1218,-38.09365,147.06463,Pri/Sec,Gippsland Grammar
+1221,-37.91628,145.01746,Primary,St Finbar's School
+1226,-37.84819,145.01489,Pri/Sec,Loreto Mandeville Hall
+1229,-37.83892,145.08384,Primary,St Dominic's School
+1231,-37.93305,145.0009,Primary,St Mary's School
+1252,-36.91768,144.70111,Primary,Holy Rosary School
+1253,-35.80823,144.21854,Primary,St Mary's School
+1258,-37.81609,145.06641,Pri/Sec,Camberwell Grammar School
+1260,-38.36147,145.20281,Primary,St Joseph's School
+1262,-37.91111,144.99352,Pri/Sec,Brighton Grammar School
+1265,-37.74984,144.95156,Primary,St Fidelis' School
+1267,-37.87674,145.13629,Pri/Sec,Huntingtower School
+1272,-37.81849,145.13149,Primary,St Francis Xavier's School
+1273,-37.86666,144.82838,Primary,St Mary's School
+1275,-37.71612,145.14791,Primary,Our Lady Help of Christians School
+1277,-34.16686,142.05309,Primary,Our Lady of the Sacred Heart School
+1280,-38.1488,145.1262,Primary,St Francis Xavier School
+1287,-37.81835,145.12992,Secondary,Our Lady of Sion College
+1289,-37.71802,145.00512,Primary,St Gabriel's School
+1291,-37.92283,145.04147,Primary,St Paul's School
+1292,-37.97592,145.02316,Primary,St Joseph's School
+1299,-37.57264,144.73903,Secondary,Salesian College Sunbury
+1301,-37.96726,147.07768,Primary,St Patrick's School
+1304,-37.83278,145.11863,Pri/Sec,Kingswood College
+1309,-38.20721,146.15219,Primary,St Joseph's School
+1310,-37.90178,145.06527,Primary,St Patrick's School
+1311,-37.85736,145.05231,Primary,St Roch's School
+1316,-38.03535,145.34654,Pri/Sec,St Margaret’s Berwick Grammar
+1322,-37.81821,145.0597,Pri/Sec,Camberwell Girls Grammar School
+1328,-37.79538,145.04981,Primary,St Anne's School
+1342,-37.81642,145.23218,Primary,Our Lady of Perpetual Help School
+1343,-37.71601,145.12656,Primary,St Francis Xavier Primary School
+1347,-38.34047,144.7418,Primary,St Joseph's School
+1354,-37.85009,145.0646,Primary,St Cecilia's School
+1368,-37.88251,145.00529,Primary,St Joseph's School
+1373,-34.30235,142.18796,Primary,St Joseph's School
+1377,-37.81593,145.05221,Pri/Sec,"Preshil, The Margaret Lyttle Memorial School"
+1383,-37.65054,145.02755,Primary,St Peter's School
+1386,-37.77036,145.00248,Secondary,Santa Maria College
+1393,-37.90184,145.08692,Primary,Sacred Heart School
+1398,-37.71628,144.96362,Primary,St Mark's School
+1406,-37.88738,145.29517,Primary,St John the Baptist School
+1407,-37.81744,145.1904,Primary,St John's School
+1408,-36.39605,145.35422,Primary,St Mary's School
+1412,-37.7341,144.99262,Primary,St Raphael's School
+1415,-37.8354,145.0247,Pri/Sec,St Kevin's College
+1416,-38.19746,145.48527,Primary,St John the Baptist's School
+1422,-37.74214,144.92413,Primary,St Vincent de Paul's School
+1425,-38.1502,144.33186,Secondary,St Joseph's College Geelong
+1429,-37.95323,145.15034,Primary,St Joseph's School
+1431,-37.99116,145.06821,Secondary,St Bede's College
+1438,-37.73026,145.01857,Primary,Holy Name School
+1445,-37.83366,145.08258,Secondary,Siena College Ltd
+1459,-37.74742,144.97271,Primary,St Bernard's School
+1465,-37.73089,144.94186,Primary,St Oliver Plunkett's School
+1466,-37.80853,144.87292,Primary,Corpus Christi School
+1470,-38.15641,144.34301,Primary,St Robert's School
+1471,-37.74939,144.8832,Secondary,St Bernard's College
+1473,-37.7918,145.19954,Secondary,Whitefriars College Inc
+1477,-37.86413,145.08248,Primary,St Michael's School
+1480,-37.5004,143.9887,Primary,St Mary's School
+1481,-37.92572,145.03994,Secondary,Our Lady of the Sacred Heart College
+1482,-37.79352,145.0709,Primary,St Bede's School
+1485,-37.88273,145.10026,Secondary,Salesian College Chadstone
+1488,-36.33541,141.64304,Primary,St Patrick's School
+1489,-38.16462,144.37393,Primary,St Margaret's School
+1490,-37.84722,145.11777,Pri/Sec,Mount Scopus Memorial College
+1493,-38.17937,146.25356,Primary,St Kieran's School
+1495,-37.77478,145.08268,Secondary,Marcellin College
+1497,-38.15903,145.91527,Secondary,Marist-Sion College
+1498,-34.22261,142.15926,Pri/Sec,Henderson College
+1499,-37.78219,144.8202,Primary,St Theresa's School
+1500,-37.76306,145.03412,Primary,St Bernadette's School
+1501,-38.07994,142.80202,Primary,St Colman's School
+1503,-37.9461,145.03183,Primary,St Agnes' School
+1505,-37.9655,145.05971,Primary,Our Lady of the Assumption School
+1508,-37.82192,145.17005,Primary,Nunawading Christian College-Primary
+1509,-37.79749,145.27279,Primary,Sacred Heart School
+1510,-37.03403,141.30005,Primary,St Malachy's School
+1511,-38.05022,145.31652,Pri/Sec,Heritage College
+1512,-37.19127,145.71338,Primary,St Mary's School
+1513,-37.75665,144.9052,Primary,Resurrection House
+1515,-37.8839,145.0082,Pri/Sec,Adass Israel School
+1516,-37.76085,145.01619,Primary,Holy Spirit School
+1521,-37.73769,144.80005,Primary,Sacred Heart School
+1522,-37.82325,145.15743,Primary,St Thomas The Apostle School
+1523,-36.5878,145.0112,Primary,St Mary's School
+1524,-37.98075,146.78427,Primary,St Michael's School
+1525,-38.09017,144.35882,Primary,St Thomas Aquinas School
+1526,-37.74692,145.04629,Primary,St Pius X School
+1527,-37.82908,144.87773,Primary,St Margaret Mary's School
+1528,-37.74204,142.04945,Secondary,Monivae College
+1529,-37.87978,145.1012,Primary,St Mary Magdalen’s School
+1530,-37.97171,145.17243,Primary,St Anthony's School
+1531,-37.92314,145.12186,Primary,St Peter's School
+1532,-35.72393,142.36219,Primary,St Joseph's School
+1533,-37.86812,145.00034,Pri/Sec,Yeshivah College
+1534,-37.74366,144.88903,Primary,St John Bosco's School
+1537,-38.1111,144.33833,Primary,Holy Family School
+1538,-38.13581,144.32996,Primary,Holy Spirit Parish School
+1539,-37.70285,145.09263,Primary,St Mary's School
+1541,-37.77941,144.80081,Primary,Mother of God School
+1542,-37.76853,144.76927,Primary,St Peter Chanel School
+1543,-37.78761,144.86196,Primary,Christ the King Primary School
+1545,-37.70389,144.9228,Primary,Corpus Christi School
+1547,-37.95907,145.15202,Secondary,Killester College
+1549,-37.78753,144.80752,Primary,St Paul's School
+1550,-36.05485,144.11184,Primary,St Patrick's School
+1551,-38.13008,144.33048,Secondary,Clonard College
+1554,-37.98199,145.04104,Primary,Stella Maris School
+1555,-36.7669,144.29824,Primary,St Therese's School
+1556,-37.77116,144.83528,Primary,St Bernadette's School
+1557,-37.60347,143.84018,Primary,St James' School
+1559,-37.82304,145.02655,Special,Rossbourne School
+1560,-34.18733,142.15224,Primary,Sacred Heart School
+1561,-37.86928,145.00084,Pri/Sec,Beth Rivkah Ladies College
+1563,-37.7669,144.89104,Primary,St Margaret's Primary School
+1564,-38.18474,146.29159,Primary,Immaculate Heart of Mary School
+1565,-37.87426,145.12963,Primary,Holy Family School
+1566,-37.97133,145.20582,Primary,St Gerard's School
+1568,-36.39247,145.41068,Primary,St Mel's School
+1569,-37.83006,145.11139,Primary,Our Lady of Perpetual Succour School
+1570,-37.93822,145.05217,Primary,St Catherine's School
+1571,-37.90216,145.08608,Secondary,Sacred Heart Girls' College
+1575,-38.23061,146.41548,Primary,St Vincent de Paul's School
+1577,-36.45706,142.03758,Primary,St Peter's Lutheran School
+1578,-35.50183,142.85067,Primary,St Mary's School
+1579,-37.79217,145.61681,Primary,St Joseph's School
+1580,-37.71157,145.0192,Primary,St Stephen's School
+1581,-37.87102,148.01234,Primary,St Brendan's School
+1582,-37.73518,145.07698,Primary,St Martin of Tours School
+1583,-36.21623,147.17342,Primary,St Michael's School
+1584,-37.89616,145.10575,Primary,Christ Our Holy Redeemer School
+1585,-37.75635,144.89658,Primary,Our Lady of the Nativity School
+1588,-37.99023,145.22626,Secondary,St John's Regional College
+1589,-37.8371,147.58766,Secondary,Nagle College
+1590,-34.58471,142.77851,Pri/Sec,St Mary's School
+1591,-36.37219,146.32114,Primary,Our Lady's School
+1592,-37.84779,145.17411,Secondary,Emmaus College
+1593,-37.68506,144.9237,Primary,St Dominic's School
+1594,-36.25266,144.95359,Primary,St Patrick's School
+1595,-37.79592,145.10325,Primary,St Bridget's School
+1596,-37.8868,145.16389,Primary,St Leonard's School
+1598,-37.85165,145.12591,Primary,St Scholastica's School
+1600,-37.8711,145.1502,Primary,St Christopher's School
+1602,-37.99047,145.09249,Primary,St John Vianney's School
+1604,-37.79055,145.1534,Primary,Ss Peter & Paul's School
+1605,-36.05766,145.20875,Secondary,St Mary of the Angels College
+1607,-37.9905,145.23863,Primary,Holy Family School
+1608,-37.82306,145.23494,Secondary,Aquinas College
+1609,-37.89287,145.00663,Pri/Sec,Leibler Yavneh College
+1610,-38.19817,145.09069,Pri/Sec,Peninsula Grammar
+1612,-37.69816,144.96795,Primary,St Matthew's School
+1613,-37.93272,145.15956,Primary,St John Vianney's School
+1615,-37.67237,145.01883,Primary,St Luke's School
+1616,-37.71885,144.92108,Primary,St Francis de Sales School
+1618,-37.90841,145.35268,Primary,St Thomas More's School
+1619,-38.36492,142.46583,Primary,St Pius X School
+1620,-37.72501,144.88025,Primary,St Christopher's School
+1622,-38.35316,143.57855,Primary,Sacred Heart School
+1623,-37.67215,145.15878,Primary,Sacred Heart School
+1624,-38.03382,145.35357,Primary,St Michael's School
+1625,-37.75662,144.89796,Secondary,Ave Maria College
+1626,-37.84227,145.04337,Pri/Sec,Bialik College
+1627,-37.71526,145.03552,Primary,Our Lady of the Way School
+1628,-37.83555,145.14671,Primary,St Luke the Evangelist School
+1629,-36.34656,146.3056,Primary,St Bernard's School
+1632,-36.62268,142.47365,Primary,Our Lady Help of Christians School
+1633,-37.78296,145.27291,Secondary,Luther College
+1634,-37.78773,144.80613,Secondary,Marian College
+1635,-37.8639,144.81167,Secondary,Mount St Joseph Girls' College
+1638,-37.52544,143.82561,Primary,Our Lady Help of Christians School
+1640,-37.7673,145.09033,Primary,St Clement of Rome School
+1641,-37.86271,145.27481,Primary,St Joseph's Primary School
+1642,-36.19824,147.89919,Primary,Sacred Heart School
+1644,-37.91064,145.35889,Secondary,Mater Christi College
+1645,-37.84898,145.26576,Primary,Our Lady of Lourdes School
+1646,-37.89049,145.29509,Secondary,St Joseph's College
+1647,-37.81235,145.08686,Special,St Paul's College Balwyn
+1648,-37.82099,144.84796,Primary,Annunciation School
+1649,-38.01813,145.10226,Primary,St Louis de Montfort's School
+1650,-37.70729,144.94494,Primary,St Thomas More's School
+1651,-37.87467,145.13326,Secondary,Avila College
+1652,-37.80764,145.16659,Primary,St Philip's School
+1653,-37.66574,144.93198,Primary,Holy Child School
+1654,-37.83162,144.84239,Secondary,Emmanuel College
+1655,-37.78791,145.31752,Primary,St Peter Julian Eymard
+1656,-37.69849,145.05722,Primary,St Damian's School
+1657,-37.65518,145.03141,Secondary,St Monica's College
+1658,-37.7837,145.25816,Pri/Sec,Yarra Valley Grammar
+1659,-38.16655,144.3931,Primary,Christ the King School
+1661,-37.7304,144.96456,Secondary,Mercy College
+1663,-37.84039,145.18365,Primary,St Timothy's School
+1664,-37.9635,146.97239,Primary,St Mary's School
+1665,-38.22321,145.07046,Primary,St Macartan's School
+1667,-38.14582,145.1481,Primary,St John's School
+1669,-37.8779,145.24279,Special,St Mary's College for the Deaf
+1670,-38.13557,145.13887,Secondary,John Paul College
+1671,-38.1066,145.14095,Primary,St Anne's School
+1673,-37.9152,145.16614,Secondary,Mazenod College
+1674,-37.75847,144.86162,Primary,St Martin de Porres School
+1678,-37.7806,145.12228,Primary,St Gregory the Great School
+1679,-37.97092,145.27803,Pri/Sec,Maranatha Christian School
+1680,-37.76127,145.12287,Primary,St Kevin's School
+1681,-37.83675,145.20969,Primary,St James' School
+1682,-37.90812,145.16605,Primary,Good Shepherd School
+1684,-37.9095,144.6651,Secondary,MacKillop Catholic Regional College
+1689,-38.0994,147.08331,Primary,St Thomas' School
+1690,-37.83922,144.85169,Primary,St Leo the Great Primary School
+1692,-37.74424,144.85942,Primary,St Peter's School
+1693,-38.38525,142.51953,Primary,Our Lady Help of Christians School
+1694,-36.55334,146.72536,Secondary,Marian College
+1696,-37.85378,144.77698,Primary,St Martin de Porres School
+1697,-37.88984,145.22596,Primary,St Jude the Apostle School
+1699,-36.12675,146.87264,Primary,St Monica's School
+1701,-37.79883,145.3671,Pri/Sec,Mount Evelyn Christian School/Ranges TEC
+1706,-37.77722,145.24881,Pri/Sec,Melbourne Rudolf Steiner School
+1709,-36.74417,144.27274,Primary,St Peter's School
+1710,-37.98666,145.12957,Primary,St Mark's School
+1711,-37.87595,145.05995,Special,The Currajong School
+1712,-37.82255,145.16902,Secondary,Nunawading Christian College-Secondary
+1714,-37.70044,145.19223,Pri/Sec,Eltham College
+1715,-37.75644,144.81141,Primary,Holy Eucharist School
+1719,-34.2046,142.15603,Primary,St Paul's Primary School
+1721,-37.62939,145.21333,Primary,Learning Co-Operative School
+1722,-37.87464,144.69031,Primary,St Peter Apostle School
+1724,-37.77403,145.19345,Pri/Sec,Donvale Christian College
+1728,-37.80388,145.13214,Special,Berengarra School
+1729,-37.88229,145.0012,Primary,Sholem Aleichem College
+1733,-37.67842,145.0392,Primary,St John XXIII Primary School
+1734,-37.36383,144.57598,Pri/Sec,Braemar College
+1735,-37.69303,144.88946,Primary,School of the Good Shepherd
+1736,-38.11164,145.27885,Primary,St Agatha's School
+1737,-37.98994,145.16293,Primary,Resurrection School
+1739,-37.68092,144.58464,Primary,St Dominic's School
+1741,-38.07203,144.35813,Primary,St Francis Xavier School
+1742,-37.7246,144.76315,Pri/Sec,Gilson College
+1743,-37.90226,145.15745,Special,Cheshire School
+1744,-36.33875,146.31054,Secondary,Galen Catholic College
+1747,-37.79323,145.23692,Primary,Holy Spirit School
+1750,-38.3164,146.41571,Primary,Lumen Christi School
+1751,-37.86234,145.17504,Primary,Holy Saviour Parish School
+1752,-37.67775,144.99772,Primary,St Clare's School
+1754,-36.32773,141.66215,Primary,Nhill Lutheran School
+1758,-37.56839,144.71746,Primary,St Anne's School
+1759,-37.77444,145.17721,Primary,Our Lady of the Pines School
+1760,-38.15528,145.19111,Primary,St Jude's School
+1761,-37.73374,144.81963,Primary,St Paul's Kealba Catholic School
+1762,-37.94632,145.19888,Primary,St Elizabeth's School
+1763,-37.70222,144.99292,Primary,St Joseph the Worker School
+1764,-37.7363,144.77539,Primary,Resurrection School
+1765,-37.73889,144.79909,Secondary,Catholic Regional College St Albans
+1766,-38.052,145.37311,Secondary,St Francis Xavier College
+1767,-36.70818,142.21775,Pri/Sec,Holy Trinity Lutheran College
+1770,-37.68407,145.13709,Primary,North-Eastern Montessori School
+1771,-37.88014,145.2153,Pri/Sec,Waverley Christian College
+1773,-37.85823,145.0105,Pri/Sec,The King David School
+1775,-37.85084,144.7249,Pri/Sec,Westbourne Grammar School
+1778,-38.20252,144.33011,Primary,Nazareth School
+1779,-37.71063,144.82052,Primary,St Augustine's Primary School
+1780,-37.70966,144.5729,Primary,St Anthony's School
+1781,-37.68219,145.11911,Primary,St Thomas the Apostle School
+1782,-37.85338,145.23507,Primary,St Luke's School
+1784,-37.80028,144.81962,Primary,St Peter's School
+1787,-37.69501,145.05467,Pri/Sec,Northside Christian College
+1788,-37.74593,144.99953,Pri/Sec,St John's College Preston
+1789,-37.78268,145.26862,Primary,Good Shepherd Lutheran Primary School
+1792,-37.76357,145.30513,Pri/Sec,Oxley Christian College
+1793,-37.08849,144.20542,Pri/Sec,Olivet Christian College
+1794,-38.09719,144.318,Pri/Sec,Covenant College
+1800,-36.12962,146.86239,Secondary,Catholic College Wodonga
+1801,-37.78586,144.8501,Secondary,Caroline Chisholm Catholic College
+1803,-37.55349,143.79995,Primary,St Thomas More School
+1804,-37.79052,145.39586,Primary,St Mary's School
+1805,-37.7733,145.21859,Primary,St Anne's School
+1806,-38.18765,146.51105,Primary,St Gabriel's School
+1807,-37.5986,144.93137,Primary,Our Lady's School
+1808,-38.17205,145.14587,Primary,St Augustine's School
+1809,-37.66499,145.05891,Primary,St Francis of Assisi School
+1810,-37.7034,145.08073,Secondary,Loyola College
+1811,-37.67725,144.55041,Secondary,St Francis Catholic College
+1812,-38.48834,145.27232,Pri/Sec,Newhaven College
+1813,-38.35679,141.58984,Primary,St John's Lutheran School
+1814,-38.18524,144.31307,Pri/Sec,Christian College Geelong
+1816,-37.78785,145.33887,Pri/Sec,Billanook College
+1819,-37.78917,144.97981,Primary,Fitzroy Community School
+1820,-37.98052,145.25793,Primary,St Paul Apostle South School
+1821,-37.93489,145.10719,Primary,St Andrew's School
+1822,-38.19773,145.10114,Primary,St Thomas More's School
+1823,-36.0586,145.20774,Primary,St Francis' School
+1824,-36.76553,144.27158,Pri/Sec,Creek Street Christian College
+1825,-37.77083,142.04149,Pri/Sec,Good Shepherd College
+1826,-37.61346,145.13879,Pri/Sec,Plenty Valley Christian College
+1829,-37.85729,144.68749,Primary,St James the Apostle School
+1830,-37.92568,145.24533,Primary,St Simon's School
+1831,-37.87515,144.7917,Primary,Queen of Peace Primary School
+1832,-38.02597,145.31501,Primary,Don Bosco School
+1833,-38.26078,144.54016,Primary,Our Lady Star of the Sea School
+1834,-37.69914,144.77101,Secondary,Catholic Regional College Institute of Training
+1835,-37.69994,144.80506,Secondary,Catholic Regional College North Keilor
+1836,-37.76375,145.29449,Primary,Village School
+1837,-38.17863,145.16302,Pri/Sec,Bayside Christian College
+1838,-37.80551,145.03604,Special,Andale School
+1839,-34.2016,142.12879,Pri/Sec,Trinity Lutheran College
+1840,-36.32748,145.41558,Pri/Sec,Goulburn Valley Grammar School
+1841,-37.86547,145.2192,Pri/Sec,The Knox School
+1846,-37.88132,144.68133,Pri/Sec,Heathdale Christian College
+1848,-38.08468,145.3638,Pri/Sec,Hillcrest Christian College
+1849,-38.14781,145.93042,Pri/Sec,St Paul's Anglican Grammar School
+1850,-37.7684,144.83586,Primary,Sunshine Christian School
+1852,-37.8668,145.10889,Special,Frank Dando Sports Academy
+1855,-38.0619,145.46732,Pri/Sec,Beaconhills College
+1856,-37.82914,145.31893,Primary,Ghilgai School
+1857,-37.8539,145.31084,Primary,St Bernadette's Catholic Primary School
+1858,-37.6656,145.00324,Primary,St Catherine's School
+1859,-38.01519,144.39058,Primary,St Anthony's School
+1860,-37.50906,145.11454,Primary,St Mary's School
+1861,-37.76748,145.15431,Primary,St Charles Borromeo School
+1862,-36.14482,144.73176,Pri/Sec,River City Christian College
+1864,-37.9189,145.34623,Pri/Sec,Belgrave Heights Christian School
+1866,-37.89591,145.08282,Pri/Sec,Oakleigh Grammar
+1868,-37.68452,145.50922,Special,Worawa Aboriginal College
+1869,-35.73042,143.91342,Pri/Sec,Kerang Christian College
+1871,-37.87387,145.24464,Pri/Sec,St Andrews Christian College
+1872,-38.14284,145.87712,Pri/Sec,Chairo Christian School
+1874,-37.73633,144.96612,Pri/Sec,Australian International Academy of Education
+1876,-38.26212,145.16798,Pri/Sec,Flinders Christian Community College
+1877,-37.71462,144.80435,Primary,St Mary MacKillop Primary School
+1878,-37.67878,144.5502,Primary,St Catherine of Siena School
+1879,-37.868,145.41206,Primary,St Paul's School
+1881,-38.37133,144.89754,Primary,Our Lady of Fatima School
+1882,-37.91781,145.19051,Primary,St Justin's School
+1886,-36.15717,146.88735,Pri/Sec,Grace Christian College Wodonga
+1891,-37.80656,145.32174,Primary,St Richard's Primary School
+1893,-37.87747,145.24291,Primary,Holy Trinity School
+1894,-37.70028,144.56028,Pri/Sec,Melton Christian College
+1895,-37.0614,146.08574,Pri/Sec,Mansfield Rudolf Steiner School
+1897,-37.96753,145.26266,Primary,St Paul Apostle North School
+1898,-37.90995,144.66344,Primary,Corpus Christi School
+1899,-37.94023,145.19546,Secondary,Nazareth College
+1901,-38.32112,144.31185,Primary,St Therese School
+1902,-37.89244,145.0194,Pri/Sec,Japanese School of Melbourne
+1903,-38.46673,145.96354,Secondary,Mary MacKillop Catholic Regional College
+1904,-38.36211,142.50617,Pri/Sec,King's College
+1905,-37.80366,145.00522,Pri/Sec,Sophia Mundi Steiner School
+1906,-37.85265,144.72202,Pri/Sec,Al-Taqwa College
+1908,-37.70656,144.82318,Pri/Sec,Overnewton Anglican Community College
+1909,-38.10335,145.17847,Primary,St Joachim's School
+1910,-37.69844,145.13546,Primary,Holy Trinity Primary School
+1911,-37.65364,144.88864,Primary,St Carlo Borromeo School
+1914,-37.79444,145.63116,Pri/Sec,Little Yarra Steiner School
+1917,-35.34192,143.5568,Secondary,St Mary MacKillop College
+1918,-38.03932,145.2674,Primary,St Kevin's School
+1919,-37.69027,144.43159,Pri/Sec,Bacchus Marsh Grammar
+1920,-38.10841,145.25687,Secondary,St Peter's College
+1923,-38.0012,145.1435,Pri/Sec,Lighthouse Christian College
+1924,-37.78043,145.03617,Pri/Sec,Alphington Grammar School
+1926,-38.07727,145.26724,Primary,St Therese's School
+1929,-38.13244,145.862,Primary,St Ita's School
+1930,-37.76461,145.32507,Pri/Sec,Mooroolbark Grammar
+1931,-37.58019,143.81724,Primary,Lumen Christi School
+1932,-37.08188,144.15669,Pri/Sec,Castlemaine Steiner School & Kindergarten
+1934,-37.65583,144.93121,Pri/Sec,St Mary's Coptic Orthodox College
+1935,-37.0608,146.08586,Special,Mansfield Autism Statewide Services
+1936,-37.93904,145.14863,Pri/Sec,Minaret College
+1937,-36.11673,146.84528,Pri/Sec,Victory Lutheran College
+1938,-35.37756,143.5465,Primary,Son Centre Christian College
+1939,-36.76261,144.27273,Pri/Sec,Girton Grammar School
+1940,-36.80447,144.36129,Primary,St Francis of the Fields School
+1941,-37.83616,144.95481,Primary,Galilee Regional Catholic Primary School
+1942,-38.1103,145.2929,Pri/Sec,Casey Grammar School
+1943,-38.23365,145.1684,Primary,St Brendan's School
+1944,-37.99584,145.31128,Primary,Mary MacKillop School
+1945,-37.87559,144.65866,Primary,Bethany Catholic Primary School
+1946,-36.78263,144.31346,Pri/Sec,Victory Christian College
+1947,-37.66862,144.93007,Pri/Sec,Ilim College
+1949,-37.68786,144.91826,Secondary,Penola Catholic College
+1951,-37.62344,144.93432,Primary,Good Samaritan Catholic Primary School
+1952,-37.82708,145.03133,Primary,Erasmus Primary School
+1953,-38.10988,144.328,Pri/Sec,Kardinia International College
+1955,-37.45589,144.59778,Primary,Holy Cross Primary School
+1956,-38.06977,145.33695,Primary,St Catherine's Primary School
+1957,-37.85525,144.6666,Pri/Sec,Good News Lutheran College
+1958,-37.68472,144.93564,Pri/Sec,Sirius College
+1959,-37.7003,144.77224,Primary,Emmaus Catholic Primary School
+1960,-37.5191,144.70602,Pri/Sec,Red Rock Christian College
+1961,-37.70438,145.01947,Primary,Maharishi School of the Age of Enlightenment
+1962,-37.84768,144.70206,Secondary,Thomas Carr College
+1963,-38.18801,144.55617,Primary,St Thomas Primary School
+1964,-36.35387,145.41598,Pri/Sec,Shepparton Christian College Ltd
+1965,-37.70518,144.97169,Pri/Sec,Darul Ulum College of Victoria
+1966,-38.08322,145.62369,Pri/Sec,St Thomas Aquinas College
+1969,-37.84122,147.57835,Pri/Sec,Bairnsdale Christian College
+1972,-37.73395,145.03622,Pri/Sec,East Preston Islamic College
+1973,-38.18552,144.3249,Primary,Clairvaux Catholic School
+1975,-37.95976,145.38821,Primary,Dandenong Ranges Steiner School
+1978,-37.62771,144.8907,Pri/Sec,Aitken College
+1981,-37.84322,145.04517,Secondary,Alia College
+1984,-37.64076,143.8622,Primary,Ballarat Steiner School
+1987,-37.74772,144.73744,Primary,Christ the Priest Catholic Primary School
+1988,-38.26332,144.27974,Primary,Freshwater Creek Steiner School
+1989,-37.45339,144.60001,Pri/Sec,Gisborne Montessori School
+1990,-38.01399,145.17547,Pri/Sec,Mt Hira College
+1991,-37.8926,144.75334,Primary,Lumen Christi School
+1993,-38.05539,145.29799,Primary,Trinity Catholic Primary School
+1996,-38.09326,145.71586,Primary,Columba Catholic School
+1997,-37.81154,144.97056,Secondary,Stott's College
+1998,-37.6863,144.5424,Pri/Sec,OneSchool Global Vic
+1999,-37.83762,144.99768,Special,Kamaruka
+2000,-38.06714,144.33029,Pri/Sec,Geelong Baptist College
+2001,-38.2009,146.51425,Secondary,Lavalla Catholic College
+2003,-34.24742,142.14532,Pri/Sec,Mildura Christian College
+2010,-37.74119,144.94274,Pri/Sec,Antonine College
+2016,-37.81289,144.95442,Secondary,Ozford College
+2018,-38.03025,145.30575,Special,Berry Street Victoria Inc
+2019,-37.87323,144.98349,Pri/Sec,Yesodei HaTorah College
+2021,-37.68792,144.74715,Primary,Cana Catholic Primary School
+2024,-37.8103,144.97227,Secondary,Holmes Grammar School
+2028,-36.32432,145.41203,Primary,St Luke's Catholic Primary School
+2029,-36.17389,146.93993,Primary,"St Francis of Assisi Primary School, Wodonga"
+2031,-36.11803,146.8894,Special,Indie School Wodonga
+2032,-37.64332,145.09103,Pri/Sec,Marymede Catholic College
+2033,-37.89076,144.72868,Primary,Stella Maris Catholic Primary School
+2035,-38.06492,145.45593,Pri/Sec,Lakeside College
+2036,-37.81585,145.00824,Primary,Trinity Catholic School
+2037,-36.75554,144.28602,Special,DOXA School Bendigo
+2042,-36.36669,146.69353,Primary,Beechworth Montessori School
+2043,-38.27325,145.03269,Pri/Sec,Balcombe Grammar School
+2044,-37.72888,144.7396,Secondary,Catholic Regional College Caroline Springs
+2045,-37.59292,143.84381,Pri/Sec,Ballarat Christian College
+2047,-37.77883,144.98277,Primary,Deutsche Schule Melbourne
+2048,-37.61258,143.87158,Primary,Emmaus Catholic Primary School
+2049,-36.54767,145.9843,Special,EdSpace
+2051,-37.61532,144.90947,Secondary,Kolbe Catholic College
+2052,-37.56798,144.93125,Pri/Sec,Hume Anglican Grammar
+2054,-38.14,145.3073,Pri/Sec,Lighthouse Christian College Cranbourne
+2055,-37.57522,144.93276,Primary,Mother Teresa School
+2056,-38.23046,144.33707,Pri/Sec,Geelong Lutheran College
+2057,-37.87585,144.60622,Primary,Our Lady of the Southern Cross
+2058,-37.34233,144.16595,Primary,Daylesford Dharma School
+2059,-37.71349,144.73671,Primary,St George Preca School
+2060,-37.59574,145.0906,Primary,St Joseph's School
+2061,-37.62426,145.03753,Pri/Sec,Al Siraat College
+2062,-38.17823,145.92622,Special,Community College Gippsland Ltd | ECG Community College
+2063,-36.33783,146.30898,Special,"Borinya, Wangaratta Community Partnership"
+2064,-38.1926,145.17465,Pri/Sec,Woodleigh School
+2065,-36.37766,145.4017,Secondary,Shepparton ACE Secondary College
+2067,-38.05462,145.40567,Primary,St Brigid's School
+2068,-38.05901,145.25248,Primary,St Francis de Sales Catholic Primary School
+2069,-37.79068,144.76052,Primary,St Lawrence Catholic Primary School
+2071,-37.88729,145.28649,Pri/Sec,Heritage College Knox
+2072,-37.83359,144.97709,Pri/Sec,Melbourne Grammar School
+2073,-37.85424,144.66038,Pri/Sec,Islamic College of Melbourne
+2074,-37.71396,144.7396,Pri/Sec,Southern Cross Grammar
+2075,-38.17432,144.38711,Special,MacKillop Specialist School
+2076,-38.0492,145.14876,Pri/Sec,Cornish College
+2077,-37.88817,145.02567,Pri/Sec,Melbourne Montessori School
+2078,-37.84829,144.69823,Primary,St Francis of Assisi Catholic Primary School
+2079,-37.80384,144.95494,Special,St Joseph's Flexible Learning Centre Melbourne
+2080,-37.69777,144.92926,Pri/Sec,Glenroy Private
+2081,-36.38595,146.32991,Pri/Sec,Cathedral College Wangaratta
+2082,-38.54791,145.94392,Primary,Koonwarra Village School
+2083,-37.9036,145.03508,Pri/Sec,Divrei Emineh
+2084,-37.82106,147.6078,Primary,Wild Cherry School
+2086,-36.55392,145.99668,Pri/Sec,Australian Christian College Hume
+2087,-37.626,145.0126,Primary,St Mary of the Cross MacKillop Catholic Parish Primary School
+2089,-37.9088,144.76595,Primary,St Mary of the Cross Catholic Primary School
+2090,-38.11617,145.31704,Primary,St Thomas the Apostle Catholic Primary School
+2091,-37.75716,145.34398,Special,Cire Community School | Cire Training
+2093,-37.83342,144.66571,Primary,St John the Apostle Catholic Primary School
+2094,-37.84381,144.72821,Primary,St Clare's Catholic Primary School
+2095,-38.06277,145.43271,Primary,St Clare's Primary School
+2096,-37.59693,145.11522,Primary,St Paul the Apostle Catholic Primary School
+2097,-35.92428,145.66006,Pri/Sec,Cobram Anglican Grammar School
+2098,-36.73171,144.22169,Pri/Sec,Marist College Bendigo
+2099,-37.95784,145.11136,Pri/Sec,Heatherton Christian College
+2100,-37.81954,144.98926,Special,Melbourne Indigenous Transition School
+2101,-37.4457,144.53319,Pri/Sec,Alice Miller School
+2102,-37.96694,145.14879,Primary,Hoa Nghiem Primary School
+2103,-37.70712,144.56548,Pri/Sec,Al Iman College
+2104,-37.78489,145.35199,Pri/Sec,Edinburgh College
+2105,-37.80222,145.03148,Special,Giant Steps Melbourne
+2106,-37.97749,145.31587,Pri/Sec,Harkaway Hills College
+2107,-37.86311,144.9052,Primary,Newmark Primary
+2108,-38.50808,145.2016,Primary,Phillip Island Village School
+2109,-38.38285,144.88506,Special,Advance College of Education Incorporated
+2110,-37.6987,145.00926,Special,Preston Reservoir Adult Community Education Inc | Prace College
+2111,-37.80519,144.95509,Special,River Nile School
+2112,-38.14825,145.11925,Special,Brotherhood of St Laurence|David Scott School
+2113,-37.81654,144.95615,Special,Hester Hornbrook Academy
+2114,-37.83071,145.05401,Secondary,SEDA College (Victoria)
+2115,-37.54597,143.78041,Primary,Siena Catholic Primary School
+2116,-37.86057,144.99191,Pri/Sec,Cheder Levi Yitzchok Inc
+2218,-37.58197,144.8961,Primary,Oscar Romero Catholic Primary School
+2219,-38.04693,144.1701,Primary,St Mary MacKillop Catholic Primary School
+2220,-37.4241,144.99984,Primary,Our Lady of the Way Catholic Primary School
+2221,-38.30332,144.33228,Primary,Lisieux Catholic Primary School
+2222,-38.4637,145.2398,Primary,Our Lady Star of the Sea Catholic Primary School
+2223,-37.86007,145.32148,Pri/Sec,Fernbrook School
+2224,-36.43612,145.40034,Pri/Sec,St Anne's College
+2225,-37.58479,144.70532,Primary,Holy Trinity Catholic Primary School
+2226,-37.61582,145.03178,Primary,Glowrey Catholic Primary School
+2227,-37.94484,145.13932,Primary,Fitra Community School
+2228,-38.10602,145.37876,Primary,Clyde Grammar
+2229,-38.24009,144.36945,Primary,St Catherine of Siena Catholic Primary School
+2230,-38.52856,145.55883,Secondary,Village High School
+2231,-38.21912,144.35671,Secondary,Iona College Geelong
+2232,-37.93846,145.0235,Special,Tombolo Academy
+2233,-37.68674,144.57797,Secondary,Djerriwarrh Community & Education Services | Djerriwarrh Community College
+2234,-37.73304,145.38227,Special,Lyrebird College
+2235,-37.9033,144.61028,Primary,St Joseph’s Catholic Primary School
+2236,-37.83731,144.96665,Secondary,Youth2Industry College
+2237,-38.14153,145.96161,Primary,St Angela of the Cross Primary School
+2238,-37.67575,144.92369,Primary,My College
+2239,-38.17178,144.28535,Primary,Woodline Primary
+2240,-37.82191,144.99848,Secondary,Ignatius Learning Centre
+2241,-37.68243,144.60498,Pri/Sec,Muhammadiyah Australia College
+2242,-37.73305,144.57246,Primary,St Lawrence of Brindisi Catholic Primary School
+2243,-37.97748,145.31604,Primary,Lysterfield Lake College
+2244,-37.64875,145.08148,Secondary,Plenty River College
+2245,-37.53046,144.9052,Primary,Holy Cross Catholic Primary School
+2246,-37.97324,145.31589,Primary,Sidrah Gardens School
+2247,-37.88319,145.29327,Secondary,Mountain District Community College
+2248,-37.62974,144.88566,Primary,Mary Queen of Heaven Catholic Primary School

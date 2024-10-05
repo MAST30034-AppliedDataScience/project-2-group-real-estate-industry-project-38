@@ -1,0 +1,564 @@
+region,entertainments_count,hospital_count,park_count,psf_count,school2_count,school1_count,shop_count,stop_count
+Melbourne CBD - East,317.0,,2.0,3.0,7.0,2.0,10.0,32.0
+Melbourne CBD - West,153.0,,3.0,3.0,4.0,2.0,5.0,67.0
+Fitzroy,135.0,2.0,13.0,1.0,6.0,3.0,14.0,35.0
+Carlton,97.0,1.0,21.0,1.0,10.0,2.0,9.0,52.0
+Geelong,94.0,3.0,27.0,2.0,11.0,7.0,4.0,122.0
+Melbourne CBD - North,85.0,,12.0,,6.0,,16.0,28.0
+Springvale,74.0,,26.0,1.0,16.0,7.0,17.0,86.0
+Docklands,70.0,,18.0,2.0,3.0,1.0,12.0,45.0
+Footscray,68.0,2.0,25.0,2.0,7.0,6.0,12.0,116.0
+St Kilda - West,60.0,,21.0,1.0,,1.0,4.0,52.0
+Glen Waverley - West,59.0,1.0,53.0,,10.0,6.0,5.0,91.0
+Brunswick - South,58.0,,23.0,1.0,5.0,2.0,9.0,66.0
+Bendigo,52.0,4.0,23.0,2.0,15.0,11.0,9.0,142.0
+Collingwood,51.0,,13.0,1.0,3.0,3.0,4.0,20.0
+South Melbourne,50.0,,14.0,2.0,9.0,2.0,4.0,39.0
+Preston - East,49.0,,15.0,3.0,6.0,8.0,14.0,148.0
+Southbank (West) - South Wharf,49.0,,10.0,,1.0,,3.0,14.0
+Ballarat,48.0,5.0,39.0,2.0,7.0,9.0,8.0,104.0
+Malvern East,47.0,1.0,21.0,,4.0,4.0,6.0,96.0
+Carnegie,46.0,,5.0,,1.0,3.0,8.0,73.0
+Richmond (South) - Cremorne,45.0,,25.0,1.0,5.0,3.0,2.0,50.0
+Prahran - Windsor,44.0,2.0,15.0,2.0,2.0,4.0,4.0,75.0
+Clayton - Central,43.0,7.0,13.0,1.0,2.0,2.0,8.0,34.0
+Dandenong - North,41.0,1.0,10.0,3.0,12.0,8.0,28.0,133.0
+Oakleigh - Huntingdale,41.0,,35.0,2.0,7.0,7.0,9.0,147.0
+Albert Park,40.0,,23.0,,2.0,5.0,5.0,59.0
+Brunswick East,39.0,,16.0,,2.0,3.0,5.0,45.0
+South Yarra - South,39.0,,19.0,,,,6.0,28.0
+North Melbourne,38.0,1.0,22.0,1.0,4.0,5.0,6.0,54.0
+Brunswick - North,35.0,2.0,6.0,2.0,3.0,2.0,7.0,59.0
+Brighton (Vic.),33.0,1.0,19.0,,1.0,8.0,7.0,114.0
+Phillip Island,32.0,1.0,22.0,2.0,,5.0,5.0,54.0
+Richmond - North,31.0,4.0,13.0,2.0,,5.0,6.0,30.0
+Northcote - West,30.0,,14.0,,2.0,4.0,1.0,39.0
+Fitzroy North,30.0,,37.0,,2.0,5.0,3.0,69.0
+Doncaster East - South,30.0,1.0,19.0,1.0,1.0,5.0,7.0,62.0
+Thornbury,29.0,,25.0,,3.0,8.0,6.0,79.0
+Southbank - East,29.0,,9.0,1.0,3.0,1.0,5.0,20.0
+Williamstown,29.0,1.0,25.0,1.0,1.0,6.0,2.0,71.0
+Moonee Ponds,28.0,,16.0,2.0,2.0,3.0,7.0,83.0
+Hawthorn - South,28.0,,14.0,,3.0,6.0,1.0,43.0
+Highett (East) - Cheltenham,28.0,,24.0,2.0,8.0,5.0,8.0,114.0
+Box Hill,27.0,2.0,27.0,2.0,5.0,5.0,13.0,143.0
+Warrnambool - South,27.0,1.0,23.0,1.0,4.0,4.0,9.0,84.0
+Coburg - East,26.0,,32.0,,11.0,6.0,8.0,81.0
+Geelong West - Hamlyn Heights,26.0,,27.0,3.0,5.0,9.0,4.0,100.0
+Hawthorn East,25.0,,9.0,,3.0,6.0,5.0,38.0
+Lorne - Anglesea,25.0,1.0,14.0,4.0,1.0,3.0,2.0,17.0
+Traralgon - East,24.0,,42.0,1.0,1.0,4.0,6.0,73.0
+Elwood,24.0,,11.0,,2.0,4.0,2.0,43.0
+Cranbourne,24.0,1.0,29.0,2.0,2.0,7.0,10.0,71.0
+Wantirna South,24.0,,66.0,2.0,7.0,7.0,8.0,128.0
+Mildura - North,23.0,2.0,41.0,1.0,6.0,6.0,4.0,137.0
+Bright - Mount Beauty,23.0,3.0,29.0,14.0,1.0,11.0,7.0,9.0
+Mornington - West,23.0,4.0,21.0,2.0,,2.0,5.0,69.0
+St Albans - North,23.0,,27.0,1.0,6.0,6.0,7.0,75.0
+Ringwood,23.0,,29.0,1.0,7.0,7.0,10.0,115.0
+Northcote - East,23.0,,9.0,2.0,4.0,2.0,8.0,72.0
+Kingsbury,23.0,2.0,22.0,2.0,3.0,3.0,3.0,69.0
+Eltham,22.0,,81.0,3.0,4.0,6.0,9.0,69.0
+Wonthaggi - Inverloch,22.0,2.0,62.0,10.0,3.0,10.0,9.0,134.0
+Point Nepean,22.0,,41.0,4.0,,4.0,3.0,198.0
+Caulfield - South,22.0,2.0,4.0,2.0,2.0,4.0,1.0,84.0
+Belmont,21.0,2.0,19.0,1.0,4.0,7.0,10.0,61.0
+Torquay,21.0,,29.0,3.0,6.0,6.0,6.0,88.0
+Frankston,20.0,5.0,43.0,2.0,2.0,6.0,9.0,133.0
+Caulfield - North,20.0,2.0,9.0,,2.0,8.0,4.0,104.0
+Berwick - North,19.0,3.0,98.0,1.0,8.0,7.0,5.0,126.0
+Balwyn,19.0,,30.0,,1.0,7.0,3.0,62.0
+Rosebud - McCrae,19.0,1.0,38.0,2.0,2.0,5.0,10.0,78.0
+Healesville - Yarra Glen,19.0,1.0,13.0,4.0,,7.0,6.0,48.0
+Mentone,19.0,,20.0,1.0,3.0,8.0,5.0,61.0
+Sunshine,19.0,,18.0,,3.0,3.0,19.0,96.0
+Taylors Lakes,18.0,,40.0,1.0,3.0,3.0,5.0,74.0
+Yarraville,18.0,,23.0,,2.0,5.0,4.0,88.0
+Alphington - Fairfield,18.0,,8.0,,2.0,2.0,3.0,58.0
+Belgrave - Selby,18.0,,12.0,8.0,7.0,6.0,3.0,77.0
+Carlton North - Princes Hill,18.0,,7.0,,2.0,3.0,1.0,37.0
+Doncaster,18.0,1.0,44.0,,1.0,4.0,5.0,102.0
+East Melbourne,18.0,7.0,27.0,1.0,5.0,1.0,1.0,47.0
+Warragul,18.0,1.0,36.0,5.0,2.0,14.0,7.0,95.0
+Abbotsford,18.0,,14.0,1.0,1.0,2.0,8.0,22.0
+Hawthorn - North,17.0,1.0,17.0,1.0,1.0,1.0,3.0,23.0
+Port Melbourne,17.0,,34.0,,1.0,2.0,3.0,57.0
+Lilydale - Coldstream,17.0,2.0,51.0,4.0,5.0,11.0,8.0,103.0
+South Yarra - North,17.0,,5.0,,,3.0,4.0,24.0
+Mansfield (Vic.),17.0,1.0,20.0,14.0,,7.0,4.0,19.0
+Mill Park - North,17.0,,34.0,1.0,3.0,4.0,9.0,106.0
+Greensborough,17.0,,66.0,2.0,5.0,9.0,6.0,93.0
+Camberwell,17.0,,23.0,1.0,2.0,4.0,4.0,112.0
+Narre Warren - South West,16.0,,27.0,1.0,2.0,6.0,7.0,75.0
+Noble Park - West,16.0,3.0,16.0,1.0,6.0,4.0,3.0,52.0
+Otway,16.0,1.0,13.0,5.0,,4.0,3.0,18.0
+Melbourne Airport,16.0,,1.0,6.0,1.0,,,18.0
+Castlemaine,16.0,2.0,20.0,4.0,1.0,8.0,2.0,63.0
+Emerald - Cockatoo,16.0,,18.0,6.0,8.0,6.0,5.0,82.0
+Mount Waverley - South,15.0,2.0,43.0,1.0,1.0,5.0,5.0,69.0
+Mount Dandenong - Olinda,15.0,,13.0,4.0,2.0,7.0,1.0,136.0
+Kensington (Vic.),15.0,,28.0,,2.0,3.0,4.0,22.0
+South Yarra - West,15.0,1.0,3.0,,1.0,6.0,1.0,32.0
+St Kilda East,14.0,,6.0,1.0,1.0,2.0,3.0,48.0
+Werribee - South,14.0,3.0,57.0,3.0,7.0,5.0,6.0,78.0
+Ormond - Glen Huntly,14.0,,6.0,,,4.0,3.0,41.0
+Knoxfield - Scoresby,14.0,,69.0,,5.0,5.0,6.0,115.0
+Heidelberg - Rosanna,13.0,4.0,27.0,1.0,1.0,8.0,7.0,72.0
+Doncaster East - North,13.0,,36.0,,2.0,1.0,4.0,75.0
+Parkville,13.0,10.0,40.0,,2.0,3.0,,54.0
+Balwyn North,13.0,,24.0,1.0,3.0,7.0,6.0,107.0
+Sandringham - Black Rock,13.0,1.0,26.0,1.0,4.0,6.0,4.0,69.0
+Brunswick West,13.0,,19.0,,3.0,3.0,4.0,78.0
+Ashwood - Chadstone,13.0,,24.0,,3.0,6.0,3.0,65.0
+Bairnsdale,13.0,1.0,21.0,2.0,4.0,9.0,4.0,48.0
+Wodonga,13.0,2.0,51.0,2.0,4.0,7.0,5.0,71.0
+Deer Park,12.0,,16.0,2.0,4.0,3.0,6.0,70.0
+Maribyrnong,12.0,,38.0,,,2.0,4.0,79.0
+Ivanhoe,12.0,1.0,20.0,,1.0,5.0,3.0,55.0
+Clayton South,12.0,,25.0,1.0,1.0,4.0,,69.0
+Flemington,12.0,,11.0,1.0,4.0,5.0,6.0,24.0
+Ringwood East,12.0,2.0,38.0,1.0,9.0,7.0,5.0,53.0
+Kyneton,12.0,1.0,19.0,4.0,1.0,6.0,2.0,43.0
+Ferntree Gully (South) - Upper Ferntree Gully,12.0,1.0,43.0,1.0,4.0,4.0,7.0,80.0
+Ocean Grove,12.0,,26.0,2.0,2.0,4.0,6.0,68.0
+Flinders,11.0,,6.0,2.0,1.0,2.0,1.0,12.0
+Hamilton (Vic.),11.0,1.0,19.0,4.0,4.0,9.0,5.0,71.0
+Upwey - Tecoma,11.0,,5.0,,2.0,4.0,1.0,54.0
+Swan Hill,11.0,1.0,24.0,2.0,2.0,7.0,4.0,48.0
+Nunawading,11.0,,20.0,3.0,4.0,3.0,3.0,72.0
+Ascot Vale,11.0,1.0,12.0,,4.0,4.0,2.0,60.0
+Yarra Valley,11.0,,16.0,12.0,2.0,12.0,3.0,79.0
+Lakes Entrance,11.0,,12.0,2.0,2.0,7.0,4.0,69.0
+Mitcham (Vic.),11.0,1.0,34.0,,2.0,5.0,3.0,93.0
+Seddon - Kingsville,11.0,,10.0,,,,2.0,26.0
+Dromana,11.0,,18.0,2.0,,3.0,3.0,36.0
+Burwood East,11.0,,30.0,,,5.0,7.0,64.0
+Cranbourne West,11.0,,31.0,,2.0,4.0,7.0,45.0
+Wangaratta,11.0,2.0,34.0,2.0,9.0,12.0,5.0,117.0
+Ferntree Gully - North,11.0,,23.0,2.0,6.0,8.0,4.0,62.0
+Boronia,11.0,1.0,44.0,2.0,3.0,5.0,5.0,116.0
+Malvern - Glen Iris,11.0,1.0,22.0,1.0,,7.0,3.0,91.0
+Bentleigh East - North,10.0,1.0,9.0,,1.0,2.0,1.0,71.0
+Seaford (Vic.),10.0,,30.0,,5.0,8.0,4.0,88.0
+St Kilda - Central,10.0,,9.0,,,3.0,1.0,51.0
+West Melbourne - Residential,10.0,,9.0,1.0,,1.0,3.0,20.0
+Mount Eliza,10.0,,25.0,1.0,1.0,7.0,4.0,31.0
+Mooroolbark,10.0,1.0,48.0,2.0,8.0,10.0,5.0,45.0
+Coburg North,10.0,,27.0,,1.0,1.0,5.0,58.0
+Bentleigh - McKinnon,10.0,,16.0,,2.0,4.0,4.0,74.0
+Myrtleford,10.0,1.0,17.0,7.0,1.0,3.0,2.0,4.0
+Burwood (Vic.),10.0,,18.0,2.0,4.0,4.0,,78.0
+Croydon - West,10.0,,32.0,,3.0,5.0,6.0,64.0
+Kew - South,10.0,1.0,13.0,2.0,1.0,9.0,,67.0
+Clayton (North) - Notting Hill,10.0,1.0,38.0,,4.0,2.0,3.0,74.0
+Wattle Glen - Diamond Creek,10.0,,49.0,3.0,4.0,5.0,2.0,47.0
+Watsonia,10.0,,18.0,,3.0,3.0,10.0,53.0
+Preston - West,10.0,,15.0,1.0,3.0,4.0,2.0,51.0
+Chelsea - Bonbeach,10.0,,18.0,1.0,,3.0,3.0,49.0
+Pascoe Vale,10.0,2.0,14.0,1.0,1.0,5.0,3.0,71.0
+Mordialloc - Parkdale,10.0,1.0,23.0,1.0,2.0,6.0,4.0,79.0
+Essendon - East,9.0,,16.0,,5.0,4.0,2.0,80.0
+Grovedale - Mount Duneed,9.0,,25.0,2.0,5.0,7.0,10.0,117.0
+Sunbury - South,9.0,,30.0,2.0,,4.0,10.0,104.0
+Hampton Park - West,9.0,,29.0,1.0,1.0,3.0,6.0,55.0
+Bayswater,9.0,1.0,19.0,1.0,1.0,5.0,7.0,64.0
+Wantirna,9.0,2.0,68.0,,6.0,5.0,1.0,47.0
+Altona,9.0,,22.0,2.0,2.0,5.0,3.0,72.0
+Bacchus Marsh,9.0,1.0,61.0,4.0,2.0,7.0,9.0,81.0
+Reservoir - South East,9.0,,9.0,,1.0,4.0,6.0,99.0
+Forest Hill,9.0,2.0,17.0,,,1.0,5.0,52.0
+Glen Iris - East,9.0,2.0,26.0,,2.0,3.0,4.0,49.0
+Wallan,9.0,,26.0,4.0,1.0,6.0,5.0,47.0
+Mulgrave,8.0,3.0,63.0,,7.0,5.0,5.0,110.0
+Hastings - Somers,8.0,1.0,48.0,5.0,1.0,10.0,5.0,79.0
+Moyne - West,8.0,1.0,23.0,10.0,,6.0,2.0,47.0
+Blackburn,8.0,,39.0,,9.0,8.0,6.0,123.0
+Wangaratta Surrounds,8.0,,8.0,25.0,1.0,12.0,,22.0
+Edithvale - Aspendale,8.0,,12.0,1.0,4.0,5.0,2.0,49.0
+Templestowe,8.0,,50.0,1.0,,3.0,2.0,108.0
+North Geelong - Bell Park,8.0,1.0,32.0,1.0,3.0,7.0,4.0,93.0
+Montmorency - Briar Hill,8.0,,39.0,,5.0,7.0,4.0,57.0
+Pakenham - South West,8.0,,49.0,2.0,6.0,7.0,12.0,76.0
+Elsternwick,8.0,2.0,5.0,,1.0,4.0,2.0,67.0
+Newport,8.0,,32.0,1.0,4.0,5.0,2.0,91.0
+Clifton Hill - Alphington,8.0,1.0,18.0,,6.0,5.0,2.0,33.0
+Mount Baw Baw Region,8.0,1.0,10.0,6.0,2.0,7.0,1.0,13.0
+Corangamite - South,8.0,2.0,19.0,6.0,,5.0,4.0,15.0
+Reservoir - South West,7.0,1.0,15.0,,4.0,3.0,2.0,106.0
+Ringwood North,7.0,,26.0,,5.0,3.0,2.0,56.0
+St Albans - South,7.0,1.0,23.0,,4.0,6.0,4.0,54.0
+Bundoora - East,7.0,,23.0,,3.0,4.0,4.0,43.0
+Kew - West,7.0,3.0,23.0,,2.0,2.0,4.0,51.0
+Croydon South,7.0,,15.0,,1.0,1.0,3.0,15.0
+Springvale South,7.0,,13.0,1.0,2.0,4.0,9.0,49.0
+Euroa,7.0,1.0,8.0,7.0,2.0,5.0,1.0,8.0
+Wandin - Seville,7.0,,14.0,3.0,2.0,3.0,3.0,26.0
+Beaumaris,7.0,,14.0,,2.0,4.0,1.0,75.0
+Beaconsfield - Officer,7.0,,46.0,2.0,5.0,9.0,4.0,40.0
+Taylors Hill,7.0,,32.0,,2.0,5.0,4.0,43.0
+Maryborough (Vic.),7.0,1.0,11.0,2.0,,3.0,4.0,84.0
+Leongatha,7.0,1.0,11.0,13.0,3.0,8.0,4.0,14.0
+Sale,7.0,1.0,14.0,3.0,1.0,10.0,5.0,77.0
+Cairnlea,7.0,,13.0,,2.0,2.0,3.0,15.0
+Campbellfield - Coolaroo,7.0,,27.0,1.0,3.0,7.0,7.0,104.0
+Daylesford,7.0,2.0,18.0,7.0,1.0,8.0,4.0,29.0
+Orbost,7.0,3.0,16.0,15.0,4.0,9.0,5.0,21.0
+Croydon - East,6.0,,37.0,2.0,8.0,2.0,3.0,67.0
+Hurstbridge,6.0,,11.0,2.0,2.0,1.0,,4.0
+Fawkner,6.0,,16.0,,3.0,6.0,4.0,76.0
+Altona North,6.0,,23.0,2.0,2.0,4.0,7.0,124.0
+Echuca,6.0,1.0,10.0,3.0,2.0,8.0,4.0,66.0
+Wyndham Vale - South,6.0,,23.0,,2.0,2.0,6.0,65.0
+Port Melbourne Industrial,6.0,,4.0,2.0,,3.0,1.0,55.0
+Rowville - Central,6.0,,50.0,3.0,5.0,4.0,6.0,75.0
+West Footscray - Tottenham,6.0,,13.0,,3.0,2.0,2.0,56.0
+Laverton,6.0,,42.0,1.0,2.0,4.0,5.0,85.0
+Highton,6.0,1.0,42.0,2.0,4.0,6.0,4.0,79.0
+Murrumbeena,6.0,,6.0,,,2.0,,45.0
+Frankston North,6.0,,23.0,1.0,,12.0,8.0,122.0
+Warrandyte - Wonga Park,6.0,,24.0,4.0,1.0,4.0,4.0,80.0
+Gladstone Park - Westmeadows,6.0,,46.0,3.0,3.0,5.0,3.0,75.0
+Colac,6.0,1.0,8.0,2.0,2.0,9.0,5.0,72.0
+Horsham,6.0,1.0,27.0,1.0,4.0,7.0,5.0,123.0
+Hoppers Crossing - South,6.0,,54.0,,3.0,6.0,5.0,86.0
+Hughesdale,6.0,,4.0,,3.0,3.0,,33.0
+Sydenham,6.0,,19.0,,8.0,3.0,2.0,35.0
+Caroline Springs,6.0,,32.0,1.0,1.0,5.0,6.0,81.0
+Portland,6.0,1.0,9.0,4.0,,9.0,3.0,60.0
+Reservoir - North East,5.0,,23.0,,2.0,4.0,3.0,59.0
+Dandenong North,5.0,,22.0,,3.0,5.0,1.0,103.0
+Moorabbin - Heatherton,5.0,2.0,16.0,1.0,2.0,6.0,2.0,87.0
+Newtown (Vic.),5.0,,18.0,,4.0,7.0,2.0,51.0
+Stawell,5.0,1.0,18.0,9.0,,8.0,3.0,74.0
+Craigieburn - West,5.0,,19.0,,1.0,2.0,5.0,46.0
+Cobram,5.0,1.0,7.0,3.0,,5.0,3.0,13.0
+Kew East,5.0,,10.0,,1.0,3.0,1.0,41.0
+Dingley Village,5.0,,24.0,,1.0,3.0,1.0,48.0
+Montrose,5.0,,11.0,1.0,3.0,3.0,2.0,40.0
+Drouin,5.0,,30.0,5.0,1.0,9.0,3.0,59.0
+Keysborough - North,5.0,,26.0,,3.0,2.0,5.0,75.0
+Carrum - Patterson Lakes,5.0,,26.0,3.0,1.0,2.0,6.0,57.0
+Dandenong - South,5.0,,25.0,,,1.0,2.0,128.0
+Nagambie,5.0,,8.0,6.0,,3.0,1.0,4.0
+Keilor,5.0,,22.0,,5.0,3.0,,66.0
+Avondale Heights,5.0,,42.0,3.0,4.0,2.0,1.0,46.0
+Fraser Rise - Plumpton,5.0,,23.0,,,2.0,2.0,11.0
+Ararat,5.0,1.0,8.0,3.0,3.0,6.0,3.0,64.0
+Noble Park - East,5.0,2.0,10.0,,2.0,3.0,1.0,31.0
+Carrum Downs,5.0,,52.0,2.0,5.0,4.0,7.0,105.0
+Surrey Hills (East) - Mont Albert,4.0,1.0,10.0,,2.0,3.0,1.0,31.0
+Research - North Warrandyte,4.0,,8.0,3.0,2.0,3.0,,58.0
+Portarlington,4.0,,15.0,3.0,,2.0,2.0,91.0
+Lalor - East,4.0,,15.0,,1.0,4.0,11.0,41.0
+Brighton East,4.0,,10.0,,3.0,4.0,,58.0
+Heathcote,4.0,1.0,4.0,8.0,,3.0,1.0,13.0
+Mernda - North,4.0,,77.0,2.0,2.0,2.0,3.0,35.0
+Pascoe Vale South,4.0,,7.0,,5.0,2.0,1.0,41.0
+Riddells Creek,4.0,,4.0,2.0,,1.0,2.0,4.0
+South Morang - South,4.0,,65.0,1.0,2.0,3.0,5.0,41.0
+Yea,4.0,1.0,7.0,5.0,1.0,4.0,1.0,10.0
+Rowville - South,4.0,,21.0,,3.0,1.0,3.0,36.0
+Moe - Newborough,4.0,,15.0,4.0,5.0,9.0,4.0,115.0
+Langwarrin,4.0,1.0,53.0,1.0,1.0,7.0,5.0,97.0
+Kilsyth,4.0,,21.0,,1.0,4.0,4.0,55.0
+Heidelberg West,4.0,1.0,16.0,1.0,4.0,2.0,3.0,103.0
+Point Cook - North West,4.0,1.0,12.0,,,2.0,4.0,16.0
+Longford - Loch Sport,4.0,,11.0,6.0,,4.0,1.0,26.0
+Bulleen,4.0,,30.0,,1.0,3.0,3.0,60.0
+Doveton,4.0,,18.0,,2.0,2.0,1.0,46.0
+Seymour,4.0,2.0,16.0,3.0,2.0,2.0,5.0,53.0
+Mernda - South,4.0,,78.0,,,2.0,2.0,46.0
+Kilmore - Broadford,4.0,1.0,23.0,3.0,,6.0,4.0,40.0
+Greenvale - Bulla,4.0,,55.0,3.0,4.0,7.0,3.0,71.0
+Lara,4.0,,37.0,3.0,4.0,5.0,3.0,69.0
+Irymple,4.0,,5.0,,3.0,6.0,1.0,21.0
+Maffra,4.0,2.0,20.0,9.0,2.0,11.0,6.0,26.0
+Pearcedale - Tooradin,4.0,,12.0,2.0,,2.0,1.0,47.0
+Maryborough Surrounds,4.0,1.0,11.0,8.0,1.0,5.0,1.0,14.0
+Flemington Racecourse,4.0,,3.0,,,,2.0,8.0
+Lynbrook - Lyndhurst,4.0,,20.0,,1.0,3.0,5.0,46.0
+Canadian - Mount Clear,4.0,,44.0,1.0,2.0,7.0,1.0,63.0
+Morwell,4.0,1.0,21.0,2.0,1.0,5.0,5.0,107.0
+Broadmeadows,4.0,1.0,12.0,2.0,1.0,10.0,4.0,89.0
+Paynesville,4.0,,4.0,2.0,,2.0,1.0,2.0
+Bannockburn,4.0,,8.0,2.0,2.0,2.0,3.0,5.0
+Glen Waverley - East,4.0,,37.0,3.0,4.0,7.0,1.0,82.0
+Thomastown,3.0,,26.0,1.0,1.0,8.0,3.0,115.0
+Bentleigh East - South,3.0,,7.0,,9.0,5.0,1.0,82.0
+Shepparton Surrounds - West,3.0,1.0,18.0,5.0,2.0,10.0,2.0,10.0
+Berwick - South West,3.0,,12.0,,2.0,1.0,,25.0
+Wendouree - Miners Rest,3.0,,41.0,1.0,2.0,7.0,7.0,116.0
+Wheelers Hill,3.0,,57.0,,5.0,8.0,6.0,105.0
+Shepparton - North,3.0,5.0,23.0,,8.0,11.0,1.0,159.0
+Hallam,3.0,,21.0,1.0,,2.0,1.0,56.0
+Shepparton - South East,3.0,,21.0,4.0,1.0,6.0,8.0,119.0
+Benalla,3.0,1.0,10.0,4.0,,5.0,3.0,53.0
+Mooroopna,3.0,,15.0,2.0,2.0,3.0,2.0,69.0
+Essendon (West) - Aberfeldie,3.0,,15.0,,4.0,6.0,5.0,67.0
+Bacchus Marsh Surrounds,3.0,1.0,12.0,9.0,2.0,4.0,1.0,10.0
+Ashburton (Vic.),3.0,,12.0,1.0,6.0,3.0,2.0,28.0
+Barwon Heads - Armstrong Creek,3.0,,12.0,1.0,,4.0,5.0,58.0
+Beechworth,3.0,1.0,11.0,5.0,1.0,5.0,2.0,3.0
+Mildura - South,3.0,,19.0,1.0,1.0,5.0,4.0,121.0
+Sunshine West,3.0,,30.0,,,8.0,4.0,99.0
+Narre Warren South - East,3.0,,25.0,1.0,1.0,2.0,4.0,41.0
+Chelsea Heights,3.0,,9.0,,1.0,1.0,1.0,41.0
+Armadale,3.0,,7.0,,,2.0,3.0,63.0
+Rutherglen,3.0,,8.0,5.0,,4.0,1.0,7.0
+Bundoora - West,3.0,1.0,23.0,,2.0,3.0,3.0,17.0
+Essendon Airport,3.0,,3.0,1.0,2.0,,8.0,5.0
+Nhill Region,3.0,5.0,32.0,20.0,2.0,9.0,5.0,14.0
+Point Lonsdale - Queenscliff,3.0,,9.0,3.0,,3.0,3.0,41.0
+The Basin,3.0,,8.0,1.0,1.0,3.0,,15.0
+Derrimut,3.0,,11.0,1.0,2.0,2.0,4.0,24.0
+Mount Waverley - North,3.0,,29.0,,2.0,5.0,1.0,52.0
+Macedon,3.0,,2.0,3.0,,4.0,1.0,2.0
+Ballarat East - Warrenheip,3.0,,41.0,1.0,2.0,5.0,2.0,59.0
+Creswick - Clunes,3.0,2.0,24.0,9.0,2.0,6.0,2.0,58.0
+Coburg - West,3.0,2.0,19.0,,2.0,4.0,,55.0
+Surrey Hills (West) - Canterbury,3.0,,18.0,,1.0,7.0,3.0,67.0
+Kyabram,3.0,2.0,13.0,5.0,2.0,5.0,3.0,5.0
+Benalla Surrounds,3.0,,1.0,11.0,,3.0,,4.0
+Buloke,3.0,5.0,24.0,26.0,1.0,9.0,7.0,16.0
+Mount Evelyn,3.0,,10.0,2.0,2.0,4.0,1.0,41.0
+Chirnside Park,3.0,,32.0,2.0,1.0,2.0,7.0,40.0
+Point Cook - North East,3.0,,35.0,1.0,1.0,3.0,8.0,46.0
+Craigieburn - North,3.0,,31.0,,1.0,4.0,2.0,31.0
+Doreen - South,2.0,,87.0,,,1.0,2.0,32.0
+Rockbank - Mount Cottrell,2.0,,44.0,1.0,2.0,3.0,1.0,44.0
+Bunyip - Garfield,2.0,,7.0,5.0,3.0,6.0,1.0,13.0
+Norlane,2.0,,14.0,1.0,1.0,1.0,4.0,48.0
+Templestowe Lower,2.0,,23.0,,1.0,4.0,3.0,63.0
+Somerville,2.0,,29.0,5.0,4.0,9.0,7.0,54.0
+Oak Park,2.0,,17.0,,,2.0,1.0,21.0
+Plenty - Yarrambat,2.0,,26.0,3.0,2.0,4.0,1.0,58.0
+Avoca,2.0,,7.0,10.0,,6.0,2.0,18.0
+Strathmore,2.0,,22.0,,1.0,4.0,1.0,52.0
+Keysborough - South,2.0,,9.0,1.0,,5.0,5.0,44.0
+Lysterfield,2.0,,30.0,,,1.0,,25.0
+Tullamarine,2.0,,19.0,,1.0,1.0,,30.0
+Braeside,2.0,,7.0,,,,,48.0
+Monbulk - Silvan,2.0,,8.0,3.0,,5.0,2.0,27.0
+Castlemaine Surrounds,2.0,1.0,32.0,15.0,2.0,8.0,1.0,32.0
+Seymour Surrounds,2.0,,2.0,7.0,,4.0,,26.0
+Frankston South,2.0,,30.0,,,4.0,1.0,65.0
+Moira,2.0,,7.0,2.0,,2.0,,7.0
+Korumburra,2.0,1.0,9.0,8.0,,7.0,2.0,18.0
+Traralgon - West,2.0,1.0,35.0,1.0,,5.0,1.0,67.0
+Pakenham - North West,2.0,,17.0,,1.0,2.0,1.0,9.0
+Berwick - South East,2.0,,32.0,,1.0,4.0,4.0,60.0
+Panton Hill - St Andrews,2.0,,4.0,6.0,1.0,8.0,,2.0
+Epping - South,2.0,3.0,26.0,1.0,1.0,4.0,6.0,74.0
+Yarram,2.0,1.0,9.0,4.0,,5.0,2.0,9.0
+Golden Plains - South,2.0,,7.0,8.0,2.0,6.0,,7.0
+Kinglake,2.0,,4.0,3.0,,4.0,1.0,25.0
+Melton West,2.0,1.0,34.0,,,8.0,8.0,86.0
+Toorak,2.0,,5.0,,,4.0,3.0,54.0
+Point Cook - East,2.0,,60.0,,6.0,3.0,2.0,34.0
+Trafalgar (Vic.),2.0,,17.0,3.0,,6.0,1.0,8.0
+Southern Grampians,2.0,1.0,12.0,27.0,,9.0,2.0,17.0
+Bruthen - Omeo,2.0,1.0,19.0,13.0,,8.0,2.0,13.0
+Churchill,2.0,,34.0,6.0,2.0,8.0,2.0,44.0
+Alexandra,2.0,1.0,15.0,10.0,,7.0,3.0,20.0
+Airport West,2.0,,18.0,,5.0,2.0,5.0,57.0
+Ivanhoe East - Eaglemont,2.0,,17.0,,,1.0,2.0,25.0
+East Bendigo - Kennington,2.0,,24.0,,2.0,3.0,6.0,75.0
+Camperdown,2.0,,9.0,4.0,,3.0,2.0,5.0
+Alfredton,2.0,,53.0,,2.0,4.0,3.0,43.0
+Altona Meadows,2.0,,36.0,,1.0,3.0,3.0,46.0
+Tarneit - Central,2.0,,44.0,4.0,,6.0,9.0,79.0
+Roxburgh Park (South) - Somerton,2.0,,34.0,,2.0,4.0,3.0,50.0
+Keilor East,2.0,,52.0,1.0,4.0,4.0,4.0,62.0
+Narre Warren South - West,2.0,,15.0,,6.0,3.0,1.0,68.0
+Pakenham - North East,2.0,,31.0,,4.0,3.0,1.0,41.0
+Horsham Surrounds,2.0,,7.0,14.0,2.0,2.0,,10.0
+Gannawarra,2.0,1.0,8.0,8.0,1.0,6.0,2.0,9.0
+Clarinda - Oakleigh South,2.0,,25.0,,4.0,2.0,2.0,56.0
+Noble Park North,2.0,,12.0,,,3.0,,45.0
+Pakenham - South East,2.0,,14.0,1.0,2.0,,3.0,32.0
+Braybrook,2.0,,23.0,,2.0,6.0,8.0,85.0
+Leopold,1.0,,20.0,1.0,1.0,1.0,3.0,70.0
+Clifton Springs,1.0,,17.0,3.0,,4.0,4.0,77.0
+West Wodonga,1.0,,59.0,2.0,7.0,4.0,3.0,27.0
+Bendigo Surrounds - South,1.0,,,5.0,,4.0,,6.0
+Ballarat North - Invermay,1.0,,40.0,,1.0,7.0,1.0,63.0
+Viewbank - Yallambie,1.0,,45.0,,2.0,4.0,2.0,64.0
+Hampton,1.0,1.0,12.0,,1.0,4.0,2.0,84.0
+Wilsons Promontory,1.0,,,1.0,,,1.0,
+Box Hill North,1.0,,28.0,,2.0,5.0,1.0,86.0
+Narre Warren - North East,1.0,,22.0,,1.0,2.0,,44.0
+Loddon,1.0,2.0,22.0,26.0,,9.0,4.0,32.0
+Delacombe,1.0,,28.0,3.0,3.0,2.0,2.0,36.0
+Eynesbury - Exford,1.0,,7.0,1.0,1.0,2.0,,
+Merbein,1.0,,7.0,2.0,1.0,3.0,1.0,37.0
+Colac Surrounds,1.0,,7.0,11.0,,4.0,,11.0
+Flora Hill - Spring Gully,1.0,,11.0,,5.0,4.0,,65.0
+Rowville - North,1.0,,25.0,,4.0,1.0,,27.0
+Rochester,1.0,1.0,8.0,,,4.0,1.0,23.0
+Red Cliffs,1.0,,8.0,2.0,1.0,5.0,2.0,19.0
+Moyne - East,1.0,,12.0,21.0,1.0,7.0,,15.0
+Ardeer - Albion,1.0,,16.0,,2.0,4.0,,33.0
+Chiltern - Indigo Valley,1.0,,3.0,7.0,1.0,4.0,1.0,4.0
+Aspendale Gardens - Waterways,1.0,,28.0,,4.0,1.0,2.0,23.0
+Point Cook - South,1.0,,31.0,,3.0,2.0,3.0,22.0
+Warrnambool - North,1.0,1.0,49.0,1.0,,11.0,5.0,99.0
+Swan Hill Surrounds,1.0,1.0,9.0,16.0,1.0,6.0,1.0,19.0
+Yarriambiack,1.0,7.0,15.0,33.0,3.0,12.0,6.0,31.0
+Mount Martha,1.0,,10.0,,,3.0,,76.0
+Endeavour Hills - South,1.0,,42.0,1.0,2.0,5.0,4.0,75.0
+Diggers Rest,1.0,,12.0,1.0,,1.0,1.0,29.0
+Tarneit - South,1.0,,22.0,,,3.0,1.0,33.0
+Blackburn South,1.0,1.0,13.0,,4.0,3.0,,47.0
+Whittlesea,1.0,,36.0,3.0,1.0,4.0,1.0,57.0
+Foster,1.0,1.0,13.0,7.0,1.0,7.0,6.0,10.0
+Reservoir - North West,1.0,,12.0,1.0,3.0,4.0,1.0,67.0
+Craigieburn - Central,1.0,1.0,25.0,,2.0,1.0,2.0,23.0
+Highett (West) - Cheltenham,1.0,,19.0,,1.0,2.0,2.0,75.0
+St Arnaud,1.0,1.0,17.0,9.0,,5.0,2.0,12.0
+Bendigo Surrounds - North,1.0,,4.0,6.0,,4.0,1.0,15.0
+Yarrawonga,1.0,1.0,21.0,3.0,1.0,3.0,2.0,1.0
+Narre Warren North,1.0,,17.0,1.0,,6.0,1.0,19.0
+Towong,1.0,3.0,14.0,26.0,,10.0,3.0,8.0
+Kerang,1.0,1.0,6.0,2.0,1.0,5.0,2.0,2.0
+Donvale - Park Orchards,1.0,,40.0,1.0,4.0,7.0,,86.0
+Wyndham Vale - North,1.0,,33.0,,2.0,1.0,,21.0
+Bayswater North,1.0,,35.0,,1.0,1.0,2.0,84.0
+Moorabbin Airport,1.0,,,,,,5.0,9.0
+Mildura Surrounds,1.0,1.0,11.0,13.0,3.0,6.0,2.0,16.0
+Maiden Gully,1.0,,3.0,1.0,,2.0,1.0,31.0
+Charlemont,1.0,1.0,15.0,,1.0,2.0,2.0,57.0
+Baranduda - Leneva,1.0,,31.0,3.0,2.0,5.0,2.0,16.0
+Rosedale,1.0,,5.0,2.0,,4.0,1.0,6.0
+Cranbourne East - North,1.0,,34.0,,2.0,4.0,5.0,60.0
+Clyde North - North,1.0,,11.0,,1.0,2.0,,20.0
+Bundoora - North,1.0,,17.0,,2.0,,3.0,36.0
+Vermont South,1.0,1.0,24.0,3.0,1.0,5.0,3.0,50.0
+Lalor - West,1.0,,27.0,,5.0,4.0,1.0,41.0
+Glenelg (Vic.),,4.0,18.0,28.0,,9.0,2.0,18.0
+Corangamite - North,,3.0,19.0,15.0,2.0,6.0,4.0,8.0
+Rushworth,,2.0,17.0,7.0,,5.0,1.0,13.0
+Newcomb - Moolap,,2.0,27.0,,1.0,6.0,6.0,118.0
+West Wimmera,,2.0,7.0,19.0,,4.0,1.0,4.0
+Numurkah,,2.0,13.0,6.0,1.0,10.0,3.0,16.0
+Winchelsea,,1.0,11.0,6.0,1.0,4.0,2.0,2.0
+Robinvale,,1.0,16.0,3.0,,2.0,1.0,4.0
+Ararat Surrounds,,1.0,6.0,17.0,1.0,6.0,2.0,16.0
+Kangaroo Flat - Golden Square,,1.0,25.0,2.0,,7.0,7.0,134.0
+Niddrie - Essendon West,,1.0,15.0,,,4.0,,39.0
+Keilor Downs,,1.0,29.0,1.0,6.0,5.0,3.0,66.0
+Beaufort,,1.0,8.0,9.0,,3.0,1.0,8.0
+Koo Wee Rup,,1.0,10.0,3.0,4.0,6.0,1.0,3.0
+Doreen - North,,,118.0,1.0,,3.0,1.0,55.0
+Epping (Vic.) - West,,,111.0,1.0,2.0,3.0,2.0,36.0
+Wollert,,,103.0,1.0,,6.0,,36.0
+South Morang - North,,,73.0,,1.0,1.0,1.0,52.0
+Roxburgh Park - North,,,71.0,,1.0,1.0,2.0,22.0
+Croydon Hills - Warranwood,,,63.0,,3.0,7.0,1.0,70.0
+Werribee - West,,,60.0,1.0,4.0,7.0,2.0,68.0
+Meadow Heights,,,59.0,,2.0,2.0,2.0,63.0
+Craigieburn - South,,,53.0,3.0,3.0,5.0,1.0,72.0
+Clyde North - South,,,44.0,,,2.0,3.0,41.0
+Corio - Lovely Banks,,,40.0,2.0,5.0,4.0,4.0,82.0
+Cranbourne South,,,40.0,2.0,1.0,7.0,2.0,58.0
+Epping - East,,,39.0,,1.0,3.0,,42.0
+Truganina - South West,,,36.0,,1.0,5.0,,39.0
+Skye - Sandhurst,,,35.0,1.0,,1.0,,17.0
+Truganina - North,,,35.0,,1.0,1.0,,12.0
+Werribee - East,,,34.0,1.0,3.0,5.0,2.0,103.0
+Mickleham - Yuroke,,,31.0,2.0,,6.0,3.0,54.0
+Hoppers Crossing - North,,,30.0,,2.0,4.0,8.0,89.0
+Endeavour Hills - North,,,29.0,,,5.0,,54.0
+Sebastopol - Redan,,,29.0,1.0,1.0,5.0,4.0,67.0
+Buninyong,,,26.0,3.0,2.0,3.0,1.0,37.0
+Sunbury,,,26.0,1.0,,6.0,,65.0
+Tarneit - North,,,26.0,,,1.0,,19.0
+Mornington - East,,,25.0,,,5.0,6.0,50.0
+White Hills - Ascot,,,24.0,1.0,,5.0,4.0,97.0
+Hillside,,,23.0,1.0,3.0,2.0,,45.0
+Melton,,,23.0,2.0,,4.0,3.0,60.0
+Sunbury - West,,,23.0,,,4.0,,71.0
+Cobblebank - Strathtulloh,,,23.0,,,1.0,1.0,12.0
+Manor Lakes - Quandong,,,22.0,,1.0,3.0,,13.0
+Lockington - Gunbower,,,22.0,5.0,2.0,2.0,1.0,5.0
+Cranbourne North - West,,,21.0,,1.0,3.0,1.0,49.0
+Melton South - Weir Views,,,21.0,,,6.0,4.0,39.0
+Kings Park (Vic.),,,20.0,,,4.0,,53.0
+Tarneit (West) - Mount Cottrell,,,20.0,,1.0,1.0,3.0,19.0
+Mill Park - South,,,19.0,,4.0,2.0,,45.0
+Truganina - South East,,,19.0,,1.0,1.0,,22.0
+Glenroy - East,,,19.0,,,6.0,1.0,64.0
+Cranbourne North - East,,,16.0,,1.0,2.0,2.0,29.0
+Brookfield,,,15.0,,,1.0,,24.0
+Vermont,,,14.0,,2.0,4.0,,50.0
+Gisborne,,,13.0,2.0,3.0,7.0,6.0,39.0
+Cranbourne East - South,,,12.0,,1.0,3.0,,6.0
+California Gully - Eaglehawk,,,12.0,2.0,1.0,5.0,2.0,79.0
+Kialla,,,12.0,,1.0,3.0,3.0,26.0
+Burnside Heights,,,12.0,,,1.0,,12.0
+Seabrook,,,11.0,,1.0,1.0,,9.0
+Delahey,,,11.0,,,2.0,2.0,30.0
+Sunshine North,,,11.0,1.0,5.0,5.0,,43.0
+Hampton Park - East,,,11.0,,3.0,3.0,1.0,50.0
+Strathfieldsaye,,,10.0,,1.0,2.0,1.0,61.0
+Burnside,,,10.0,,,1.0,2.0,20.0
+Kurunjang - Toolern Vale,,,9.0,1.0,,3.0,,37.0
+Gowanbrae,,,8.0,,1.0,,,17.0
+Craigieburn - North West,,,7.0,,1.0,1.0,2.0,18.0
+Shepparton Surrounds - East,,,7.0,5.0,1.0,7.0,,6.0
+Romsey,,,7.0,10.0,,6.0,2.0,15.0
+Glenroy - West,,,7.0,,,1.0,2.0,23.0
+Royal Botanic Gardens Victoria,,,7.0,,,,,11.0
+Yallourn North - Glengarry,,,6.0,3.0,,4.0,2.0,18.0
+Hadfield,,,6.0,1.0,1.0,1.0,1.0,33.0
+Golden Plains - North,,,6.0,7.0,1.0,4.0,1.0,9.0
+Woodend,,,5.0,3.0,,3.0,2.0,5.0
+Yackandandah,,,5.0,9.0,1.0,4.0,1.0,7.0
+Gordon (Vic.),,,4.0,4.0,,7.0,,29.0
+Smythes Creek,,,3.0,1.0,,1.0,,3.0
+West Melbourne - Industrial,,,2.0,,,,,21.0
+French Island,,,1.0,1.0,,1.0,,
+Alps - West,,,,1.0,,,,
+Albury - South,,,,,,,,74.0
+Albury - East,,,,,,,,62.0
+Lavington,,,,,,,,48.0
+Albury - North,,,,,,,,47.0
+Moama,,,,,,,,32.0
+The Coorong,,,,,,,,7.0
+Tocumwal - Finley - Jerilderie,,,,,,,,6.0
+Corowa Surrounds,,,,,,,,6.0
+Karoonda - Lameroo,,,,,,,,6.0
+Narooma - Bermagui,,,,,,,,5.0
+Deniliquin Surrounds,,,,,,,,4.0
+Wentworth-Balranald Region,,,,,,,,4.0
+Griffith Surrounds,,,,,,,,3.0
+Tatiara,,,,,,,,3.0
+Eurobodalla Hinterland,,,,,,,,3.0
+Albury Surrounds,,,,,,,,3.0
+Murray Bridge,,,,,,,,2.0
+Aldgate - Stirling,,,,,,,,2.0
+Bega-Eden Hinterland,,,,,,,,2.0
+Wagga Wagga Surrounds,,,,,,,,2.0
+Cooma Surrounds,,,,,,,,2.0
+Merimbula - Tura Beach,,,,,,,,2.0
+Moruya - Tuross Head,,,,,,,,2.0
+Corowa,,,,,,,,2.0
+Yass Surrounds,,,,,,,,2.0
+Eden,,,,,,,,1.0
+Bombala,,,,,,,,1.0
+Bega - Tathra,,,,,,,,1.0
+Kingston (ACT),,,,,,,,1.0
+Batemans Bay,,,,,,,,1.0
+Cooma,,,,,,,,1.0
+Richmond (SA),,,,,,,,1.0
+Civic,,,,,,,,1.0
+Gundagai,,,,,,,,1.0
+Adelaide,,,,,,,,1.0
+Mount Barker,,,,,,,,1.0
+Mount Gambier - East,,,,,,,,1.0
+Griffith (NSW),,,,,,,,1.0
+Wentworth - Buronga,,,,,,,,1.0
+Deniliquin,,,,,,,,1.0
+Tumbarumba,,,,,,,,1.0
+Naracoorte Surrounds,,,,,,,,1.0
+Naracoorte,,,,,,,,1.0
+Yass,,,,,,,,1.0
