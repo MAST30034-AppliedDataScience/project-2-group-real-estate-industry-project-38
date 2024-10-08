@@ -86,6 +86,12 @@ The project is organized into three main phases: downloading & scraping data, pr
 
   - Under the "Files" section:
     > **Important!** If you change to `all_region_key_data_new`, all subsequent region data merged with domain data will use the latest ABS region data. **Results will differ!** This may affect the accuracy of models in Q1 but not Q2 or Q3.  You can change to new dataset by modifying the following codes in this notebook:
+    ```python
+    data_by_region = pd.read_csv('../../data/landing/region_data/key_statistics/all_region_key_data.csv')
+    # if you want to use the newest ABS region data to proceed, uncomment the line below and comment the above line.
+    # data_by_region = pd.read_csv('../../data/landing/region_data/key_statistics/all_region_key_data_new.csv')
+    # Remember: using newest ABS data will have different result from what we had in presentation and summary notebook!
+    ```
 
 - In **`03_Q1_important_factors.ipynb`**:
   - Under the "Read files" section:
