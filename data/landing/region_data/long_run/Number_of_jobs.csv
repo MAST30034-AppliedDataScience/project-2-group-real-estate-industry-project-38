@@ -1,0 +1,520 @@
+Region,2016,2017,2018,2019,2020
+Alfredton,9 019,9 832,10 157,11 035,11 837
+Ballarat,9 789,9 934,9 797,10 222,10 196
+Buninyong,5 190,5 358,5 394,5 615,5 582
+Delacombe,5 235,5 530,5 830,6 567,7 250
+Smythes Creek,3 177,3 267,3 327,3 474,3 410
+Wendouree - Miners Rest,9 064,9 341,9 609,9 983,10 184
+Ballarat East - Warrenheip,6 783,6 989,7 103,7 377,7 350
+Ballarat North - Invermay,10 362,10 676,10 851,11 269,11 228
+Canadian - Mount Clear,7 526,7 895,8 045,8 535,8 473
+Sebastopol - Redan,8 588,9 010,9 180,9 739,9 668
+Bacchus Marsh Surrounds,4 543,4 855,4 864,4 975,5 032
+Creswick - Clunes,5 505,5 783,5 720,6 039,6 001
+Daylesford,6 725,7 076,7 017,7 233,7 434
+Gordon (Vic.),4 537,4 812,4 970,5 078,5 044
+Avoca,2 370,2 406,2 455,2 489,2 447
+Beaufort,2 906,3 052,3 135,3 291,3 275
+Golden Plains - North,3 125,3 330,3 402,3 629,3 533
+Maryborough (Vic.),4 289,4 439,4 586,4 580,4 467
+Maryborough Surrounds,3 256,3 387,3 539,3 503,3 431
+Bendigo,11 236,11 039,11 173,11 385,11 223
+California Gully - Eaglehawk,7 987,8 530,8 607,8 855,8 900
+East Bendigo - Kennington,9 708,10 325,10 226,10 598,10 328
+Flora Hill - Spring Gully,6 891,7 219,7 396,7 515,7 389
+Kangaroo Flat - Golden Square,13 595,14 051,14 101,14 548,14 611
+Maiden Gully,4 051,4 136,4 167,4 398,4 459
+Strathfieldsaye,6 803,7 288,7 315,7 798,7 954
+White Hills - Ascot,9 093,9 762,10 058,10 592,10 701
+Bendigo Surrounds - South,5 362,5 837,5 917,6 240,6 441
+Castlemaine,7 155,7 394,7 307,7 521,7 631
+Castlemaine Surrounds,6 149,6 384,6 583,6 916,6 963
+Heathcote,2 809,2 983,3 069,3 124,3 179
+Kyneton,7 276,7 677,7 863,8 248,8 283
+Woodend,5 383,5 562,5 733,6 021,5 935
+Bendigo Surrounds - North,3 184,3 445,3 474,3 599,3 596
+Loddon,4 665,4 978,4 960,4 965,5 037
+Bannockburn,4 965,5 241,5 482,5 708,5 742
+Golden Plains - South,5 470,5 844,6 005,6 065,6 393
+Winchelsea,4 861,5 168,5 190,5 377,5 476
+Belmont,10 710,11 404,11 772,12 030,12 211
+Geelong,10 960,11 420,11 545,12 004,12 087
+Geelong West - Hamlyn Heights,15 726,16 570,17 239,17 596,17 901
+Highton,16 970,17 865,18 594,18 948,19 239
+Lara,13 355,14 043,14 697,14 927,15 061
+Leopold,9 474,10 021,10 053,10 136,9 957
+Newcomb - Moolap,10 146,10 746,11 019,11 302,11 199
+Newtown (Vic.),8 596,8 729,8 843,9 131,8 960
+North Geelong - Bell Park,10 238,10 920,11 386,11 653,11 810
+Charlemont,2 698,3 077,3 355,3 689,4 025
+Corio - Lovely Banks,10 227,10 918,11 433,11 869,11 891
+Grovedale - Mount Duneed,14 912,17 005,18 540,20 385,22 244
+Norlane,5 051,5 392,5 646,5 861,5 872
+Clifton Springs,9 402,10 159,10 572,11 036,11 687
+Lorne - Anglesea,4 183,4 330,4 350,4 533,4 586
+Portarlington,4 272,4 617,4 841,5 220,5 405
+Point Lonsdale - Queenscliff,2 844,3 002,3 161,3 232,3 355
+Torquay,15 251,16 349,17 110,17 940,18 622
+Barwon Heads - Armstrong Creek,5 983,6 507,6 762,7 195,7 551
+Ocean Grove,12 153,13 219,13 737,14 615,15 340
+Alexandra,4 963,5 024,5 073,5 118,5 054
+Euroa,5 175,5 118,5 175,5 259,5 093
+Kilmore - Broadford,9 934,10 495,10 687,11 242,11 251
+Mansfield (Vic.),7 260,7 787,7 956,7 954,7 907
+Nagambie,3 002,3 198,3 376,3 452,3 481
+Seymour,4 495,4 584,4 564,4 668,4 490
+Seymour Surrounds,2 999,3 229,3 292,3 461,3 386
+Upper Yarra Valley,114,131,137,139,148
+Yea,2 744,2 749,2 772,2 789,2 889
+Benalla,7 302,7 135,7 212,7 587,7 563
+Benalla Surrounds,3 116,3 170,3 276,3 268,3 265
+Rutherglen,3 084,3 204,3 163,3 325,3 217
+Wangaratta,13 833,14 107,14 286,14 510,14 557
+Wangaratta Surrounds,8 520,8 792,8 818,9 110,8 934
+Beechworth,3 667,3 763,3 851,4 097,3 970
+Bright - Mount Beauty,6 865,7 313,7 350,7 691,7 414
+Chiltern - Indigo Valley,2 646,2 757,2 653,2 812,2 782
+Myrtleford,4 015,4 054,4 204,4 248,4 251
+Towong,5 025,5 056,5 289,5 151,4 999
+West Wodonga,11 401,11 534,11 859,12 159,11 763
+Yackandandah,4 045,4 060,4 170,4 309,4 357
+Baranduda - Leneva,6 935,7 297,7 508,7 700,7 761
+Wodonga,11 842,12 461,12 822,13 150,13 254
+Drouin,11 241,12 191,12 531,13 402,13 748
+Mount Baw Baw Region,4 757,4 927,5 021,5 221,5 191
+Trafalgar (Vic.),6 159,6 405,6 306,6 501,6 335
+Warragul,14 788,15 221,15 626,16 719,17 030
+Bairnsdale,10 368,10 491,10 557,10 889,10 844
+Bruthen - Omeo,6 298,6 486,6 632,6 790,6 931
+Lakes Entrance,6 614,6 671,6 772,6 742,7 035
+Orbost,4 405,4 409,4 502,4 660,4 753
+Paynesville,3 759,3 806,3 858,4 095,4 264
+Foster,6 425,6 494,6 591,6 799,6 709
+French Island,86,87,64,55,61
+Korumburra,6 801,7 033,7 187,7 701,7 450
+Leongatha,8 239,8 382,8 579,8 883,8 609
+Phillip Island,7 367,8 050,8 377,8 582,8 910
+Wilsons Promontory,----,7,19,13,16
+Wonthaggi - Inverloch,14 465,15 036,15 504,16 431,17 003
+Churchill,8 529,8 815,8 985,8 861,8 699
+Moe - Newborough,10 603,10 922,10 885,11 277,10 975
+Morwell,8 127,7 978,8 119,8 303,8 224
+Yallourn North - Glengarry,3 570,3 759,3 856,3 912,3 852
+Traralgon - East,8 667,8 846,9 039,9 247,9 050
+Traralgon - West,11 782,12 025,12 287,12 569,12 302
+Alps - West,38,36,36,37,29
+Longford - Loch Sport,2 861,2 962,3 064,3 065,3 182
+Maffra,10 863,10 947,10 986,11 290,11 322
+Rosedale,3 140,3 376,3 323,3 361,3 351
+Sale,10 672,10 680,10 941,11 002,10 833
+Yarram,3 875,3 937,3 975,3 998,3 993
+Brunswick East,12 142,13 273,13 665,14 503,14 545
+Brunswick West,13 170,14 156,14 693,15 112,14 880
+Pascoe Vale South,7 884,8 510,8 735,9 106,8 954
+Brunswick - North,13 785,14 653,14 914,15 800,15 067
+Brunswick - South,14 134,15 025,15 291,16 200,15 448
+Coburg - East,11 259,11 611,11 930,12 364,12 088
+Coburg - West,12 309,12 695,13 044,13 518,13 215
+Alphington - Fairfield,8 030,8 581,8 707,8 996,8 775
+Thornbury,17 269,17 733,18 453,18 947,18 473
+Northcote - East,14 509,15 271,15 564,16 222,15 334
+Northcote - West,9 508,10 007,10 200,10 631,10 048
+Ascot Vale,12 833,13 662,14 042,14 525,13 940
+Flemington,8 641,9 120,9 682,10 125,9 729
+Moonee Ponds,12 695,13 114,13 489,14 234,14 818
+Essendon (West) - Aberfeldie,13 950,14 511,14 782,15 175,15 184
+Essendon - East,10 232,10 644,10 842,11 131,11 138
+Carlton,14 053,14 620,15 429,16 221,15 726
+Docklands,10 811,13 103,14 803,16 756,16 853
+East Melbourne,5 524,5 531,5 519,5 761,5 357
+Flemington Racecourse,73,76,100,114,136
+Kensington (Vic.),10 839,11 275,11 235,11 727,11 452
+Parkville,5 570,6 001,6 499,6 695,6 730
+South Yarra - West,5 859,6 593,10 169,7 702,7 380
+West Melbourne - Industrial,----,10,11,13,8
+Melbourne CBD - East,11 546,12 729,13 909,14 847,14 095
+Melbourne CBD - North,14 512,15 999,17 482,18 662,17 716
+Melbourne CBD - West,13 429,14 805,16 178,17 269,16 394
+North Melbourne,15 095,16 470,17 618,18 937,18 818
+Southbank (West) - South Wharf,6 903,7 348,8 035,8 923,9 391
+Southbank - East,12 834,13 660,14 937,16 589,17 458
+West Melbourne - Residential,4 826,5 265,5 632,6 054,6 016
+Albert Park,14 327,14 960,15 405,15 823,15 531
+Elwood,16 665,17 199,16 931,17 209,16 869
+Port Melbourne,14 685,15 022,14 779,15 093,14 337
+St Kilda East,18 391,19 726,20 413,20 904,20 044
+Port Melbourne Industrial,268,422,718,1 193,1 666
+South Melbourne,11 299,11 851,12 364,13 034,12 325
+St Kilda - Central,15 114,16 232,16 891,17 565,16 943
+St Kilda - West,17 525,18 822,19 586,20 368,19 646
+Armadale,8 161,8 602,8 954,9 285,8 995
+Prahran - Windsor,25 610,24 264,23 905,24 117,23 215
+Toorak,11 666,11 742,11 841,11 807,11 397
+South Yarra - North,10 965,11 763,12 085,12 326,11 945
+South Yarra - South,10 996,11 796,12 118,12 360,11 979
+Abbotsford,9 468,10 502,10 325,10 708,10 466
+Carlton North - Princes Hill,9 131,9 428,9 436,9 576,9 000
+Collingwood,9 094,9 952,10 126,10 825,10 549
+Fitzroy,11 518,12 041,11 981,12 290,11 668
+Fitzroy North,12 949,13 607,13 475,14 006,13 376
+Clifton Hill - Alphington,8 890,9 206,9 233,9 552,9 369
+Richmond (South) - Cremorne,18 501,19 247,19 467,20 030,19 398
+Richmond - North,14 217,14 790,14 959,15 392,14 907
+Ashburton (Vic.),5 948,6 079,6 211,6 278,6 079
+Balwyn,12 253,12 569,12 684,12 699,12 465
+Balwyn North,15 455,15 775,15 826,16 113,15 686
+Camberwell,17 432,17 703,17 700,17 945,17 660
+Glen Iris - East,13 591,14 227,14 273,14 784,14 264
+Hawthorn East,13 589,14 246,14 431,15 422,14 730
+Kew East,5 337,5 434,5 379,5 644,5 590
+Surrey Hills (West) - Canterbury,13 087,13 319,13 263,13 523,13 148
+Hawthorn - North,10 155,10 560,10 668,10 830,10 387
+Hawthorn - South,11 616,12 080,12 203,12 389,11 883
+Kew - South,9 954,10 285,10 325,10 484,10 181
+Kew - West,11 129,11 498,11 544,11 721,11 382
+Bulleen,8 115,8 357,8 273,8 575,8 504
+Doncaster,14 916,15 628,16 402,17 421,18 002
+Templestowe,12 415,12 412,12 266,12 614,12 281
+Templestowe Lower,9 507,9 758,9 872,9 874,9 815
+Doncaster East - North,10 873,11 056,11 307,11 607,11 401
+Doncaster East - South,9 461,9 689,9 942,10 415,10 562
+Blackburn,16 642,17 192,17 556,18 222,18 137
+Blackburn South,7 565,7 735,7 873,8 257,8 164
+Box Hill,15 253,16 963,17 352,17 999,18 318
+Box Hill North,13 344,13 687,14 122,14 788,14 459
+Burwood (Vic.),8 511,9 220,9 741,10 516,10 609
+Burwood East,7 482,7 738,8 062,8 204,8 283
+Surrey Hills (East) - Mont Albert,8 277,8 534,8 609,8 754,8 611
+Beaumaris,10 414,10 685,10 883,11 048,10 741
+Brighton (Vic.),18 098,18 526,18 533,18 762,18 066
+Brighton East,12 069,12 334,12 456,12 747,12 463
+Highett (West) - Cheltenham,8 946,9 501,9 591,10 172,9 936
+Hampton,13 853,14 235,14 295,14 732,14 734
+Sandringham - Black Rock,12 767,13 208,13 290,13 887,13 592
+Bentleigh - McKinnon,17 627,18 437,18 982,20 282,20 101
+Carnegie,15 093,15 681,16 258,17 040,17 277
+Caulfield - North,18 002,18 791,19 716,20 280,19 927
+Caulfield - South,14 662,15 116,15 161,15 402,15 304
+Elsternwick,10 251,10 714,11 028,11 487,11 218
+Hughesdale,5 952,6 275,6 338,6 400,6 480
+Murrumbeena,7 898,8 273,8 515,8 798,8 449
+Ormond - Glen Huntly,11 769,12 167,12 631,13 405,13 023
+Bentleigh East - North,11 313,11 674,11 931,12 491,12 481
+Bentleigh East - South,9 792,10 174,10 532,10 839,10 883
+Aspendale Gardens - Waterways,7 135,7 282,7 337,7 412,7 203
+Braeside,181,190,176,177,143
+Carrum - Patterson Lakes,9 174,9 554,9 437,9 640,9 502
+Chelsea - Bonbeach,11 012,11 464,11 667,12 072,11 759
+Chelsea Heights,4 112,4 163,4 199,4 302,4 177
+Highett (East) - Cheltenham ,17 324,18 279,18 700,19 626,19 433
+Edithvale - Aspendale,10 347,10 354,10 766,11 042,10 958
+Mentone,10 641,11 028,11 162,11 279,11 229
+Moorabbin - Heatherton,6 985,7 229,7 350,7 600,7 520
+Moorabbin Airport,----,5,7,10,12
+Mordialloc - Parkdale,16 154,16 489,16 971,17 433,17 306
+Malvern - Glen Iris,17 385,17 987,18 411,18 714,18 362
+Malvern East,17 299,17 979,18 335,18 947,18 899
+Bundoora - East,7 175,7 280,7 455,7 725,7 668
+Greensborough,16 386,16 865,16 928,17 071,16 556
+Heidelberg - Rosanna,11 820,12 186,12 482,12 896,12 581
+Heidelberg West,10 567,11 197,11 748,12 278,12 360
+Ivanhoe,9 816,10 474,10 942,11 093,10 842
+Ivanhoe East - Eaglemont,6 649,6 847,6 824,6 942,6 659
+Montmorency - Briar Hill,12 977,13 050,13 230,13 256,12 792
+Viewbank - Yallambie,13 558,13 997,13 944,14 356,14 025
+Watsonia,6 865,7 060,7 165,7 388,7 114
+Kingsbury,7 628,8 191,8 682,9 271,9 154
+Preston - East,16 519,18 012,18 599,19 558,19 085
+Preston - West,10 300,10 914,11 329,11 671,11 553
+Reservoir - North East,10 444,11 133,11 779,12 344,12 196
+Reservoir - North West,7 160,7 682,7 834,8 071,7 896
+Reservoir - South East,9 233,9 843,10 413,10 912,10 782
+Reservoir - South West,10 264,11 011,11 230,11 569,11 319
+Eltham,19 829,19 913,19 887,20 092,19 249
+Hurstbridge,2 969,3 107,3 073,3 020,3 042
+Kinglake,3 126,3 183,3 148,3 291,3 277
+Panton Hill - St Andrews,4 295,4 285,4 366,4 376,4 198
+Plenty - Yarrambat,7 732,7 895,7 946,8 042,7 788
+Research - North Warrandyte,5 541,5 666,5 723,5 734,5 662
+Wattle Glen - Diamond Creek,11 665,11 959,12 096,12 285,12 239
+Bundoora - North,5 208,5 711,5 951,6 093,6 016
+Bundoora - West,4 432,4 752,4 740,4 898,4 867
+Mill Park - North,14 073,14 809,14 836,15 056,14 774
+Mill Park - South,9 278,9 328,9 442,9 525,9 041
+Thomastown,12 793,13 662,14 106,14 753,14 567
+Wallan,12 367,13 693,14 274,15 525,16 233
+Whittlesea,5 871,6 056,6 223,6 377,6 691
+Epping - East,9 543,10 040,10 227,10 259,9 847
+Epping - South,6 059,6 363,6 396,6 462,6 327
+Epping (Vic.) - West,7 937,8 368,8 762,9 087,8 990
+South Morang - North,9 323,9 809,10 177,10 454,10 272
+South Morang - South,9 029,9 486,9 623,10 038,9 989
+Wollert,6 460,8 318,9 518,11 668,14 489
+Doreen - North,10 390,11 332,12 106,12 925,13 399
+Doreen - South,5 099,5 561,5 941,6 344,6 576
+Lalor - East,6 081,6 439,6 819,7 041,7 012
+Lalor - West,7 712,8 166,8 647,8 928,8 892
+Mernda - North,6 281,7 377,8 015,8 687,9 060
+Mernda - South,5 992,7 037,7 646,8 286,8 642
+Airport West,5 679,6 105,6 209,6 456,6 565
+Essendon Airport,----,18,13,14,23
+Keilor,6 619,6 796,6 856,6 836,6 575
+Niddrie - Essendon West,5 672,5 895,5 962,6 043,6 189
+Strathmore,7 770,7 994,8 061,8 433,8 261
+Avondale Heights,8 083,8 344,8 447,8 736,8 566
+Keilor East,10 130,10 457,10 588,10 949,10 737
+Gisborne,10 033,10 356,10 336,10 723,10 689
+Macedon,2 550,2 695,2 671,2 708,2 650
+Riddells Creek,3 367,3 498,3 508,3 596,3 511
+Romsey,7 191,7 549,7 766,8 089,8 232
+Coburg North,6 192,6 929,7 097,7 534,7 250
+Fawkner,8 310,8 979,9 669,10 179,10 236
+Gowanbrae,2 291,2 397,2 428,2 503,2 411
+Hadfield,3 523,3 774,4 028,4 264,4 284
+Glenroy - East,10 295,11 254,11 854,12 831,13 214
+Glenroy - West,5 858,6 404,6 745,7 301,7 519
+Oak Park,5 700,6 183,6 372,6 806,6 833
+Pascoe Vale,12 860,13 951,14 378,15 355,15 416
+Sunbury,10 115,10 519,10 724,11 061,10 829
+Diggers Rest,1 832,1 953,2 036,2 165,2 175
+Sunbury - South,10 116,10 788,11 243,11 958,12 013
+Sunbury - West,8 705,9 283,9 675,10 290,10 337
+Broadmeadows,7 137,7 997,8 565,9 366,9 480
+Campbellfield - Coolaroo,8 019,8 484,8 919,9 385,9 083
+Gladstone Park - Westmeadows,13 227,13 425,13 654,13 676,13 407
+Greenvale - Bulla,12 829,14 066,14 699,15 349,15 684
+Meadow Heights,7 494,7 942,8 064,8 517,8 304
+Melbourne Airport,66,94,95,84,122
+Tullamarine,4 978,5 030,5 172,5 162,5 022
+Craigieburn - Central,6 131,6 402,6 418,6 560,6 195
+Craigieburn - North,8 049,8 916,9 457,9 852,9 507
+Craigieburn - South,11 797,13 043,14 038,14 679,14 995
+Mickleham - Yuroke,2 643,4 286,6 583,9 711,13 467
+Craigieburn - North West,3 720,4 305,4 810,5 383,5 809
+Craigieburn - West,5 800,6 713,7 500,8 394,9 059
+Roxburgh Park (South) - Somerton,5 427,5 855,6 155,6 589,6 562
+Roxburgh Park - North,6 770,7 304,7 679,8 220,8 186
+Bayswater,9 588,9 787,10 178,10 341,10 205
+Knoxfield - Scoresby,11 577,12 361,12 823,13 507,13 185
+Lysterfield,5 762,5 897,5 799,5 965,5 672
+Rowville - Central,12 800,12 876,12 820,13 131,12 876
+Rowville - North,6 431,6 649,6 632,6 730,6 458
+Rowville - South,8 892,9 271,9 193,9 293,9 035
+Wantirna,10 935,10 977,11 056,11 332,10 976
+Wantirna South,14 083,14 232,14 357,14 529,14 354
+Boronia,17 336,17 842,18 117,18 599,18 268
+Ferntree Gully - North,10 766,11 232,11 135,11 498,11 046
+Ferntree Gully (South) - Upper Ferntree Gully,12 122,12 399,12 545,13 005,12 627
+The Basin,3 462,3 652,3 633,3 640,3 579
+Donvale - Park Orchards,12 332,12 545,12 635,12 826,12 669
+Warrandyte - Wonga Park,8 653,8 536,8 486,8 574,8 325
+Bayswater North,9 443,9 718,9 875,10 116,9 670
+Croydon Hills - Warranwood,15 574,15 691,15 616,15 594,15 165
+Ringwood,13 316,13 909,14 477,14 987,14 887
+Ringwood East,15 924,16 478,16 808,17 145,16 703
+Ringwood North,7 862,7 959,7 932,7 931,7 632
+Croydon - East,11 469,12 054,12 089,12 502,12 360
+Croydon - West,9 917,10 166,10 417,10 560,10 684
+Croydon South,3 630,3 634,3 694,3 841,3 818
+Forest Hill,7 791,7 949,8 044,8 253,8 227
+Mitcham (Vic.),13 000,13 510,13 698,14 233,14 071
+Nunawading,8 932,9 469,9 636,9 927,9 860
+Vermont,7 756,7 958,8 085,8 293,8 089
+Vermont South,8 644,8 798,8 735,9 067,8 882
+Belgrave - Selby,8 405,8 661,8 534,8 888,8 510
+Chirnside Park,7 879,8 416,8 760,9 024,9 018
+Healesville - Yarra Glen,10 482,10 790,10 993,11 286,10 979
+Kilsyth,6 893,7 005,7 145,7 292,7 274
+Lilydale - Coldstream,15 182,15 722,15 605,15 720,15 446
+Monbulk - Silvan,4 644,4 885,4 944,4 892,4 747
+Montrose,5 475,5 463,5 491,5 516,5 361
+Mooroolbark,17 749,18 160,18 349,18 697,18 373
+Mount Dandenong - Olinda,8 186,8 161,8 178,8 227,8 058
+Mount Evelyn,7 910,8 081,8 089,8 298,8 060
+Upwey - Tecoma,8 687,8 776,8 672,8 965,8 546
+Wandin - Seville,6 488,6 639,6 728,6 930,6 897
+Yarra Valley,12 230,12 686,12 739,13 145,12 892
+Emerald - Cockatoo,14 346,15 060,15 086,15 404,15 085
+Beaconsfield - Officer,10 789,12 868,14 843,16 930,18 177
+Bunyip - Garfield,6 704,7 139,7 255,7 459,7 471
+Koo Wee Rup,5 955,6 343,6 545,6 876,7 342
+Pakenham - North East,10 654,11 416,11 964,12 529,12 661
+Pakenham - North West,3 744,4 019,4 221,4 428,4 481
+Pakenham - South East,3 405,3 692,3 867,4 074,4 144
+Pakenham - South West,17 116,18 565,19 449,20 494,20 853
+Berwick - North,17 564,18 135,18 004,18 220,17 770
+Doveton,7 018,7 468,7 826,8 136,8 221
+Hallam,7 651,7 836,8 035,8 276,8 244
+Narre Warren North,6 060,6 325,6 275,6 417,6 192
+Endeavour Hills - North,8 707,8 852,9 202,9 377,9 084
+Endeavour Hills - South,10 446,10 619,10 562,10 645,10 161
+Narre Warren - North East,10 549,10 835,10 936,11 205,10 902
+Narre Warren - South West,10 547,10 993,11 381,11 813,11 587
+Berwick - South East,12 579,13 330,13 815,14 704,14 713
+Berwick - South West,7 048,7 469,7 741,8 240,8 244
+Cranbourne,15 128,15 378,15 998,16 475,16 211
+Cranbourne South,6 904,7 463,8 384,10 124,11 911
+Cranbourne West,11 765,13 365,14 373,15 492,16 307
+Lynbrook - Lyndhurst,11 584,12 494,13 200,13 795,14 138
+Pearcedale - Tooradin,6 241,6 459,6 460,6 519,6 421
+Narre Warren South - East,10 179,10 479,10 746,10 980,10 635
+Narre Warren South - West,12 196,12 797,13 058,13 142,12 750
+Clyde North - North,2 060,2 782,3 413,4 204,4 795
+Clyde North - South,231,312,383,472,538
+Cranbourne East - North,13 556,18 310,22 464,27 671,31 560
+Cranbourne East - South,3 052,4 122,5 057,6 229,7 105
+Cranbourne North - East,6 335,6 958,7 518,7 878,7 921
+Cranbourne North - West,8 985,9 868,10 664,11 173,11 235
+Hampton Park - East,9 019,9 290,9 540,9 705,9 503
+Hampton Park - West,9 516,9 801,10 065,10 240,10 025
+Clarinda - Oakleigh South,8 705,8 984,9 040,9 034,8 668
+Clayton South,9 668,10 373,10 989,11 747,12 027
+Dandenong North,15 681,16 439,16 694,17 408,16 816
+Dingley Village,8 084,8 189,8 096,8 365,8 116
+Noble Park North,5 248,5 351,5 415,5 691,5 544
+Springvale,14 785,15 701,16 863,18 216,18 675
+Springvale South,8 775,9 074,9 487,9 864,9 666
+Noble Park - East,9 548,10 262,10 845,11 689,11 768
+Noble Park - West,12 557,13 811,14 713,15 813,16 168
+Dandenong - North,14 545,15 524,16 525,17 232,16 947
+Dandenong - South,6 090,6 500,6 919,7 215,7 096
+Keysborough - North,11 078,11 897,12 447,13 330,13 394
+Keysborough - South,8 092,8 690,9 093,9 738,9 785
+Ashwood - Chadstone,14 035,15 227,15 616,16 550,16 739
+Glen Waverley - East,14 793,15 174,15 459,15 950,15 694
+Glen Waverley - West,13 839,14 097,14 725,15 569,15 543
+Mount Waverley - North,11 306,11 803,12 108,12 563,12 389
+Mount Waverley - South,13 732,14 457,15 022,15 264,15 116
+Mulgrave,14 263,14 533,14 715,15 416,15 478
+Oakleigh - Huntingdale,17 025,17 872,18 543,19 524,19 562
+Wheelers Hill,14 509,14 443,14 598,14 912,14 577
+Clayton (North) - Notting Hill,5 648,5 980,6 368,6 981,7 373
+Clayton - Central,8 348,8 837,9 412,10 317,10 896
+Ardeer - Albion,6 105,6 410,6 735,7 175,7 091
+Cairnlea,7 024,7 315,7 728,7 674,7 556
+Delahey,5 974,6 195,6 340,6 378,6 021
+Keilor Downs,9 838,10 024,10 076,10 295,9 693
+Kings Park (Vic.),8 465,8 930,9 316,9 491,9 099
+St Albans - North,12 885,13 890,14 944,15 516,15 137
+St Albans - South,10 750,11 651,12 387,12 610,12 394
+Sunshine,7 616,8 199,8 673,9 280,9 161
+Sunshine North,7 571,7 931,8 454,8 991,8 971
+Sunshine West,12 353,13 279,14 022,14 625,14 088
+Sydenham,9 331,9 630,9 811,10 097,9 753
+Taylors Lakes,14 767,15 186,14 807,14 647,14 286
+Deer Park,12 521,13 213,13 715,14 113,13 703
+Derrimut,5 745,6 062,6 293,6 475,6 287
+Altona,10 195,10 589,10 710,10 793,10 675
+Altona Meadows,14 561,15 102,15 195,15 320,14 738
+Altona North,9 217,9 878,10 262,10 889,10 722
+Newport,15 083,15 861,16 128,16 646,16 299
+Seabrook,3 869,3 979,4 198,4 254,4 067
+Williamstown,12 655,12 895,13 121,13 423,13 258
+Braybrook,13 876,14 976,15 839,16 659,16 823
+Footscray,16 048,17 193,18 067,18 745,18 650
+Maribyrnong,11 073,11 940,12 292,12 692,12 716
+Seddon - Kingsville,8 594,9 084,9 212,9 190,8 907
+West Footscray - Tottenham,10 486,11 081,11 405,12 038,11 468
+Yarraville,13 516,13 795,14 067,14 543,14 242
+Bacchus Marsh,15 031,16 171,16 475,17 465,17 897
+Melton West,12 698,7 008,14 390,15 212,15 045
+Rockbank - Mount Cottrell,1 364,1 256,3 160,4 869,7 858
+Taylors Hill,13 543,14 135,14 434,15 010,14 751
+Burnside,3 305,3 561,3 661,3 872,3 898
+Burnside Heights,4 315,4 556,4 559,4 775,4 634
+Caroline Springs,14 671,15 433,15 801,16 295,15 976
+Brookfield,6 158,6 340,7 501,8 207,8 821
+Cobblebank - Strathtulloh,653,673,796,871,936
+Eynesbury - Exford,1 864,1 919,2 270,2 484,2 670
+Fraser Rise - Plumpton,3 381,3 591,3 928,4 099,4 165
+Hillside,12 484,13 261,14 506,15 137,15 382
+Kurunjang - Toolern Vale,7 454,8 069,8 013,8 143,7 877
+Melton,5 466,5 917,5 877,5 971,5 777
+Melton South - Weir Views,7 513,7 735,9 152,10 013,10 762
+Hoppers Crossing - North,15 501,16 042,16 368,16 456,15 739
+Hoppers Crossing - South,14 153,14 724,15 368,15 690,15 166
+Laverton,7 497,8 741,9 450,10 743,11 051
+Werribee - South,8 665,9 557,10 174,11 533,12 577
+Point Cook - East,9 240,11 240,12 496,13 930,14 784
+Point Cook - South,11 031,12 502,13 087,14 170,14 248
+Werribee - East,13 646,14 389,14 611,14 979,14 466
+Werribee - West,9 512,10 773,12 191,14 332,16 234
+Manor Lakes - Quandong,2 161,2 442,2 600,2 846,3 041
+Point Cook - North East,10 772,11 188,11 696,11 865,11 659
+Point Cook - North West,6 552,6 806,7 115,7 218,7 092
+Tarneit (West) - Mount Cottrell,211,237,270,305,328
+Tarneit - Central,18 580,20 939,23 784,26 864,28 938
+Tarneit - North,128,144,164,185,200
+Tarneit - South,7 773,8 760,9 950,11 239,12 106
+Truganina - North,15,17,19,22,24
+Truganina - South East,4 536,5 224,5 833,6 604,7 257
+Truganina - South West,13 076,15 059,16 812,19 035,20 918
+Wyndham Vale - North,3 618,4 088,4 354,4 764,5 091
+Wyndham Vale - South,11 287,12 755,13 583,14 864,15 883
+Carrum Downs,16 251,16 842,17 426,18 160,17 892
+Frankston,17 020,17 801,18 403,19 019,18 453
+Frankston North,12 843,13 256,13 697,14 301,13 736
+Frankston South,14 305,14 568,14 575,14 742,14 393
+Langwarrin,19 982,20 213,20 391,20 660,20 137
+Seaford (Vic.),12 899,13 256,13 381,13 618,13 446
+Skye - Sandhurst,10 522,10 826,10 960,11 274,11 098
+Dromana,7 774,8 459,8 635,9 070,8 894
+Flinders,4 323,4 373,4 423,4 418,4 313
+Hastings - Somers,15 570,16 043,16 316,16 919,16 833
+Mount Eliza,13 432,13 743,14 058,13 977,13 813
+Mount Martha,13 933,14 104,14 306,14 725,14 544
+Point Nepean,12 169,12 503,12 509,12 941,12 938
+Rosebud - McCrae,13 109,13 720,13 954,14 450,14 489
+Somerville,14 816,15 318,15 275,15 574,15 033
+Mornington - East,10 358,10 774,10 834,11 113,10 860
+Mornington - West,6 829,7 104,7 144,7 328,7 161
+Ararat,5 601,5 719,5 966,5 920,5 878
+Ararat Surrounds,2 767,2 824,2 846,2 919,2 885
+Horsham,12 650,13 248,13 415,13 412,13 562
+Horsham Surrounds,3 271,3 448,3 420,3 369,3 448
+Nhill Region,5 218,5 412,5 562,5 685,5 648
+St Arnaud,2 672,2 716,2 814,2 834,2 740
+Stawell,5 990,6 344,6 517,6 639,6 492
+West Wimmera,2 583,2 725,2 704,2 744,2 682
+Yarriambiack,4 858,5 085,5 186,4 998,5 086
+Irymple,4 783,5 293,5 416,5 895,6 116
+Merbein,3 566,3 959,3 902,3 937,3 959
+Mildura Surrounds,2 753,2 966,3 084,3 271,3 171
+Red Cliffs,4 542,4 861,5 120,5 437,5 672
+Mildura - North,14 720,15 426,15 838,16 465,16 357
+Mildura - South,10 424,11 340,13 207,13 688,14 408
+Buloke,4 625,4 955,4 959,4 814,5 035
+Gannawarra,4 902,5 195,5 232,5 125,5 033
+Kerang,2 818,2 804,2 838,2 824,2 655
+Robinvale,2 812,3 004,2 905,3 380,3 957
+Swan Hill,8 784,9 017,9 124,9 113,9 244
+Swan Hill Surrounds,5 187,5 485,5 483,5 680,5 851
+Echuca,12 290,12 400,12 646,12 603,12 600
+Kyabram,8 183,8 292,8 361,8 711,8 462
+Lockington - Gunbower,3 095,3 198,3 268,3 295,3 216
+Rochester,2 870,3 073,3 165,3 093,2 982
+Rushworth,2 897,3 023,2 929,2 985,3 002
+Cobram,4 360,4 548,4 712,4 559,4 699
+Moira,2 171,2 254,2 275,2 342,2 358
+Numurkah,9 787,10 061,10 043,9 915,9 865
+Yarrawonga,5 049,5 191,5 304,5 485,5 587
+Mooroopna,6 104,6 109,6 030,6 337,6 064
+Shepparton - North,14 821,15 131,15 308,15 856,15 683
+Shepparton Surrounds - East,3 573,3 629,3 570,3 719,3 575
+Shepparton Surrounds - West,8 063,8 194,8 064,8 458,8 481
+Kialla,5 271,5 431,5 525,5 897,5 961
+Shepparton - South East,11 604,11 958,12 166,12 984,13 126
+Glenelg (Vic.),7 552,7 583,7 727,7 802,7 649
+Hamilton (Vic.),8 546,8 273,8 419,8 526,8 569
+Portland,8 231,8 277,8 263,8 482,8 373
+Southern Grampians,6 041,6 166,6 242,6 265,6 206
+Camperdown,2 582,2 623,2 637,2 696,2 578
+Colac,9 286,9 462,9 487,10 360,9 856
+Colac Surrounds,4 790,4 937,5 000,5 148,5 128
+Corangamite - North,4 264,4 408,4 562,4 584,4 545
+Corangamite - South,6 213,6 335,6 379,6 579,6 509
+Otway,3 063,3 225,3 207,3 364,3 326
+Moyne - East,5 766,6 026,6 154,6 522,6 201
+Moyne - West,7 845,7 993,8 036,8 400,8 420
+Warrnambool - North,17 375,17 929,18 014,19 112,18 440
+Warrnambool - South,10 644,10 748,10 445,11 655,11 144

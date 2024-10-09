@@ -196,7 +196,6 @@ id,lat,lon,amenity,name
 5187993670,-37.9518324,145.149327,kindergarten,Starfish Early Learning Centre
 5195329091,-37.9149271,145.1268692,kindergarten,Monash Vale Early Learning Centre
 5195471033,-37.9448776,145.1532171,college,Skills Plus
-5195526341,-37.9513504,145.1526614,college,James And Coaching College
 5197596137,-37.8838689,145.0602257,kindergarten,Malvern East Family Day Care
 5205353611,-37.9422143,145.1630037,kindergarten,Sandown Park Kindergarten(moved to Springvale rise primary school)
 5213706396,-37.9539026,145.1522161,kindergarten,Shifa Family Daycare
@@ -233,7 +232,6 @@ id,lat,lon,amenity,name
 5911651826,-37.740151,144.9684311,kindergarten,Coburg Children's Centre
 5963317138,-37.9449071,145.1523109,college,Chisholm
 5963317149,-37.9450738,145.1510151,college,ECCS Training Centre
-5963317156,-37.9448483,145.1528618,college,James An
 5963317167,-37.945272,145.1522911,college,Edu Kingdom College
 6016882838,-37.8623811,145.0931766,kindergarten,Nino
 6016882848,-37.8426832,145.0967004,kindergarten,A Step Ahead
@@ -1118,4 +1116,6 @@ id,lat,lon,amenity,name
 1318235998,-34.2006593125,142.124473875,kindergarten,Happy Turtle Childcare
 1318607503,-37.795909941666665,144.9759239916667,kindergarten,Fitzroy Early Learning Centre
 1318983258,-37.866653875,144.9933067125,kindergarten,St Kilda & Balaclava Kindergarten
+1322081978,-37.875601950000004,144.66872985,kindergarten,Goodstart Early Learning Centre
+1322107329,-37.86687916666666,144.6677441666667,kindergarten,
 22818856,-37.8019134,144.9597002,university,"The University of Melbourne, Parkville Campus"
