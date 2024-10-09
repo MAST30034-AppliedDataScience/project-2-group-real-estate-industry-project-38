@@ -129,9 +129,13 @@ dmypy.json
 .pyre/
 
 # data
-data/curated/
-data/raw/
-data/landing/
+# data/curated/
+# data/raw/
+# data/landing/
+
+data/landing/other_data/stops_datavic/3/stop_times.txt
+data/landing/other_data/stops_datavic/4/stop_times.txt
+data/landing/other_data/stops_datavic/5/shapes.txt
 
 # OSX .DS_Store file
 .DS_Store

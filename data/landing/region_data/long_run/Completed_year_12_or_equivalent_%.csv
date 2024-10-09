@@ -1,0 +1,520 @@
+Region,2011,2016,2021
+Alfredton,47.5,55.3,61.4
+Ballarat,54.7,57.3,63
+Buninyong,57.1,57.5,60.3
+Delacombe,34.2,40.9,49.6
+Smythes Creek,37,41.5,46.4
+Wendouree - Miners Rest,32.4,35.6,40.8
+Ballarat East - Warrenheip,40.3,43.7,49.3
+Ballarat North - Invermay,47.8,52.2,58
+Canadian - Mount Clear,48.4,51.9,55.8
+Sebastopol - Redan,32.6,36.2,40.1
+Bacchus Marsh Surrounds,37.8,41.7,46.2
+Creswick - Clunes,35.6,38.5,44.1
+Daylesford,46.3,48.5,56.7
+Gordon (Vic.),37.4,39.7,46.3
+Avoca,28.7,30.8,34.1
+Beaufort,29.6,30.1,35
+Golden Plains - North,33.4,37.3,41.3
+Maryborough (Vic.),25.6,29.3,33.6
+Maryborough Surrounds,29.5,31.6,32.5
+Bendigo,38.6,43,48.2
+California Gully - Eaglehawk,28.8,31.9,39.8
+East Bendigo - Kennington,46.5,49.1,53.8
+Flora Hill - Spring Gully,54.9,56.4,59.9
+Kangaroo Flat - Golden Square,34.4,37.5,41.6
+Maiden Gully,42.4,46.5,53.1
+Strathfieldsaye,51.3,54.3,59.2
+White Hills - Ascot,37.9,43,48
+Bendigo Surrounds - South,41.9,45.6,51.6
+Castlemaine,40.7,44.5,53.3
+Castlemaine Surrounds,42.2,45,52.3
+Heathcote,26.2,30.2,34.3
+Kyneton,41.3,47.1,55.8
+Woodend,53.9,58.4,64.8
+Bendigo Surrounds - North,31.2,33.6,36.6
+Loddon,26.8,27.9,32.7
+Bannockburn,41.9,47.7,50
+Golden Plains - South,37.8,41.6,48.4
+Winchelsea,41.4,45.5,52.5
+Belmont,46.3,52.4,60.3
+Geelong,50.5,53.9,61.5
+Geelong West - Hamlyn Heights,48.6,54.2,63.1
+Highton,57.8,63.6,68.9
+Lara,39.2,43.3,48.9
+Leopold,40.2,45,50.4
+Newcomb - Moolap,30,34.2,39.9
+Newtown (Vic.),60.5,64.9,71.3
+North Geelong - Bell Park,37.4,43,50.4
+Charlemont,40.1,52,63.7
+Corio - Lovely Banks,29.6,32.9,38.3
+Grovedale - Mount Duneed,45.1,50.1,58.6
+Norlane,25.4,28.5,35.8
+Clifton Springs,39.2,43.1,49.5
+Lorne - Anglesea,51.3,57.2,65.8
+Portarlington,32.3,35.1,42
+Point Lonsdale - Queenscliff,53.1,54.8,62.3
+Torquay,57.7,62,67.8
+Barwon Heads - Armstrong Creek,57.2,62.7,69.4
+Ocean Grove,50,54.9,60.2
+Alexandra,35.8,35.3,41.1
+Euroa,32.5,36.7,40.8
+Kilmore - Broadford,37,39.3,44.7
+Mansfield (Vic.),41.2,42.3,46.5
+Nagambie,32,36.5,41.8
+Seymour,29.3,31.9,36.8
+Seymour Surrounds,43.1,44.6,50.9
+Upper Yarra Valley,34.7,32,35
+Yea,37.1,38.7,40.8
+Benalla,32.5,34.7,39.3
+Benalla Surrounds,37.9,38.1,42.4
+Rutherglen,33.5,36.8,40.3
+Wangaratta,35.3,37.4,43.2
+Wangaratta Surrounds,37.7,40.9,45.8
+Beechworth,41.6,44.6,54.4
+Bright - Mount Beauty,41.8,43.6,53.2
+Chiltern - Indigo Valley,34.8,38.5,42.5
+Myrtleford,31.3,33.8,41.8
+Towong,31.8,33.5,38.4
+West Wodonga,40.1,40.7,43.2
+Yackandandah,41.1,45.3,50.4
+Baranduda - Leneva,47.6,51.1,55.9
+Wodonga,33.9,37.1,41.6
+Drouin,33.8,37.2,42.9
+Mount Baw Baw Region,35.8,37.8,43.2
+Trafalgar (Vic.),35.6,37.9,43.3
+Warragul,40.1,43.2,49
+Bairnsdale,33.9,35.2,40.8
+Bruthen - Omeo,33.3,35.3,40.3
+Lakes Entrance,30.7,32.7,37.7
+Orbost,31.7,32.3,36.1
+Paynesville,34.5,36.2,40.2
+Foster,34.4,37,44.5
+French Island,48.4,51.1,53.8
+Korumburra,32.3,35.2,41.4
+Leongatha,36.3,38,43.1
+Phillip Island,39.5,41.3,47.4
+Wilsons Promontory,133.3,50,66.7
+Wonthaggi - Inverloch,33.6,36,43
+Churchill,40.1,40,42.4
+Moe - Newborough,28.7,31.2,34
+Morwell,28.8,30.7,32.5
+Yallourn North - Glengarry,32,36.5,38.2
+Traralgon - East,35.2,36.9,41.5
+Traralgon - West,41.3,44.3,47.8
+Alps - West,20,38.1,----
+Longford - Loch Sport,32.7,31.1,39.4
+Maffra,30.5,34.2,37.6
+Rosedale,24.6,26.4,29.5
+Sale,38.1,41.3,45.1
+Yarram,28.2,30.1,33.7
+Brunswick East,71.6,77.2,83.5
+Brunswick West,66.8,71.3,77.5
+Pascoe Vale South,58.1,63.4,71.7
+Brunswick - North,68.8,74.1,80.2
+Brunswick - South,73.5,77.5,82.6
+Coburg - East,61.6,68.5,73.6
+Coburg - West,58.9,65.6,71.7
+Alphington - Fairfield,67.9,72.9,78.6
+Thornbury,63.7,68.7,75.4
+Northcote - East,68.1,72.9,79.1
+Northcote - West,71.2,75.1,81.2
+Ascot Vale,63.9,69.3,73.8
+Flemington,65.5,68.3,72.8
+Moonee Ponds,64.2,69.4,75.4
+Essendon (West) - Aberfeldie,60.1,66.7,71.9
+Essendon - East,66.7,70.4,75.8
+Carlton,77.1,79.3,82.7
+Docklands,69.7,76,80.1
+East Melbourne,76.3,76.5,81.9
+Flemington Racecourse,95.7,56.2,88.5
+Kensington (Vic.),74.2,76.9,82
+Parkville,82.7,80,85.9
+South Yarra - West,75.5,75.7,81.1
+West Melbourne - Industrial,,,
+Melbourne CBD - East,75.2,75.4,79.6
+Melbourne CBD - North,80.9,83.4,83.4
+Melbourne CBD - West,76.1,78.9,82.4
+North Melbourne,72.3,75.3,79
+Southbank (West) - South Wharf,73.9,72.1,81.7
+Southbank - East,81.8,79.9,85.2
+West Melbourne - Residential,67.6,74.8,82.1
+Albert Park,74.3,74.3,79.3
+Elwood,75.2,76,81
+Port Melbourne,67.1,69,73.3
+St Kilda East,75,75.7,81.3
+Port Melbourne Industrial,78.6,71.1,74.5
+South Melbourne,69.3,72,76.9
+St Kilda - Central,72,71.1,77.1
+St Kilda - West,70.6,69.5,75.2
+Armadale,76,78.8,83.8
+Prahran - Windsor,72.1,74.4,81.4
+Toorak,76.8,78.8,81.9
+South Yarra - North,78.8,82,84.5
+South Yarra - South,72.3,73,79.7
+Abbotsford,67,76.9,82.2
+Carlton North - Princes Hill,80.7,81.2,85.8
+Collingwood,64.4,70.5,79.1
+Fitzroy,69,70,78.3
+Fitzroy North,74.8,76.3,82.3
+Clifton Hill - Alphington,75.3,76,82.4
+Richmond (South) - Cremorne,76.1,77.2,83.4
+Richmond - North,64.9,70.6,76.5
+Ashburton (Vic.),71.6,75.6,79.7
+Balwyn,73.6,77.2,81.5
+Balwyn North,73.2,76.7,81.9
+Camberwell,75.8,78.4,82
+Glen Iris - East,76.3,80.4,84.3
+Hawthorn East,77.9,81.1,84.3
+Kew East,73.8,76.3,82.1
+Surrey Hills (West) - Canterbury,77.3,78.6,83
+Hawthorn - North,81.1,81.1,84.9
+Hawthorn - South,80,83,85.8
+Kew - South,77.3,80.2,84.5
+Kew - West,74.7,77,81.8
+Bulleen,57.2,61.9,67.5
+Doncaster,63.1,68.7,73.5
+Templestowe,65.7,68.2,71.8
+Templestowe Lower,59.1,63.6,69.6
+Doncaster East - North,66.4,70.2,74.2
+Doncaster East - South,59.3,65.8,71.7
+Blackburn,64.3,71,76
+Blackburn South,58.5,64.8,70.6
+Box Hill,68,73.7,75.5
+Box Hill North,67.2,72.6,76.6
+Burwood (Vic.),66.2,74.4,75.3
+Burwood East,61.4,66.8,71
+Surrey Hills (East) - Mont Albert,74.7,79.6,82.7
+Beaumaris,68.6,70.4,76
+Brighton (Vic.),72.4,74.6,79.5
+Brighton East,69.4,73.1,78.1
+Highett (West) - Cheltenham,60.3,67.7,74.8
+Hampton,66.8,71.1,76.1
+Sandringham - Black Rock,67.1,71.1,75
+Bentleigh - McKinnon,67.6,72.3,77.7
+Carnegie,70.1,75.5,79.5
+Caulfield - North,75.5,78.1,82.1
+Caulfield - South,71.6,76.3,80.4
+Elsternwick,70.7,76.9,81.9
+Hughesdale,66,70.8,74.5
+Murrumbeena,71.3,75,78.9
+Ormond - Glen Huntly,73.4,78.1,80.5
+Bentleigh East - North,62.1,68.8,75.8
+Bentleigh East - South,57.8,65.2,72
+Aspendale Gardens - Waterways,59.7,64.9,69.5
+Braeside,25,33.3,54.8
+Carrum - Patterson Lakes,47.9,53.6,60.2
+Chelsea - Bonbeach,49.2,54.5,61.6
+Chelsea Heights,49.7,53.7,58.7
+Highett (East) - Cheltenham ,55.9,62.3,68.2
+Edithvale - Aspendale,55.6,60.7,68.1
+Mentone,60.1,65.9,71.4
+Moorabbin - Heatherton,60,64.1,70.8
+Moorabbin Airport,----,----,96.2
+Mordialloc - Parkdale,59,64.5,70.4
+Malvern - Glen Iris,76.9,78.9,83.1
+Malvern East,74.4,78.5,81.1
+Bundoora - East,52.1,57.6,61.3
+Greensborough,55.1,60.6,65.2
+Heidelberg - Rosanna,63.3,68,74.4
+Heidelberg West,51.2,56.5,66.3
+Ivanhoe,69.8,74.2,78.5
+Ivanhoe East - Eaglemont,74.6,77,81.2
+Montmorency - Briar Hill,57.6,62.2,67.3
+Viewbank - Yallambie,56.7,63.5,69.6
+Watsonia,50.7,56.5,63.1
+Kingsbury,68.9,71.6,72.7
+Preston - East,55.7,62.8,71.1
+Preston - West,59.8,66.7,71.8
+Reservoir - North East,47.8,55.5,62.9
+Reservoir - North West,38.3,45.7,51.8
+Reservoir - South East,49.1,55.2,61.5
+Reservoir - South West,53.1,62,68.1
+Eltham,63.1,67,71
+Hurstbridge,54.6,58.2,63.5
+Kinglake,43.6,43.7,46.9
+Panton Hill - St Andrews,56,55.7,60.3
+Plenty - Yarrambat,56.5,60.1,64
+Research - North Warrandyte,66.6,68.3,72.6
+Wattle Glen - Diamond Creek,54,59.3,64
+Bundoora - North,61.7,69.7,70.1
+Bundoora - West,48.6,55.3,58.5
+Mill Park - North,52.7,57.8,61.4
+Mill Park - South,52.4,57,60.7
+Thomastown,41.2,47.3,52.3
+Wallan,39.1,43.9,53.3
+Whittlesea,39.9,42,50.5
+Epping - East,45.4,52.4,54.5
+Epping - South,45.7,52.2,54.6
+Epping (Vic.) - West,65.7,68.3,71.8
+South Morang - North,59.8,65.4,69.8
+South Morang - South,51.1,55.5,61.4
+Wollert,46.7,67.3,74
+Doreen - North,56.6,57.6,62.7
+Doreen - South,59,60.3,67.5
+Lalor - East,39.4,45.1,52.7
+Lalor - West,41.9,51.1,55.6
+Mernda - North,55.3,58,66
+Mernda - South,59.1,62.6,69.3
+Airport West,45.8,51.9,60.5
+Essendon Airport,----,----,100
+Keilor,48.8,53,57.3
+Niddrie - Essendon West,56,61.9,67.7
+Strathmore,60.3,65.1,71.2
+Avondale Heights,48.5,52.4,58.5
+Keilor East,47.4,53,59.5
+Gisborne,52.7,55.8,61.3
+Macedon,60.8,62.5,69.4
+Riddells Creek,51.7,53.8,58.5
+Romsey,42.5,44.6,52.8
+Coburg North,51.9,61.2,67.7
+Fawkner,42.4,52.4,60.3
+Gowanbrae,59.8,63.4,67.5
+Hadfield,38.9,47.2,55.4
+Glenroy - East,43.4,53.6,61.2
+Glenroy - West,49.3,59.5,67.3
+Oak Park,57.9,63.4,71.8
+Pascoe Vale,53.6,62,69.4
+Sunbury,46.1,49,54.8
+Diggers Rest,37.2,45.5,60.5
+Sunbury - South,44.9,48,55.2
+Sunbury - West,46.1,50.5,55.8
+Broadmeadows,35,44.5,50.4
+Campbellfield - Coolaroo,35.7,42.3,46.5
+Gladstone Park - Westmeadows,45.3,49.8,54.3
+Greenvale - Bulla,52.2,59.2,64.9
+Meadow Heights,42.4,46.9,50.2
+Melbourne Airport,36.5,30.4,33.6
+Tullamarine,45.8,49.6,54.7
+Craigieburn - Central,42.7,47.3,52.2
+Craigieburn - North,56.4,62.5,65
+Craigieburn - South,45.4,55.5,61.3
+Mickleham - Yuroke,44.1,57.6,68.9
+Craigieburn - North West,77.9,72.3,72
+Craigieburn - West,61.5,62.3,66.3
+Roxburgh Park (South) - Somerton,51.6,58.1,61.7
+Roxburgh Park - North,52.4,55.4,57.7
+Bayswater,47.6,53.6,59.4
+Knoxfield - Scoresby,52.5,60.4,67.7
+Lysterfield,57,60.2,66.3
+Rowville - Central,57.3,62,66.6
+Rowville - North,58.4,62.3,66.5
+Rowville - South,58.9,63.6,67.8
+Wantirna,56.9,59.9,65.4
+Wantirna South,58.4,63.1,67.7
+Boronia,45.8,51.6,59
+Ferntree Gully - North,46.2,51.7,57.3
+Ferntree Gully (South) - Upper Ferntree Gully,47.1,52.5,59.3
+The Basin,47.2,51.3,57.2
+Donvale - Park Orchards,63.3,66.6,71.5
+Warrandyte - Wonga Park,61.3,62.8,68.8
+Bayswater North,46.5,51.3,57.3
+Croydon Hills - Warranwood,56.7,61.8,67.3
+Ringwood,54.3,59.9,66.5
+Ringwood East,54.5,61,67.5
+Ringwood North,60.6,64.1,69.4
+Croydon - East,46.9,51.5,57.7
+Croydon - West,47.4,54.1,60.2
+Croydon South,49.2,54.8,61.1
+Forest Hill,57.8,65,69.3
+Mitcham (Vic.),62.4,68.1,73.9
+Nunawading,61,65.2,70.4
+Vermont,59.9,66.2,72.3
+Vermont South,61,66.7,69.3
+Belgrave - Selby,53.9,57.8,63.4
+Chirnside Park,46.1,50.8,57.7
+Healesville - Yarra Glen,41.8,44.3,48.9
+Kilsyth,40.1,44.2,51.7
+Lilydale - Coldstream,43.6,46.8,52.8
+Monbulk - Silvan,46.3,49.3,54
+Montrose,44.3,49.1,55.5
+Mooroolbark,46.6,51.1,56.7
+Mount Dandenong - Olinda,62.2,64.2,69.4
+Mount Evelyn,44.7,47.8,54.7
+Upwey - Tecoma,54.8,60.8,65.6
+Wandin - Seville,38.6,42.9,48.8
+Yarra Valley,34.8,39.3,43.4
+Emerald - Cockatoo,46.1,50.1,55.3
+Beaconsfield - Officer,47.1,56.6,65.6
+Bunyip - Garfield,35.2,37.8,42.5
+Koo Wee Rup,29.2,30.8,42.2
+Pakenham - North East,41,44.7,52.8
+Pakenham - North West,43.3,53.2,61.5
+Pakenham - South East,32.4,33.7,46.6
+Pakenham - South West,43.9,49.6,55.9
+Berwick - North,49.4,55,59.6
+Doveton,38.9,43.4,49.3
+Hallam,50.3,54.1,57.1
+Narre Warren North,48.1,53.8,58.9
+Endeavour Hills - North,56.9,58.7,62.4
+Endeavour Hills - South,57.4,61.4,65.1
+Narre Warren - North East,49,55.4,59.1
+Narre Warren - South West,44.9,51.8,58
+Berwick - South East,57.4,64.1,68.8
+Berwick - South West,56.5,62.8,69.1
+Cranbourne,35.3,41.5,47.6
+Cranbourne South,37.1,43.2,58.7
+Cranbourne West,41.8,55.6,61.5
+Lynbrook - Lyndhurst,62.4,65.9,71.7
+Pearcedale - Tooradin,34.9,38.1,42.5
+Narre Warren South - East,53.4,59.2,63.1
+Narre Warren South - West,54.2,57.5,61.1
+Clyde North - North,----,75.2,76.6
+Clyde North - South,38.1,58.9,76
+Cranbourne East - North,50.6,60.4,64.3
+Cranbourne East - South,24.6,53.3,65.9
+Cranbourne North - East,66.8,68,71.8
+Cranbourne North - West,39.8,45.5,52.5
+Hampton Park - East,50.7,55.6,57.3
+Hampton Park - West,46.4,49.6,54.6
+Clarinda - Oakleigh South,52.8,57.8,61.7
+Clayton South,57.1,63.9,68.5
+Dandenong North,49.1,53.3,58.3
+Dingley Village,51.9,56.6,61.3
+Noble Park North,49,54,58.5
+Springvale,51.8,54.9,60
+Springvale South,48.3,53,55.2
+Noble Park - East,52.4,59.8,64
+Noble Park - West,48.6,54.2,59.4
+Dandenong - North,50.6,51.3,55.2
+Dandenong - South,37,44.5,48.9
+Keysborough - North,47.6,52.5,56.7
+Keysborough - South,64.4,73.4,77
+Ashwood - Chadstone,64.7,69.1,74.4
+Glen Waverley - East,67.1,73.1,77
+Glen Waverley - West,67.2,73,75.9
+Mount Waverley - North,67.3,72.7,78.4
+Mount Waverley - South,64.8,69.6,75.6
+Mulgrave,58.1,63.5,68.4
+Oakleigh - Huntingdale,61.4,66.5,72.1
+Wheelers Hill,63,65.7,68.3
+Clayton (North) - Notting Hill,77.2,83.9,80.6
+Clayton - Central,67.8,75.2,75.9
+Ardeer - Albion,48.5,53.8,59
+Cairnlea,61.4,65.4,67.5
+Delahey,49.1,54.9,56.4
+Keilor Downs,50,53.8,56.8
+Kings Park (Vic.),43.8,47.6,50.6
+St Albans - North,43.4,50,53.1
+St Albans - South,45.2,50.9,53.2
+Sunshine,50.3,56.9,62.8
+Sunshine North,44.5,50.7,56
+Sunshine West,44.4,50.4,55
+Sydenham,55.1,59.7,62.9
+Taylors Lakes,55.7,59.7,62.5
+Deer Park,47.2,53.1,56.3
+Derrimut,65.9,69.6,71.6
+Altona,48.4,55.3,61.7
+Altona Meadows,47.4,52.6,55.2
+Altona North,40.3,50.3,58.9
+Newport,60.3,67.7,73.3
+Seabrook,52.8,58.4,63.1
+Williamstown,63,66.7,71.4
+Braybrook,53.3,61.5,67.2
+Footscray,60.7,69.3,72.9
+Maribyrnong,67.6,71.4,76.3
+Seddon - Kingsville,67,71.7,77.1
+West Footscray - Tottenham,59.3,67.4,71.2
+Yarraville,63.4,69.1,75.4
+Bacchus Marsh,39.4,44.2,51.5
+Melton West,41.2,46,51.8
+Rockbank - Mount Cottrell,16.4,17.9,61.4
+Taylors Hill,63.2,66.5,70.2
+Burnside,50.4,56.5,61.8
+Burnside Heights,65.7,70.1,74.5
+Caroline Springs,64,65.7,69.2
+Brookfield,41.9,48.8,54.1
+Cobblebank - Strathtulloh,35.1,49.2,72.6
+Eynesbury - Exford,53.6,62.4,61.9
+Fraser Rise - Plumpton,33.7,67.6,73.9
+Hillside,55,59.6,64.1
+Kurunjang - Toolern Vale,38.5,42.1,48
+Melton,33.6,35.2,39.7
+Melton South - Weir Views,30.8,37.4,48.5
+Hoppers Crossing - North,48.4,51.6,56.2
+Hoppers Crossing - South,45.2,51.1,54.6
+Laverton,51.1,65.2,71.5
+Werribee - South,41.3,46.6,57.1
+Point Cook - East,72,73.6,75.9
+Point Cook - South,74.7,77.9,81.8
+Werribee - East,41.1,45.2,49.7
+Werribee - West,41,47.8,61.1
+Manor Lakes - Quandong,56.7,65.5,75.2
+Point Cook - North East,66.8,68.2,70.5
+Point Cook - North West,74.5,73.9,76.5
+Tarneit (West) - Mount Cottrell,35.5,39.8,78.9
+Tarneit - Central,60.9,71,75.3
+Tarneit - North,26.6,25.9,81.2
+Tarneit - South,53.9,65.7,70.1
+Truganina - North,1.1,0.5,70.8
+Truganina - South East,73.3,80.6,83.1
+Truganina - South West,64.2,73.1,74.9
+Wyndham Vale - North,43.9,50.8,65.7
+Wyndham Vale - South,44.7,51.5,56.3
+Carrum Downs,40.3,45.1,51.9
+Frankston,44.3,48.7,55.1
+Frankston North,34.6,39.7,46.2
+Frankston South,51.6,56.7,61.6
+Langwarrin,43.2,47,52.5
+Seaford (Vic.),42.7,47.7,53.7
+Skye - Sandhurst,51,55.9,59.8
+Dromana,37.9,43.4,49.1
+Flinders,56.7,59.9,65.7
+Hastings - Somers,39.6,43.2,49.1
+Mount Eliza,61.1,65.6,70.4
+Mount Martha,51.7,57.1,62.8
+Point Nepean,40.8,45.5,53
+Rosebud - McCrae,30.7,37.1,43.2
+Somerville,40.2,43.9,50.1
+Mornington - East,42,45.8,51.5
+Mornington - West,47.2,52.4,56.2
+Ararat,28.6,30.9,35.5
+Ararat Surrounds,39.3,39.7,43.3
+Horsham,34.4,38.1,42.1
+Horsham Surrounds,36.6,39.9,44.8
+Nhill Region,27.3,30.7,35.1
+St Arnaud,29.1,33,35
+Stawell,32,34.6,40.6
+West Wimmera,28.7,33.5,36.2
+Yarriambiack,25.7,29.2,33.7
+Irymple,32.7,36.8,41.5
+Merbein,28.4,30.4,34.3
+Mildura Surrounds,26.7,28.9,33.7
+Red Cliffs,27.1,30.1,34.9
+Mildura - North,33.2,36.2,40.3
+Mildura - South,33.4,36.9,42.9
+Buloke,29.9,31.2,36.3
+Gannawarra,24.2,26.7,29.4
+Kerang,24.6,27.7,30.8
+Robinvale,28.1,32.2,38.5
+Swan Hill,33.4,35.7,43.9
+Swan Hill Surrounds,27.5,29.5,36.6
+Echuca,31.5,34.6,39.2
+Kyabram,27.5,31.2,35.8
+Lockington - Gunbower,26.1,29.1,34.6
+Rochester,25.9,27.6,31.5
+Rushworth,25.6,28.8,32.3
+Cobram,27.6,30.4,33.9
+Moira,30.2,30.8,36.8
+Numurkah,27.9,31.5,35.1
+Yarrawonga,28.2,31.1,35.6
+Mooroopna,29.6,30.6,34
+Shepparton - North,38.6,42.4,49
+Shepparton Surrounds - East,35.8,39.1,44.3
+Shepparton Surrounds - West,31.2,34.2,38.5
+Kialla,41.8,46.4,52.3
+Shepparton - South East,30.6,33.7,38.7
+Glenelg (Vic.),29.6,30.4,34.8
+Hamilton (Vic.),33.9,36.3,41.6
+Portland,30.2,31.8,36.5
+Southern Grampians,36.8,39.4,44.3
+Camperdown,29.8,32.7,37.5
+Colac,30.6,33.5,39.8
+Colac Surrounds,33.7,37.8,44.6
+Corangamite - North,30.6,33.2,38.6
+Corangamite - South,32,35,39.8
+Otway,40.9,46.2,51.4
+Moyne - East,35.3,36.3,41.1
+Moyne - West,38.3,42,48
+Warrnambool - North,37.9,42.3,47.4
+Warrnambool - South,41,43.1,48.8
